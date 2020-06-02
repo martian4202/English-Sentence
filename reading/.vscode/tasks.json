@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "note",
+			"inputFile": "d:\\Documents\\tv scripts\\reading\\20200527.nl",
+			"outputFile": "d:\\Documents\\tv scripts\\reading\\output.txt",
+			"dictServer": "185.255.131.190:8080",
+			"problemMatcher": [],
+			"label": "note: 20200527.nl.configured"
+		}
+	]
+}
