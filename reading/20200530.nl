@@ -33,8 +33,3 @@ Even with all the privileges—jobs that could be safely continued from home, a 
  So you’d think the quarantine would <throw *me even further* down> a spiral of negativity.
 
  A <turning point>
-
- 
-
-
-

@@ -44,4 +44,10 @@ The <proceeds> from a carbon tax could raise over 1% of GDP early on and world t
 
 As is more likely now, help lower government debts, which are already <forecast> to reach an average 122% of GDP in the rich world this year, and will rise further if green investments are debt-financed.
 
-By itself, it is unlikely to create a network of electric-vehicle charging-points, more nuclear power plants to <underpin> the cheap but <intermittent> electricity supplied by renewables, programmes to <retrofit> inefficient buildings and to develop new technologies amied at reducing emissions that cannot simply be electrified away, such as those from large aircraft and some farms.
+By itself, it is unlikely to create a network of electric-vehicle charging-points, more nuclear power plants to <underpin> the cheap but <intermittent> electricity supplied by renewables, programmes to <retrofit> inefficient buildings and to develop new technologies aimed at reducing emissions that cannot simply be electrified away, such as those from large aircraft and some farms.
+
+Some governments have put their efforts into greening the COVID-19 <bail-outs>.
+
+Air France has been told either to <scrap> domestic routes that complete with high speed trains, powered by nuclear electricity, or to <forfeit> taxpayer assistance.
+
+But <dirigisme> <disguised> as a helping kind could have dangerous consequences: better to focuse on insisting that governments must not skews their bail-outs toward fossil fuels.
