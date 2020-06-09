@@ -33,3 +33,27 @@ Even with all the privileges—jobs that could be safely continued from home, a 
  So you’d think the quarantine would <throw *me even further* down> a spiral of negativity.
 
  A <turning point>
+ 
+ I found myself <yelling> at my printer in front of my son. “Why won’t this stupid thing print?” I screamed, barely holding in my <rage> and trying not to <curse>—not that “stupid” is much better. 
+
+Just like I tell him to do, I <took a few deep breaths> and walked away from the offending printer.
+
+Later that day when we were outside, I tried to maintain the sense of calm I had <tenuously> achieved.
+
+Once I <blocked out> all the anxiety over the virus, school, and my work—I found the afternoon peaceful and pleasant. 
+
+I played frisbee with my son, simply enjoying each other’s <company> while the birds <chirped>. It was an everyday moment I’ll never <take for granted> again.
+
+And, short of getting fired, neither is my work. Spending time with my family, and staying healthy emotionally and physically, became my main <concerns>. 
+
+We got up early and <tip-toed> into our backyard with binoculars to <bird watch>. 
+
+Normally someone who worries about every upcoming situation, not knowing what was to come was actually <freeing> for me. 
+
+There were no more schedules to <adhere> to, no more busy weekends filled with soccer games and birthday parties, or weekdays filled with deadlines and after-school activities. There was nothing but the here and now.
+
+By focusing on each other, I also realized, perhaps for the first time in my life, I was completely <present>. 
+
+Allowing myself to be present, I became <mindful> in a way I was never able to be before, noticing every sound of nature, every blossom that <popped up> as spring started to emerge.
+
+Not that he still sometimes didn’t <drive me crazy>—no one can parent 24/7 and not have frustration. But I have found more <contentment> to balance the craziness, and I’ve discovered an appreciation for the extra time we have together. 

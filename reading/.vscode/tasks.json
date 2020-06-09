@@ -3,11 +3,11 @@
 	"tasks": [
 		{
 			"type": "note",
-			"inputFile": "d:\\Documents\\tv scripts\\reading\\20200527.nl",
+			"inputFile": "d:\\Documents\\tv scripts\\reading\\20200526.nl",
 			"outputFile": "d:\\Documents\\tv scripts\\reading\\output.txt",
 			"dictServer": "185.255.131.190:8080",
 			"problemMatcher": [],
-			"label": "note: 20200527.nl.configured"
+			"label": "note: 20200526.nl.configure"
 		}
 	]
 }

@@ -50,4 +50,16 @@ Some governments have put their efforts into greening the COVID-19 <bail-outs>.
 
 Air France has been told either to <scrap> domestic routes that complete with high speed trains, powered by nuclear electricity, or to <forfeit> taxpayer assistance.
 
-But <dirigisme> <disguised> as a helping kind could have dangerous consequences: better to focuse on insisting that governments must not skews their bail-outs toward fossil fuels.
+But <dirigisme> <disguised> as a helping kind could have dangerous consequences: better to focus on insisting that governments must not <skew> their bail-outs toward fossil fuels.
+
+China--whose stimulus for heavy industry <sent *global emissions* soaring> after the global financial crisis--continue to build new coal plants.
+
+The covid-19 pause is not <inherently> climate-friendly.
+
+Their aim should be show by 2021, when they gather to take stock of progress made since the Paris agreement and <commit themselves to> <raising> their game, that the pandemic has been the <catalyst> for a breakthrough on the environment.
+
+The covid-19 has demonstrated that the foundations of <prosperity> are <precarious>.
+
+Disasters <long> talked about, and long ignored, can come upon you with no warning, turning life inside out and <shaking> all that seemed stable.
+
+If there is a monment for leaders to show bravery in <heading off> that disaster, this is it.
