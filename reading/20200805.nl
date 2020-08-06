@@ -59,3 +59,42 @@ By 2008, 35 firms had become the big four—Citigroup, Wells Fargo, JPMorgan Cha
 America’s pull within the system remains huge. When disasters strike, the dollar <surges>.
 
 That makes the institution that <mints> it the <metronome> of global markets.
+
+When panic <gripped> markets again this March, the Fed expanded the offer to some emerging countries.
+
+In April it widened it further, allowing most central banks and international institutions to exchange their American debt securities against greenbacks, thus <stalling> the <stampede>.
+
+The world’s financial <plumbing> remains under America’s thumb, too.
+
+American banks <capture> 52% of the world’s investment-banking fees.
+
+America’s <centrality> allows it to <cripple> <rivals> by denying them access to the world’s liquidity supply.
+
+Yet until recently it <refrained> from doing so.
+
+The first cracks appeared after 2001, when America started using it to <choke> funding for terrorism. 
+
+Organised crime and nuclear <proliferators> soon joined the list
+
+The <arsenal> gained <potency> under Barack Obama.
+
+After Russia’s invasion of Crimea in 2014, America punished <oligarchs>, companies and entire sectors of an economy twice the size of previous targets.
+
+President Donald Trump has since <elevated> the system for use as a weapon and used it against allies.
+
+Sanctions are now increasingly used <in conjunction with> other restrictions to <throttle> China.
+
+The Department of Commerce maintains a <jumble> of lists of entities with which other firms cannot deal. 
+
+In the short run the <opaque> nature of the whole system maximises the impact of sanctions. 
+
+Helped by plentiful capital and <permissive> rules, they have created cheap-to-run systems they are starting to export.
+
+<Propped up> by their huge home market, China’s “superapps” run ecosystems in which users spend their way without using actual money.
+
+Already <hobbled> by rising tariffs, global trade is likely to <fragment> further.
+
+The economic fallout in America—not least the fiscal impact of its $2.7trn stimulus measures—could <dent> confidence in its ability to repay debt, which underpins its bonds and currency.
+
+It ignored early warnings and <botched> its initial response.
+
