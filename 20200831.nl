@@ -17,3 +17,13 @@ On average, we found a big increase in support for <despots> in flawed democraci
 For example, Mexico’s approval for a strongman leader has surged from 39% to 70% over the past two decades, whereas New Zealand’s <ebbed> from 17% to 15%.
 
 Like previous analysts of the wvs, we found that young people tend to be the most susceptible to autocratic preferences. Right-wing and less-educated people also <lean> that way. 
+
+Whatever is driving people towards strongmen is affecting entire countries, not just <cohorts> within them.
+
+Abe Shinzo resigns, leaving <formidable> problems for his successor
+
+Japan’s new prime minister must <grapple> with huge debts, a shrinking population, an aggressive China and an unpredictable America.
+
+Earlier this week Mr Abe surpassed his great-uncle, Sato Eisaku, to became the longest-serving prime minister in a single <stint> since Japan established the role in the late 19th century.
+
+Concerns about Mr Abe’s health had <proliferated> following two hospital visits this month. 
