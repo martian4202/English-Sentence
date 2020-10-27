@@ -1,0 +1,1 @@
+Anthony Davis hit the first game-winning <buzzer beater> in the Conference Finals since Robert Horry.
