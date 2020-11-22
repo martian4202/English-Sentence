@@ -1,0 +1,1 @@
+An Internet service provider <incurs> cost by routing packets, so providers would prefer to route as little traffic as possible from other ISPs in which they are in <transit> relationships.
