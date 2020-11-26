@@ -1,0 +1,1 @@
+Energy efficiency is driven by both battery power and heat <dissipation>.
