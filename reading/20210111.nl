@@ -1,0 +1,1 @@
+Monica: Something went wrong with Underdog, and they couldn't get his head to <inflate>. So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is. Um, I've got something in my eye, uh, Joey, could we check it in the light, please?
