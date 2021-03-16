@@ -4,119 +4,13 @@ Rachel: Monica, your dad just beeped in(<beep in>), but can you make it quick? T
 
 Monica: The <fuzzy> little <mint>s at the bottom of her <purse>.
 
-Chandler: I just have to know, okay. Is it my hair?
-
-Rachel: (exasperated) Yes, Chandler, that's exactly what it is. It's your hair.
-
 Phoebe: Yeah, you have <homosexual> hair.
 
-(Monica and Ross enter.)
+Rachel: Sure. I just <sharpen>ed her this morning.
 
-Rachel: So, um, did she...
+Ross: I thought it was gonna be a closed <casket>.
 
-Ross: Twice.
-
-Joey: Twice?
-
-Phoebe: Oh, that sucks!
-
-Joey: You guys okay?
-
-Ross: I dunno, it's weird. I mean, I know she's gone, but I just don't feel, uh...
-
-Phoebe: Maybe that's 'cause she's not really gone.
-
-Ross: Nono, she's gone.
-
-Monica: We checked. A lot.
-
-Phoebe: Hm, I mean maybe no-one ever really goes. Ever since my mom died, every now and then, I get the feeling that she's like right here, y'know? (She circles her hand around her right shoulder. Chandler, sitting on her right, draws back nervously) Oh! And Debbie, my best friend from junior high- got struck by lightning on a miniature golf course- I always get this really strong Debbie vibe whenever I use one of those little yellow pencils, y'know? ...I miss her.
-
-Rachel: Aw. Hey, Pheebs, want this? (Gives her a pencil)
-
-Phoebe: Thanks!
-
-Rachel: Sure. I just sharpened her this morning.
-
-Joey: Now, see, I don't believe any of that. I think once you're dead, you're dead! You're gone! You're worm food! (realises his tactlessness) ...So Chandler looks gay, huh?
-
-Phoebe: Y'know, I dunno who this is, but it's not Debbie. (Hands back the pencil)
-
-[Scene: Nana's house, Ross, Mrs. Geller and Aunt Lillian are going through clothes.]
-
-Ross: I thought it was gonna be a closed casket.
-
-Mrs. Geller: Well, that doesn't mean she can't look nice!
-
-(They open a cupboard which, amongst other things, contains a chest of drawers)
-
-Mrs. Geller: Sweetie, you think you can get in there?
-
-Ross: (sarcastic) I don't see why not.
-
-(He tries pushing against the chest of drawers. Then he opens one of the drawers and climbs into the closet using that; he falls behind the chest of drawers with a shout.)
-
-Ross: Here's my retainer!
-
-[Scene: Monica and Rachel's, Monica is talking to her father.]
-
-Mr. Geller: I was just thinking. When my time comes-
-
-Monica: Dad!
-
-Mr. Geller: Listen to me! When my time comes, I wanna be buried at sea.
-
-Monica: You what?
-
-Mr. Geller: I wanna be buried at sea, it looks like fun.
-
-Monica: Define fun.
-
-Mr. Geller: C'mon, you'll make a day of it! You'll rent a boat, pack a lunch...
-
-Monica: ...And then we throw your body in the water... Gee, that does sound fun.
-
-Mr. Geller: Everyone thinks they know me. Everyone says 'Jack Geller, so predictable'. Maybe after I'm gone, they'll say 'Buried at sea! Huh!'.
-
-Monica: That's probably what they'll say.
-
-Mr. Geller: I'd like that.
-
-[Scene: Chandler's Office, Shelley is drinking coffee; Chandler enters.]
-
-Chandler: Hey, gorgeous.
-
-Shelley: (sheepish) Hey. Look, I'm sorry about yesterday, I, um-
-
-Chandler: No, nono, don't- don't worry about it. Believe me, apparently other people have made the same mistake.
-
-Shelley: Oh! Okay! Phew!
-
-Chandler: So, uh... what do you think it is about me?
-
-Shelley: I dunno, uh... you just have a-a...
-
-Chandler: ...Quality, right, great.
-
-Shelley: Y'know, it's a shame, because you and Lowell would've made a great couple.
-
-Chandler: Lowell? Financial Services' Lowell, that's who you saw me with?
-
-Shelley: What? He's cute!
-
-Chandler: Well, yeah... 's'no Brian in Payroll.
-
-Shelley: Is Brian...?
-
-Chandler: No! Uh, I d'know! The point is, if you were gonna set me up with someone, I'd like to think you'd set me up with someone like him.
-
-Shelley: Well, I think Brian's a little out of your league.
-
-Chandler: Excuse me? You don't think I could get a Brian? Because I could get a Brian. Believe you me. ...I'm really not.
-
-[Scene: Nana's Bedroom, Ross is holding a dress out from inside the closet.]
-
-Ross: (holding a dress out from inside the closet) This one?
+Shelley: Well, I think Brian's a little <out of your league>.
 
 Aunt Lillian: No.
 
