@@ -1,107 +1,14 @@
 Due to sector <granularity>, the call to readseg in the text is equivalent to readseg((uchar*)0x100000, 0xb500, 0x1000). In practice, this <sloppy> behavior turns out not to be a problem Why doesn’t the sloppy readsect cause problems?
 
+Rachel: Monica, your dad just beeped in(<beep in>), but can you make it quick? Talking to Rome. (Showing off to Phoebe and Chandler) I'm talking to Rome.
 
-Monica: Hello? Hello? Oh! Rachel, it's Paolo calling from Rome.
-
-Rachel: Oh my God! Calling from Rome! (Takes phone) Bon giorno, caro mio.
-
-Ross: (to Joey) So he's calling from Rome. I could do that. Just gotta go to Rome.
-
-Rachel: Monica, your dad just beeped in, but can you make it quick? Talking to Rome. (Showing off to Phoebe and Chandler) I'm talking to Rome.
-
-Monica: Hey dad, what's up? (Listens) Oh God. Ross, it's Nana.
-
-[Scene: The Hospital, Mr. and Mrs. Geller are there, along with Aunt Lillian. Ross and Monica enter and everyone says hi and kisses.)
-
-Ross: So, uh, how's she doing?
-
-Aunt Lillian: The doctor says it's a matter of hours.
-
-Monica: How-how are you, Mom?
-
-Mrs. Geller: Me? I'm fine, fine. I'm glad you're here. ...What's with your hair?
-
-Monica: What?
-
-Mrs. Geller: What's different?
-
-Monica: Nothing.
-
-Mrs. Geller: Oh, maybe that's it.
-
-(Monica strides over to Ross, who is making coffee, and talks to him aside.)
-
-Monica: She is unbelievable, our mother is...
-
-Ross: Okay, relax, relax. We are gonna be here for a while, it looks like, and we still have boyfriends and your career to cover.
-
-Monica: Oh God!
-
-(They hug.)
-
-[Cut to the hospital, later. Everyone is talking about Nana.]
-
-Monica: The fuzzy little mints at the bottom of her purse.
-
-Ross: Oh! ...Yeah, they were gross. Oh, you know what I loved? Her Sweet 'n' Los. How she was always stealing them from- from restaurants.
-
-Mr. Geller: Not just restaurants, from our house.
-
-(The nurse comes out of Nana's room.)
-
-Nurse: Mrs. Geller?
-
-(Everyone stands up. Cut to Ross and Monica in Nana's room.)
-
-Ross: She looks so small.
-
-Monica: I know.
-
-Ross: Well, at least she's with Pop-Pop and Aunt Phyllis now.
-
-Monica: G'bye, Nana. (She kisses her on the forehead.)
-
-Ross: Bye, Nana.
-
-(He goes to kiss her but she moves. Monica screams. Ross shouts and stares in disbelief. Monica runs out of the room.)
-
-Monica: Ross!
-
-(Ross runs out too.)
-
-Mrs. Geller: What is going on?!
-
-Ross: Y'know how-how the nurse said that-that Nana had passed? Well, she's not, quite..
-
-Mrs. Geller: What?
-
-Ross: She's not- past, she's present, she's back.
-
-Aunt Lillian: (reentering) What's going on?
-
-Mr. Geller: She may have died.
-
-Aunt Lillian: She may have died?
-
-Mr. Geller: We're looking into it.
-
-(Monica returns with the nurse and they go into Nana's room.)
-
-Ross: I, uh, I'll go see. (He goes in)
-
-Nurse: This almost never happens!
-
-(Nana passes for the second time and the nurse pulls the blanket over her. Ross and Monica go to tell the family)
-
-Ross: Now she's passed.
-
-[Scene: Central Perk, Chandler, Phoebe, Joey, and Rachel are there.]
+Monica: The <fuzzy> little <mint>s at the bottom of her <purse>.
 
 Chandler: I just have to know, okay. Is it my hair?
 
 Rachel: (exasperated) Yes, Chandler, that's exactly what it is. It's your hair.
 
-Phoebe: Yeah, you have homosexual hair.
+Phoebe: Yeah, you have <homosexual> hair.
 
 (Monica and Ross enter.)
 
