@@ -1,0 +1,3 @@
+We made this McConnell kid look like <prime> Steve Nash out there...
+
+NASA's Mars helicopter Ingenuity touches down(<touch down>) on the Red Planet
