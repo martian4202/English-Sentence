@@ -5,4 +5,3 @@ Gray #whales were once common <throughout> the Northern Hemisphere. Now, they ar
 Without <reveal>ing your age, what was the first video game you remember playing?
 
 LG <scrap>s its smartphone business as losses <mount>.
-
