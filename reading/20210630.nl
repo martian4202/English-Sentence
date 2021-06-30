@@ -1,90 +1,10 @@
-[Scene: A Street: Monica and Phoebe are walking to a newsstand.]
+Phoebe: Just wanna check my <horoscope>, see if it was right.
 
-Phoebe: Do you think they have yesterday's daily news?
+Monica: Oh my God. (Grabs Phoebe and turns her away) Phoebe. Don't look now, but behind us is a guy who has the potential to break our hearts and plunge us into a pit of depression(<plunge into>).
 
-Monica: Why?
+[Scene: Hospital, the guy is <in a coma> and Mon and Pheebs are visiting.]
 
-Phoebe: Just wanna check my horoscope, see if it was right.
-
-Monica: Oh my God. (Grabs Phoebe and turns her away) Phoebe. Don't look now, but behind us is a guy who has the potential to break our hearts and plunge us into a pit of depression.
-
-Phoebe: Where? (Turns to face him) Ooh, come to Momma.
-
-Monica: He's coming. Be cool, be cool, be cool.
-
-(The guy walks past them)
-
-Guy: Nice hat.
-
-Monica and Phoebe: (in unison) Thanks.
-
-(The guy walks on)
-
-Phoebe: We should do something. Whistle.
-
-Monica: We are not going to whistle.
-
-Phoebe: Come on, do it.
-
-Monica: No!
-
-Phoebe: Do it!
-
-Monica: No!
-
-Phoebe: Do it do it do it!
-
-Monica: (Shouts to the guy) Woo-woo!
-
-(The guy turns round, startled. Monica points to Phoebe. The guy gets hit by a truck)
-
-Phoebe: I can't believe you did that!
-
-Opening Credits
-
-[Scene: Hospital, the guy is in a coma and Mon and Pheebs are visiting.]
-
-Monica: Why did I 'woo-hoo'? I mean, what was I hoping would happen? That-that he'd turn round and say 'I love that sound, I must have you now'?
-
-Phoebe: I just wish there was something we could do. (Bends down and talks to him) Hello. Hello, Coma Guy. GET UP, YOU GIRL SCOUT! UP! UP! UP!
-
-Monica: Phoebe, what are you doing?
-
-Phoebe: Maybe nobody's tried this.
-
-Monica: I wish we at least knew his name... Look at that face. I mean, even sleeping, he looks smart. I bet he's a lawyer.
-
-Phoebe: Yeah, but did you see the dents in his knuckles? That means he's artistic.
-
-Monica: Okay, he's a lawyer, who teaches sculpting on the side. And- he can dance!
-
-Phoebe: Oh! And, he's the kinda guy who, when you're talking, he's listening, y'know, and not saying 'Yeah, I understand' but really wondering what you look like naked.
-
-Monica: I wish all guys could be like him.
-
-Phoebe: I know.
-
-[Scene: Monica and Rachel's, Monica and Phoebe are telling everyone about their coma guy.]
-
-Chandler: Are there no conscious men in the city for you two?
-
-Monica: He doesn't have anyone.
-
-Phoebe: Yeah, we-we feel kinda responsible.
-
-Joey: I can't believe you said woowoo. I don't even say woowoo.
-
-Rachel: Oh, she's coming up! She's coming up! (Turns on the TV)
-
-Jay Leno: (on TV) Folks, when we come back we'll be talking about her new book, 'Euphoria Unbound': the always interesting Nora Tyler Bing. You might wanna put the kids to bed for this one.
-
-(Everyone has settled down to watch, except Chandler)
-
-Chandler: Y'know, we don't have to watch this. Weekend At Bernie's is on Showtime, HBO, and Cinemax.
-
-Rachel: No way, forget it.
-
-Joey: C'mon, she's your mom!
+Monica: Okay, he's a lawyer, who teaches sculpting <on the side>. And- he can dance!
 
 Chandler: Exactly. Weekend At Bernie's! Dead guy getting hit in the groin twenty, thirty times! No?
 
