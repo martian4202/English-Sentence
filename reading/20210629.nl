@@ -1,0 +1,1 @@
+Sandy: Y'know, when I saw you at the store last week, it was probably the first time I ever <mentally undressed> an elf.
