@@ -1,0 +1,1 @@
+Giannis Antetokounmpo with one of the truly dominant Finals performances in history — including 50 points, 13 rebounds and 5 blocks in a clinching Game 6 — to <deliver> Milwaukee over Phoenix. For the first time in 50 years, the Bucks are NBA champions.
