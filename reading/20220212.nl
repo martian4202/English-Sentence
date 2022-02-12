@@ -1,137 +1,463 @@
-Ross: What, now?
+Ross: See, Rach, uh, see, I don't think that swearing off(<swear off>) guys altogether is the answer. I really don't. I think that what you need is to develop a more sophisticated screening process.
 
-Joey: Yes, now is when you swoop! You gotta make sure that when Paolo walks out of there, the first guy Rachel sees is you, She's gotta know that you're everything he's not! You're like, like the anti-Paolo!
+Rachel: That is it! You just <barge> in here, you don't knock
 
-Chandler: My Catholic friend is right. She's distraught. You're there for her. You pick up the pieces, and then you usher in the age of Ross! (Ross and Chandler look off into the distance. Joey, wondering what they are looking at, looks in the same direction)
+Phoebe: I know, I know. So sweet... and so complicated. And for a <shrink>, he's not too shrinky, y'know?
 
-[Scene: Monica and Rachel's Balcony, Rachel is throwing Paolo's clothes over the side.]
+Rachel: Nice? They were nice. I mean, that's it? I mean, <mitten>s are nice.
 
-Paolo: No, that's cold, that's cold, that's...
+Roger: Oh, just seems as though that maybe you have <intimacy> issues. Y'know, that you use your humour as a way of keeping people at a distance.
 
-[Cut to inside the apartment.]
+Roger: I mean hey! I just met you, I don't know you from Adam. ...Only child, right? Parents divorced before you hit <puberty>.
 
-Ross: (entering) How's it going?
+Mr. Tribbiani: Just for a coupla days. I got a job midtown. I figure I'm better off staying with the kid than hauling my ass back and forth on the ferry. (Sees Roger) I don't know this one.
 
-Monica: Don't stare. Now she just finished throwing his clothes off the balcony, now there's just a lot of gesturing and arm-waving, (shows Rachel gesturing with hands in front of her chest), Ok, that is either, "How could you?" or, "Enormous breasts!" Here he comes!
+Phoebe: Oh, this is my friend Roger.
 
-Phoebe: Ooh!
+Roger: Hi.
 
-(Paolo enters. Ross, Phoebe, and Monica scatter)
+Mr. Tribbiani: Hey, hey. Good to meet you, Roger.
 
-Paolo: Uh, I am, uh, to say good-bye.
+Roger: You too, sir.
 
-Phoebe: Oh, ok bye-bye.
+Mr. Tribbiani: (To Phoebe) What happened to the, uh, puppet guy?
 
-Monica: Paolo, I really hate you for what you did to Rachel, (hands him a lasagna) but I still have five of these, so heat it at 375 until the cheese bubbles.
+Joey: Dad, dad. (Shakes his head)
 
-Paolo: Grazie.
+Mr. Tribbiani: Oh, 'scuse me. So Ross, uh, how's the wife? (Ross whines and lays his head on Chandler's shoulder) Off there too, uh? Uh, Chandler, quick, say something funny!
 
-Ross: Paolo, I-I just want to tell you and I think I speak for everyone when I say... (shuts door in his face and walks away)
+(Chandler stays stonefaced)
 
-Phoebe: Oh, just look at her... (girls move toward Rachel on the balcony)
+[Scene: Chandler and Joey's, Mr. Tribbiani is on the phone.]
 
-Ross: Oh you guys, I-I really think just one of us should go out there so she's not overwhelmed...
+Mr. Tribbiani: Gotta go. I miss you too, I love you, but it's getting real late now
 
-Monica: Oh, you're right.
+Joey: (Snatches the phone) Hey Ma. Listen, I made the appointment with Dr. Bazida, and... Excuse me? (To his dad) Did you know this isn't Ma?
 
-Ross: (pulls Monica back) ...and I really think it should be me.
+(His dad nods. Cut to later. Joey is chopping mushrooms)
 
-[Cut to the balcony, Ross has just climbed through the window.]
+Mr. Tribbiani: Her name's Ronni. She's a pet mortician.
 
-Ross: Hey.
+Joey: Sure. So how long you been... (Goes back to chopping)
 
-Rachel: Hey.
+Mr. Tribbiani: Remember when you were a little kid, I used to take you to the navy yard and show you the big ships?
 
-Ross: You all right?
+Joey: Since then?!
 
-Rachel: Ooh, I've been better...
+Mr. Tribbiani: No, it's only been six years. I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy. ...Joe. Y'ever been in love?
 
-Ross: Come here. (he hugs Rachel) Listen, you deserve so much better than him...you know, I mean, you, you, you should be with a guy who knows what he has when he has you.
+Joey: ...I d'know.
 
-Rachel: Oh, Ross...
+Mr. Tribbiani: Then y'haven't. You're burning your tomatoes.
 
-Ross: What?
+Joey: You're one to talk. (Puts the mushrooms in a saucepan)
 
-Rachel: I am so sick of guys. I don't want to look at another guy, I don't want to think about another guy, I don't even want to be near another guy. (Ross crosses arms)
+Mr. Tribbiani: Joe, your dad's in love big time. And the worst part of it is, it's with two different women.
 
-Ross: Huh.
+Joey: Oh man. Please tell me one of 'em is Ma.
 
-Rachel: Oh Ross, you're so great!
+Mr. Tribbiani: Of course, course one of 'em's Ma. What's the matter with you.
 
-Ross: Ohhhh (Hugs her and sighs)
+[Scene: Monica and Rachel's, Joey is lamenting to everyone about hid dad's affair.]
 
-[Cut to inside the apartment, Rachel and Ross are entering.]
+Joey: It's like if you woke up one day and found out your dad was leading this double life. He's like actually some spy, working for the C.I.A. (Considers) That'd be cool.... This blows!
 
-Monica: Ooh...hey honey, are you all right?
+Rachel: I know, I mean, why can't parents just stay parents? (She walks over near Chandler and his gaze stays very obviously on her chest) Why do they have to become people? Why do they have... (Notices Chandler) Why can't you stop staring at my breasts?
 
-Rachel: Oh...
+Chandler: (Without looking up) What? (Looks up) What?
 
-Phoebe: You ok?
+Rachel: Did you not get a good enough look the other day?
 
-Rachel: ...medium...hmm...any cookies left?
+Ross: Alright, alright. We're all adults here, there's only one way to resolve this. Since you saw her boobies, I think, uh, you're gonna have to show her your peepee.
 
-Phoebe: Yep!
+Chandler: Y'know, I don't see that happening?
 
-Ross: See, Rach, uh, see, I don't think that swearing off guys altogether is the answer. I really don't. I think that what you need is to develop a more sophisticated screening process.
+Rachel: C'mon, he's right. Tit for tat.
 
-Rachel: No. I just need to be by myself for a while, you know? I just got to figure out what I want
+Chandler: Well I'm not showing you my 'tat.'
 
-Ross: Uh, no, no, see, because not...not all guys are going to be a Paolo.
+(Door buzzer goes)
 
-Rachel: No, I know, I know, and I'm sure your little boy is not going to grow up to be one.
+Monica: Hello?
 
-Ross: (astonished) What?
+Phoebe: (Intercom) It's Phoebe.
 
-Rachel: What?
+Roger: (Intercom) And Rog.
 
-Ross: I-I'm, I'm having a boy?
+Monica: C'mon up.
 
-Rachel: Uh...no. No, no, in fact, you're not having a boy.
+Chandler: (Sarcastic) Oh, good. Rog is here.
 
-Ross: Wha-I'm having, I'm having a boy! (babbling) Huh, am I having a boy?
+Joey: What's the matter with Rog?
 
-Girls: Yes, you're having a boy! (Monica runs over and hugs Ross)
+Ross: Yeah.
 
-Ross: I'm having a boy! Oh, I'm having a boy!
+Chandler: Oh, it's nothing, it's a little thing... I hate that guy.
 
-(Joey and Chandler run in)
+Ross: What, so he was a little analytical. That's what he does, y'know? C'mon, he's not that bad.
 
-Chandler: Wha-
+(Cut to Chandler, Ross and Roger sitting at the table. Ross is upset)
 
-Joey: Wha-
+Ross: Y'see, that's where you're wrong. Why would I marry her if I thought on any level thatthat she was a lesbian?
 
-Joey and Chandler: What is it?
+Roger: I dunno. Maybe you wanted your marriage to fail.
 
-Ross: I'm having a boy! I-I'm having a boy!
+Ross: Why? Why would I why? Why? Why? Why?
 
-Joey: Hey!
+Roger: I don't know. Maybe maybe low self-esteem, maybe maybe to compensate for overshadowing a sibling, maybe you...
 
-Chandler: Hey!
+Monica: Wait-wait, go back to that sibling thing.
 
-Joey and Chandler: We already knew that! (they hug)
+Roger: Well, I don't know. I mean, it's conceivable that you wanted to sabotage your marriage so that the sibling would feel less of a failure in the eyes of the parents.
 
-Ross: I'm having a son. Um...
+Ross: That that's ridiculous! I don't feel guilty for her failures!
 
-(Ross looks scared)
+Monica: Oh! So you think I'm a failure!
+
+Phoebe: Isn't he good?
+
+Ross: Nonono, thatthat's not what I was saying...
+
+Monica: Y'know, all these years, I thought you were on my side. But maybe what you were doing was sucking up to Mom and Dad so they'd keep liking you better!
+
+Ross: Hey, I married a lesbian to make you look good!
+
+(Cut to later. Rachel is in tears)
+
+Rachel: You're right! I mean you're right! It wasn't just the Weebles, but it was the Weeble Play Palace, and and the Weebles' Cruise Ship. Oh, which had this little lifeboat for the Weebles to wobble in.
+
+Roger: That's tough. Tough stuff. C'mon, Pheebs, we're gonna catch that movie, we gotta get going.
+
+Phoebe: Oh, okay. Feel better, Rachel, 'kay?
+
+Roger: Geez, we're gonna be late, sweetie...
+
+Phoebe: Oh, okay. Listen, thanks for everything, Mon.
+
+Monica: You're welcome.
+
+Roger: Listen guys, it was great seeing you again. Mon, um, easy on those cookies, okay? Remember, they're just food, they're not love.
+
+(He shuts the door and Ross and Monica fling cookies at it)
+
+Monica: Hate that guy! (Throws another cookie)
+
+[Scene: The Hallway, Chandler and Joey are just leaving Monica and Rachel's.]
+
+Joey: Night, you guys.
+
+(They notice that a woman is sitting by their door)
+
+Chandler: Oh look, it's the woman we ordered.
+
+Joey: Hey. Can, uh, can we help you?
+
+Ronni: Oh, no thanks, I'm just waiting for, uh, Joey Tribbiani.
+
+Joey: I'm Joey Tribbiani.
+
+Ronni: Oh no, not you, big Joey. Oh my God, you're so much cuter than your pictures! (Joey stares at her) I-I'm, I'm Ronni....Cheese Nip?
+
+Chandler: Uh, Joey's having an embolism, but I'd go for a Nip, y'know?
+
+Commercial Break
+
+[Scene: Chandler and Joey's, Ronni is talking to Chandler. Joey's dad is not around.]
+
+Ronni: Now, y'see, most people, when their pets pass on, they want 'em sorta laid out like they're sleeping. But occasionally you get your person who wants them in a pose. Like, chasing their tail, (Demonstrates) or, uh, jumping to catch a frisbee.
+
+Chandler: Joey, if I go first, I wanna be looking for my keys.
+
+Ronni: That's a good one!
+
+(Joey's dad enters.)
+
+Mr. Tribbiani: Hey, Joe.
+
+Joey: Dad, Ronni's here.
+
+Mr. Tribbiani: Huh?
+
+Ronni: Hi.
+
+Mr. Tribbiani: Hey! Hello, babe! Wh what're what're you doing here?
+
+Ronni: Oh, uh, well, you left your good hair at my apartment, I figured you'd need it tomorrow for your meeting. (Hands him the hair)
+
+Mr. Tribbiani: Thank you. Uh...
+
+Chandler: So, who's up for a big game of Kerplunk?
+
+Ronni: Look, I uh, I shouldn'ta come. I-I'd better get going, I don't wanna miss the last train.
+
+Mr. Tribbiani: I don't want you taking that thing.
+
+Ronni: Oh, where'm I gonna stay, here?
+
+Joey: Who-ah-ho.
+
+Mr. Tribbiani: We'll go to a hotel.
+
+Ronni: (Shrugs) We'll go to a hotel.
+
+Joey: No you won't.
+
+Ronni: No we won't.
+
+Joey: If you go to a hotel you'll be...doing stuff. I want you right here where I can keep an eye on you.
+
+Mr. Tribbiani: You're gonna keep an eye on us?
+
+Joey: That's right, mister, and I don't care how old you are, as long as you're under my roof you're gonna live by my rules. And that means no sleeping with your girlfriend.
+
+Ronni: Wow. He's strict.
+
+Joey: Now dad, you'll be in my room, Ronni uh, you can stay in Chandler's room.
+
+Ronni: Thanks. You're, uh, you're a good kid.
+
+Chandler: C'mon, I'll show you to my room. ...That sounds so weird when it's not followed by "No thanks, it's late."
+
+Joey: Okay. Now this is just for tonight. Starting tomorrow, you gotta make a change. This has gone on long enough.
+
+Mr. Tribbiani: What kinda change?
+
+Joey: Well, either you break it off with Ronni
+
+Mr. Tribbiani: I can't do that!
+
+Joey: Then you gotta come clean with Ma! This is not right!
+
+Mr. Tribbiani: Yeah, but this is
+
+Joey: I don't wanna hear it! Now go to my room!
+
+[Scene: Chandler and Joey's, night. Chandler and Joey are sharing the sofabed in the living room. Joey is restless.]
+
+Chandler: Hey, Kicky. What're you doing?
+
+Joey: Just trying to get comfortable. I can't sleep in my underwear.
+
+Chandler: Well, you're gonna.
+
+Joey: I've been thinking. Y'know, about how I'm always seeing girls on top of girls...
+
+Chandler: Are they end to end, or tall like pancakes?
+
+Joey: Y'know what I mean, about how I'm always going out with all these women. And I always figured, when the right one comes along, I'd be able to be a stand-up guy and go the distance, y'know? Now I'm looking at my dad, thinking...
+
+Chandler: Hey, you're not him. You're you. When they were all over you to go into your father's pipe-fitting business, did you cave?
+
+Joey: No.
+
+Chandler: No. You decided to go into the out-of-work actor business. Now that wasn't easy, but you did it! And I'd like to believe that when the right woman comes along, you will have the courage and the guts to say "No thanks, I'm married."
+
+Joey: You really think so?
+
+Chandler: Yeah. I really do.
+
+Joey: Thanks, Chandler. (Snuggles up to him)
+
+Chandler: Get off!
+
+[Scene: Monica and Rachel's, morning. Someone knocks on the door and Monica gets it.]
+
+Ronni: Hi.
+
+Monica: Hi...May I help you?
+
+Ronni: Yeah, uh, Joey said I could use your shower, since, uh, Chandler's in ours?
+
+Monica: Okay...who are you?
+
+Ronni: Oh, I'm Ronni. Ronni Rappelano? The mistress?
+
+Monica: Oh, c'mon in.
+
+Ronni: Thanks.
+
+Rachel: Hi, I'm Rachel.
+
+Ronni: Hi.
+
+Rachel: Bathroom's up there.
+
+Ronni: Great.
+
+Rachel: Hey, listen, Ronni, how long would you say Chandler's been in the shower?
+
+Ronni: Oh, like, uh, five minutes?
+
+Rachel: Perfect. Fasten your seatbelts, it's peepee time. (She goes into Joey and Chandler's apartment, where Mr. Tribbiani is reading the paper) Hey, Mr. Trib.
+
+Mr. Tribbiani: Hey. Morning, dear.
+
+(Rachel goes up to the door of their bathroom)
+
+Rachel: Chandler Bing? It's time to see your thing.
+
+(She opens the door and whips back the curtain. It's Joey. They both scream)
+
+Joey: (Runs out in a towel) What's the matter with you?!
+
+Rachel: I thought it was Chandler!
+
+Chandler: (Comes out of his room) What? What?
+
+Rachel: You were supposed to be in there so I could see your thing!
+
+Chandler: Sorry, my my thing was in there with me.
+
+[Scene: Central Perk, everyone is there as Phoebe enters.]
+
+All: Hey, Pheebs.
+
+Phoebe: Hey.
+
+Monica: How's it going?
+
+Phoebe: Good. Oh oh! Roger's having a dinner thing and he wanted me to invite you guys.
+
+(Chandler laughs)
+
+Phoebe: So what's going on?
+
+Monica: Nothing, um, it's just, um... It's Roger.
+
+Ross: I dunno, there's just something about...
+
+Chandler: Basically we just feel that he's...
+
+Rachel: We hate that guy.
+
+All: Yeah. Hate him.
+
+Ross: We're sorry, Pheebs, we're sorry.
+
+Phoebe: Uh-huh. Okay. Okay, don't you think, maybe, though, it's just that he's so perceptive that it freaks you out?
+
+All: ...No, we hate him.
+
+Rachel: We're sorry.
+
+[Scene: Chandler and Joey's apartment, Joey is trying to turn the sofabed back into a sofa. Someone knocks on the door and it rears up at him.]
+
+Joey: Ma! What're you doing here?
+
+Mrs. Tribbiani: I came to give you this (Gives him a bag of groceries) and this. (Whacks him round the ear)
+
+Joey: Oww! Big ring!
+
+Mrs. Tribbiani: Why did you have to fill your father's head with all that garbage about making things right? Things were fine the way they were! There's chicken in there, put it away. For God's sake, Joey, really. (She gives the sofabed a tiny push and it folds away)
+
+Joey: Hold on, you-you knew?
+
+Mrs. Tribbiani: Of course I knew! What did you think? Your father is no James Bond. You should've heard some of his cover stories. "I'm sleeping over at my accountant's," I mean, what is that? Please!
+
+Joey: So then how could you I mean, how could you?!
+
+Mrs. Tribbiani: Do you remember how your father used to be? Always yelling, always yelling nothing made him happy, nothing made him happy, not that wood shop, not those stupid little ships in the bottle, nothing. Now he's happy! I mean, it's nice, he has a hobby.
+
+Joey: Ma, I don't mean to be disrespectful, but... what the hell are you talking about?! I mean, what about you?
+
+Mrs. Tribbiani: Me? I'm fine. Look, honey, in an ideal world, there'd be no her, and your father would look like Sting. And I'll tell you something else. Ever since that poodle-stuffer came along, he's been so ashamed of himself that he's been more attentive, he's been more loving... I mean, it's like every day's our anniversary.
+
+Joey: I'm...happy...for you?
+
+Mrs. Tribbiani: Well don't be, because now everything's screwed up. I just want it the way it was.
+
+Joey: Ma, I'm sorry. I just did what I thought you'd want.
+
+Mrs. Tribbiani: I know you did, cookie. Oh, I know you did. So tell me. Did you see her?
+
+Joey: Yeah. You're ten times prettier than she is.
+
+Mrs. Tribbiani: That's sweet. Could I take her?
+
+Joey: With this ring? (Her engagement ring.) No contest.
+
+[Scene: Central Perk. Phoebe is there with Roger.]
+
+Roger: What's wrong, sweetie?
+
+Phoebe: Nothing, nothing.
+
+Roger: Aaaah, what's wrong, c'mon. (Pats his leg. She lies down and rests her head in his lap)
+
+Phoebe: It's, I mean, it's nothing, I'm fine. It's my friends. They-they have a liking problem with you. In that, um, they don't.
+
+Roger: Oh. They don't.
+
+Phoebe: But they don't see all the wonderfulness that I see. They don't see all the good stuff and all the sweet stuff. They just think you're a little...
+
+Roger: What?
+
+Phoebe: Intense and creepy.
+
+Roger: Oh.
+
+Phoebe: But I don't. Me, Phoebe.
+
+Roger: Well, I'm not I'm not at all surprised they feel that way.
+
+Phoebe: You're not? See, that's why you're so great!
+
+Roger: Actually it's, it's quite, y'know, typical behaviour when you have this kind of dysfunctional group dynamic. Y'know, this kind of co-dependant, emotionally stunted, sitting in your stupid coffee house with your stupid big cups which, I'm sorry, might as well have nipples on them, and you're like all 'Oh, define me! Define me! Love me, I need love!'.
+
+[Scene: Monica and Rachel's, Joey is letting everyone in on the new developments.]
+
+Monica: So you talked to your dad, huh.
+
+Joey: Yeah. He's gonna keep cheating on my ma like she wanted, she's gonna keep pretending she doesn't know even though she does, and my little sister Tina can't see her husband any more because he got a restraining order...which has nothing to do with anything except that I found out today.
+
+Rachel: Wow.
+
+Chandler: Things sure have changed here on Waltons mountain.
+
+Ross: So Joey, you okay?
+
+Joey: Yeah, I guess. It's just parents, after a certain point, you gotta let go. Even if you know better, you've gotta let them make their own mistakes.
+
+Rachel: Just think, in a couple of years we get to turn into them.
+
+Chandler: If I turn into my parents, I'll either be an alcoholic blond chasing after twenty-year-old boys, or... I'll end up like my mom.
+
+Phoebe: (entering) Hey.
+
+All: Hey, Pheebs.
+
+Monica: How's it going?
+
+Phoebe: Oh, okay, except I broke up with Roger.
+
+All: Awww.
+
+Phoebe: Yeah, right.
+
+All: Aaawwwwww!!
+
+Rachel: What happened?
+
+Phoebe: I don't know, I mean, he's a good person, and he can be really sweet, and in some ways I think he is so right for me, it's just... I hate that guy!
 
 Closing Credits
 
-[Scene: Chandler and Joey's, Monica is busy killing Chandle and Joey at foosball.]
+[Scene: Monica and Rachel's. Phoebe is reading the paper and Joey enters.]
 
-Monica: Yes! And that would be a shut-down!
+Phoebe: Hey, Joey. What's going on?
 
-Joey and Chandler: Shut-out!! (They both start heading for their rooms.)
+Joey: Clear the tracks for the boobie payback express. Next stop: Rachel Green. (He goes into the bathroom. We hear a scream and he comes out, closely followed by Monica in a towel)
 
-Monica: Where are you guys going? Come on, one more game!
+Monica: Joey!! What the hell were you doing?!
 
-Joey: Uh, it's 2:30 in the morning!
+Joey: Sorry. Wrong boobies.
 
-Chandler: Yeah, get out!
+(He leaves. Cut to Monica entering Chandler and Joey's apartment. She sneaks up to the shower door)
 
-Monica: You guys are always hanging out in my apartment! Come on, I'll only use my left hand, huh? Come on, wussies! (Joey and Chandler pick her up) All right, ok, I gotta go. I'm going, (they throw her out) and I'm gone.
+Monica: Hello, Joey.
 
-Chandler: (to Joey) One more game?
+(She whips back the curtain to reveal Joey's dad)
 
-Joey: Oh yeah!
+Mr. Tribbiani: Oh! ...Hello, dear. (She whips the curtain shut in horror)
 
 End
