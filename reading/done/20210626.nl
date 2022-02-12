@@ -1,0 +1,1 @@
+ESPN story on Chauncey Billups and the Trail Blazers progressing in contract talks expected to <culminate> in a coaching deal this weekend:
