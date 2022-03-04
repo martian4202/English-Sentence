@@ -15,3 +15,7 @@ Western officials have additionally said that Russian troops have moved to <jump
 Russian President Vladimir Putin will reportedly <oversee> Russian nuclear <drill>s on Saturday, February 19, as well.
 
 Those drills are being conducted <out of> the usual exercise cycle and are clearly intended to <deter> any Western response to an attack.
+
+Launching the attack during those drills would take maximal advantage of their <deterrent> effect.
+
+Russian proxy <provocation>s in eastern Ukraine have increased dramatically since February 16, including an <artillery> <barrage> that damaged a kindergarten in unoccupied Ukraine and multiple other proxy attacks.[
