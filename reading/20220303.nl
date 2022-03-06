@@ -1,7 +1,3 @@
-> https://www.understandingwar.org/backgrounder/russia-ukraine-warning-update-new-indicators-imminent-russian-attack
-
-> https://www.understandingwar.org/backgrounder/ukraine-conflict-updates
-
 Russia-Ukraine Warning Update: New Indicators of <Imminent> Russian Attack
 
 Russia may <launch an attack> on Ukraine on Saturday, February 19, 2022.
