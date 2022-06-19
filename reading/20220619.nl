@@ -1,0 +1,1 @@
+The Donbas is more important because that is where the vast majority of casualties(<casualty>) are being sustained, and the relative rate of losses is strategically important. Russia chose to make the Donbas the priority, but so is Ukraine by <committing reserves to hold it> (at high cost).

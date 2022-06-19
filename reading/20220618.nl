@@ -1,0 +1,1 @@
+How to have SEX with monkeypox: @CDCgov releases bizarre guide telling patients to 'keep their clothes on' or '<masturbate> six feet from their partner' if the urge arises while infected.
