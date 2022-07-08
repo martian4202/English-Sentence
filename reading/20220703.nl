@@ -36,5 +36,5 @@ Let's <walk thought> that scene one more time. <br>Let's walk through the possib
 
 She walked up(<walk up>) to the manager and asked for a job.
 
-<Grind up> the gloves for the coffee recipe.
+<Grind up> the gloves for the coffee recipe. <br>She has a special machine to grind up the chicken.
 
