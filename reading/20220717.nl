@@ -13,4 +13,12 @@ They'll just <grow out of> them so fast. <br>I wish he'd grow out of this temper
 When I <grow up>, I want to teach English. <br>I want my children to grow up around their grandparents.
 
 
+Alright guys, the food is going to get cold so <dig in>.
 
+He keeps trying to get me to change my mind but I'm digging in my heels(<dig in my heels>).
+
+It took forever, but I dug up(<dig up>) the instructions on how to work the coffee maker. <br>They are trying to dig up evidence to put him in jail.
+
+I need to <dig out> that file. It's at very back. <br>After the earthquake, they tried for days to dig out survivors. <br> I hate it when I have to dig something out that's at the very bottom of my purse.
+
+I dig(<dig it>) you shoes. <br> I dig this lesson on phrasal verbs.
