@@ -1,0 +1,1 @@
+In many organizations, deployment tools automatically <shepherd> releases from development to production. 
