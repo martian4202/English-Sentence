@@ -1,24 +1,6 @@
-﻿able
-a. have the skills and qualifications to do things well
-a. having inherent physical or mental ability or capacity
-
-about
-ad. used of movement to or among many different places or in no particular direction
-ad. (of quantities) imprecise but fairly close to correct
-
-above
-ad. at an earlier place
-ad. in or to a place that is higher
-above-mentioned
-a. mentioned or named earlier in the same text
-
-abreast
+﻿abreast
 a. being up to particular standard or level especially in being up to date in knowledge
 ad. alongside each other, facing in the same direction
-
-abroad
-ad. in a place across an ocean
-ad. far away from home or one's usual surroundings
 
 abrogation
 n. the act of abrogating; an official or legal cancellation
@@ -28,45 +10,17 @@ ad. quickly and without warning
 absent-minded
 a. lost in thought; showing preoccupation
 
-abstraction
-n. a general concept formed by extracting common features from specific examples
-n. a concept or idea not associated with any specific instance
-
 accent
 n. the relative prominence of a syllable or musical note (especially with regard to stress or pitch)
 v. to stress, single out as important
-
-accept
-v. take on as one's own the expenses or debts of another person
-v. give an affirmative reply to; respond favorably to
-
-acceptable
-a. adequate for the purpose
-a. judged to be in conformity with approved usage
-
-acceptance
-n. the state of being acceptable and accepted
-n. (contract law) words signifying consent to the terms of an offer (thereby creating a contract)
 
 accordance
 n. concurrence of opinion
 n. the act of granting rights
 
-according
-a. (followed by `to') in agreement with or accordant with
-a. (followed by `to') as reported or stated by
-
-accordingly
-ad. in accordance with
-ad. (sentence connectors) because of the reason given
-
 accrued
 v. come into the possession of
 v. grow by addition
-
-accumulative
-a. increasing by successive addition
-a. marked by acquiring or amassing
 
 accurately
 ad. strictly correctly ad. with few mistakes
