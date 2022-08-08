@@ -1,53 +1,43 @@
-﻿abreast
+﻿<abreast>
 a. being up to particular standard or level especially in being up to date in knowledge
 ad. alongside each other, facing in the same direction
 
-abrogation
+<abrogation>
 n. the act of abrogating; an official or legal cancellation
 
-abruptly
+<abruptly>
 ad. quickly and without warning
 absent-minded
 a. lost in thought; showing preoccupation
 
-accent
+<accent>
 n. the relative prominence of a syllable or musical note (especially with regard to stress or pitch)
 v. to stress, single out as important
 
-accordance
+<accordance>
 n. concurrence of opinion
 n. the act of granting rights
 
-accrued
+<accrued>
 v. come into the possession of
 v. grow by addition
 
-accurately
-ad. strictly correctly ad. with few mistakes
-
-accustom
-v. make psychologically or physically used (to something)
-
-ache
+<ache>
 v. have a desire for something or someone who is not present
 n. a dull persistent (usually moderately intense) pain
 
-aching
+<aching>
 n. a dull persistent (usually moderately intense) pain
 a. causing a dull and steady pain
 
-acknowledgment
-n. a short note recognizing a source of information or of a quoted passage
-n. a statement acknowledging something or someone
-
-acre
+<acre>
 n. a territory of western Brazil bordering on Bolivia and Peru
 n. a town and port in northwestern Israel in the eastern Mediterranean
 
-acrobat
+<acrobat>
 n. an athlete who performs acts requiring skill and agility and coordination
 
-acrobatics
+<acrobatics>
 n. the performance of stunts while in flight in an aircraft
 n. the gymnastic moves of an acrobat
 
@@ -75,7 +65,7 @@ n. a theatrical performer
 actress
 n. a female actor
 
-actuality
+<actuality>
 n. the state of actually existing objectively
 
 add
@@ -105,7 +95,7 @@ advantage
 n. benefit resulting from some event or action
 n. the quality of having a superior or more favorable position
 
-advantageous
+<advantageous>
 a. giving an advantage
 a. appropriate for achieving a particular end; implies a lack of concern for fairness
 
@@ -114,7 +104,7 @@ adverb
 n. the word class that qualifies verbs or clauses
 n. a word that modifies something other than a noun
 
-adverbial
+<adverbial>
 a. of or relating to or functioning as an adverb
 n. a word or group of words function as an adverb
 
@@ -142,11 +132,11 @@ affair
 n. a usually secretive or illicit sexual relationship
 n. a vaguely specified concern
 
-afloat
+<afloat>
 a. aimlessly drifting
 a. covered with water
 
-aforesaid
+<aforesaid>
 a. being the one previously mentioned or spoken of
 
 afraid
@@ -169,7 +159,7 @@ afternoon
 n. the part of the day between noon and evening
 n. a conventional expression of greeting or farewell
 
-afterward
+<afterward>
 ad. happening at a time subsequent to a reference time
 
 again
@@ -179,18 +169,18 @@ age
 n. an era of history having some distinctive feature
 v. make older
 
-aggravation
+<aggravation>
 n. an exasperated feeling of annoyance
 n. action that makes a problem or a disease (or its symptoms) worse
 
-aggression
+<aggression>
 n. the act of initiating hostilities
 n. deliberately unfriendly behavior
 
 ago
 a. gone by; or in the past ad. in the past
 
-agonize
+<agonize>
 v. cause to agonize
 v. suffer agony or anguish
 
@@ -198,7 +188,7 @@ agree
 v. be in accord; be in agreement
 v. go together
 
-agreeably
+<agreeably>
 ad. in an enjoyable manner
 
 agreed
@@ -244,7 +234,7 @@ n. a duct that provides ventilation (as in mines)
 alarming
 a. frightening because of an awareness of danger
 
-alas
+<alas>
 ad. by bad luck
 
 alcohol
@@ -255,17 +245,14 @@ alcoholic
 a. addicted to alcohol
 a. characteristic of or containing alcohol
 
-alcoholism
+<alcoholism>
 n. habitual intoxication; prolonged and excessive intake of alcoholic drinks leading to a breakdown in health and an addiction to alcohol such that abrupt deprivation leads to severe withdrawal symptoms
 n. an intense persistent desire to drink alcohol...
 
-ale
+<ale>
 n. a general name for beer made with a top fermenting yeast; in some of the United States an ale is (by law) a brew of more than 4% alcohol by volume
 
-algebra
-n. the mathematics of generalized arithmetical operations
-
-alienation
+<alienation>
 n. the action of alienating; the action of causing to become unfriendly
 n. separation resulting from hostility
 
@@ -278,7 +265,7 @@ all
 ad. to a complete degree or to the full or entire extent (`whole' is often used informally for `wholly')
 a. completely given to or absorbed by
 
-allied
+<allied>
 a. related by common characteristics or ancestry
 a. of or relating to or denoting the Allies in World War I
 
@@ -286,7 +273,7 @@ allocation
 n. a share set aside for a specific purpose
 n. the act of distributing by allotting or apportioning; distribution according to a plan
 
-allotment
+<allotment>
 n. the act of distributing by allotting or apportioning; distribution according to a plan
 n. a share set aside for a specific purpose
 
@@ -315,7 +302,7 @@ always
 ad. at any time or in any event
 ad. without variation or change, in every case
 
-ambient
+<ambient>
 a. completely enveloping
 
 america
@@ -375,11 +362,11 @@ v. understand the meaning of
 ant
 n. social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers
 
-antecedent
+<antecedent>
 n. someone from whom you are descended (but usually more remote than a grandparent)
 n. the referent of an anaphor; a phrase or clause that is referred to by an anaphoric pronoun
 
-antonymous
+<antonymous>
 a. of words: having opposite meanings
 
 anxiously
@@ -418,11 +405,11 @@ apple
 n. native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits
 n. fruit with red or yellow or green skin and sweet to tart crisp whitish flesh
 
-appreciably
+<appreciably>
 ad. to a noticeable degree
 
 
-apprize
+<apprize>
 v. increase the value of
 v. make aware of
 
@@ -448,10 +435,10 @@ arbitration
 n. the act of deciding as an arbiter; giving authoritative judgment
 n. (law) the hearing and determination of a dispute by an impartial referee agreed to by both parties (often used to settle disputes between labor and management)
 
-archaeologist
+<archaeologist>
 n. an anthropologist who studies prehistoric people and their culture
 
-arctic
+<arctic>
 a. of or relating to the Arctic
 n. a waterproof overshoe that protects shoes from water or snow
 
@@ -459,7 +446,7 @@ argument
 n. a discussion in which reasons are advanced for and against some proposition or proposal
 n. (computer science) a reference or value that is passed to a function, procedure, subroutine, command, or program
 
-aristocratic
+<aristocratic>
 a. belonging to or characteristic of the nobility or aristocracy
 
 arm
@@ -508,18 +495,18 @@ as
 ad. to the same degree (often followed by `as')
 n. a very poisonous metallic element that has three allotropic forms; arsenic and arsenic compounds are used as herbicides and insecticides and various alloys; found in arsenopyrite and orpiment and real...
 
-asean
+<asean>
 n. an association of nations dedicated to economic and political cooperation in southeastern Asia and who joined with the United States to fight against global terrorism
 
-ash
+<ash>
 v. convert into ashes
 n. strong elastic wood of any of various ash trees; used for furniture and tool handles and sporting goods such as baseball bats
 
-ashore
+<ashore>
 ad. towards the shore from the water
 
 
-ashtray
+<ashtray>
 n. a receptacle for the ash from smokers' cigars or cigarettes
 
 asia
@@ -577,27 +564,27 @@ n. the 2nd largest ocean; separates North and South America on the west from Eur
 atmospheric
 a. relating to or located in the atmosphere
 
-attentively
+<attentively>
 ad. with attention; in an attentive manner
 
-attributable
+<attributable>
 a. capable of being attributed
 
 attribution
 n. assigning some quality or character to a person or thing
 n. assigning to a cause or source
 
-attributive
+<attributive>
 a. of adjectives; placed before the nouns they modify
 
 aunt
 n. the sister of your father or mother; the wife of your uncle
 
-aural
+<aural>
 a. relating to or characterized by an aura
 a. of or pertaining to hearing or the ear
 
-auspice
+<auspice>
 n. a favorable omen
 
 australia
@@ -647,6 +634,6 @@ ax
 v. terminate
 v. chop or split with an ax
 
-axial
+<axial>
 a. relating to or attached to the axis
 a. situated on or along or in the direction of an axis

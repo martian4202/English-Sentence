@@ -10,7 +10,7 @@ back
 n. the series of vertebrae forming the axis of the skeleton and protecting the spinal cord
 v. travel backward
 
-backdate
+<backdate>
 v. make effective from an earlier date
 
 background
@@ -25,7 +25,7 @@ backlog
 n. the large log at the back of a hearth fire
 n. something kept back or saved for future use or a special purpose
 
-backwardness
+<backwardness>
 n. lack of normal development of intellectual capacities
 
 bad
@@ -56,14 +56,14 @@ n. round object that is hit or thrown or kicked in games
 
 ballooning
 n. flying in a balloon
-bamboo-shoot
+<bamboo-shoot>
 n. edible young shoots of bamboo
 
 banana
 n. elongated crescent-shaped yellow fruit with soft sweet flesh
 n. any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits
 
-bandit
+<bandit>
 n. an armed thief who is (usually) a member of a band
 
 bank
@@ -74,7 +74,7 @@ banking
 n. engaging in the business of keeping money for savings and checking accounts or for exchange or for issuing loans and credit etc.
 n. transacting business with a bank; depositing or withdrawing funds or requesting a loan etc.
 
-baroness
+<baroness>
 n. a noblewoman who holds the rank of baron or who is the wife or widow of a baron
 
 base
@@ -124,7 +124,7 @@ beach
 n. an area of sand sloping down to the water of a sea or lake
 v. land on a beach
 
-bearish
+<bearish>
 a. expecting prices to fall
 
 beast
@@ -157,7 +157,7 @@ n. meat from an adult domestic bovine
 beer
 n. a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops
 
-beetle
+<beetle>
 v. be suspended over or hang over
 a. jutting or overhanging
 
