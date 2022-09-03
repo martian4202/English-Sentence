@@ -189,7 +189,7 @@ behind
 ad. of timepieces
 ad. in debt
 
-behindhand
+<behindhand>
 ad. in debt
 a. behind schedule
 
@@ -213,7 +213,7 @@ belong
 v. be a part or adjunct
 v. be suitable or acceptable
 
-belt
+<belt>
 v. sing loudly and forcefully
 n. the act of hitting vigorously
 
@@ -221,11 +221,11 @@ bench
 n. the reserve players on a team
 n. a level shelf of land interrupting a declivity (with steep slopes above and below)
 
-benevolence
+<benevolence>
 n. disposition to do good
 n. an inclination to do kind or charitable acts
 
-berry
+<berry>
 v. pick or gather berries
 n. any of numerous small and pulpy edible fruits; used as desserts or in making jams and jellies and preserves
 
@@ -264,7 +264,7 @@ bicycle
 n. a wheeled vehicle that has two wheels and is moved by foot pedals
 v. ride a bicycle
 
-bidding
+<bidding>
 n. a request to be present
 n. an authoritative direction or instruction to do something
 
@@ -304,7 +304,7 @@ biscuit
 n. any of various small flat sweet cakes (`biscuit' is the British term)
 n. small round bread leavened with baking-powder or soda
 
-bishop
+<bishop>
 n. (chess) a piece that can be moved diagonally over unoccupied squares of the same color
 n. port wine mulled with oranges and cloves
 
@@ -327,11 +327,11 @@ blind
 a. unable to see
 n. a hiding place sometimes used by hunters (especially duck hunters)
 
-blockage
+<blockage>
 n. the physical condition of blocking or filling a passage with an obstruction
 n. the act of blocking
 
-blond
+<blond>
 n. a person with fair skin and hair
 n. a light grayish yellow to near white
 
@@ -343,7 +343,7 @@ bloody
 a. having or covered with or accompanied by blood
 a. informal intensifiers
 
-blouse
+<blouse>
 n. a top worn by women
 
 blow
@@ -362,15 +362,15 @@ body
 n. the external structure of a vehicle
 n. the main mass of a thing
 
-boiler
+<boiler>
 n. sealed vessel where water is converted to steam
 n. a metal pot for stewing or boiling; usually has a lid
 
-boiling
+<boiling>
 ad. extremely
 n. cooking in a liquid that has been brought to a boil
 
-boldness
+<boldness>
 n. the trait of being willing to undertake things that involve risk or danger
 n. the quality of standing out strongly and distinctly
 
