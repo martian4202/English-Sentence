@@ -386,7 +386,7 @@ bone
 v. study intensively, as before an exam
 a. consisting of or made up of bone
 
-bony
+<bony>
 a. very thin especially from disease or hunger or cold
 a. composed of or containing bone
 
@@ -419,7 +419,7 @@ borrow
 v. get temporarily
 v. take up and practice as one's own
 
-bosom
+<bosom>
 v. hide in one's bosom
 n. either of two soft fleshy milk-secreting glandular organs on the chest of a woman
 
@@ -427,7 +427,7 @@ boss
 n. a person responsible for hiring workers
 n. a person who exercises control and makes decisions
 
-bossy
+<bossy>
 a. offensively self-assured or given to exercising usually unwarranted power
 
 both
@@ -447,14 +447,14 @@ bottom-line
 n. the last line in an audit; the line that shows profit or loss
 n. the decisive point
 
-bough
+<bough>
 n. any of the larger branches of a tree
 
 bowling
 n. a game in which balls are rolled at an object or group of objects with the aim of knocking them over or moving them
 n. (cricket) the act of delivering a cricket ball to the batsman
 
-box
+<box>
 n. a predicament from which a skillful or graceful escape is impossible
 n. the driver's seat on a coach
 
@@ -465,7 +465,7 @@ n. a member of a nationalistic Chinese secret society that led an unsuccessful r
 boxing
 n. fighting with the fists
 n. the enclosure of something in a package or box
-boxing-day
+<boxing-day>
 n. first weekday after Christmas
 
 boy

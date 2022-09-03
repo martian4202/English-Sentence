@@ -1,0 +1,1 @@
+The geographus cone snail can <harpoon> a prey with a venom <potent> enough to kill humans
