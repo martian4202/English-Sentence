@@ -472,11 +472,11 @@ boy
 n. a male human offspring
 n. (ethnic slur) offensive and disparaging term for Black man
 
-bracket
+<bracket>
 v. classify or group
 v. support with brackets
 
-brag
+<brag>
 a. exceptionally good
 n. an instance of boastful talk
 
@@ -484,18 +484,18 @@ branch
 n. a natural consequence of development
 n. a division of some larger or more complex organization
 
-brandy
+<brandy>
 n. distilled from wine or fermented fruit juice
 
 brass
 n. the section of a band or orchestra that plays brass instruments
 n. an ornament or utensil made of brass
 
-brave
+<brave>
 a. brightly colored and showy
 a. possessing or displaying courage; able to face and deal with danger or fear without flinching
 
-bravely
+<bravely>
 ad. in a courageous manner
 
 bravery
@@ -514,7 +514,7 @@ bread
 n. informal terms for money
 n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked
 
-breakage
+<breakage>
 n. reimbursement for goods damaged while in transit or in use
 n. the act of breaking something
 
@@ -526,10 +526,10 @@ breast
 v. confront bodily
 v. reach the summit (of a mountain)
 
-bribery
+<bribery>
 n. the practice of offering something (usually money) in order to gain an illicit advantage
 
-brick
+<brick>
 n. rectangular block of clay baked by the sun or in a kiln; used as a building or paving material
 n. a good fellow; helpful and trustworthy
 
@@ -537,7 +537,7 @@ bride
 n. a woman who has recently been married
 n. Irish abbess; a patron saint of Ireland (453-523)
 
-bridegroom
+<bridegroom>
 n. a man participant in his own marriage ceremony
 n. a man who has recently been married
 
@@ -564,7 +564,7 @@ bring
 v. attract the attention of
 v. take something or somebody with oneself somewhere
 
-bristle
+<bristle>
 v. be in a state of movement or action
 v. react in an offended or angry manner
 
@@ -591,7 +591,7 @@ broker
 v. act as a broker
 n. a businessman who buys or sells for another in exchange for a commission
 
-broom
+<broom>
 v. finish with a broom
 v. sweep with a broom or as if with a broom
 
@@ -605,7 +605,7 @@ n. the kinship relation between a male offspring and the siblings
 brother-in-law
 n. a brother by marriage
 
-brow
+<brow>
 n. the part of the face above the eyes
 n. the arch of hair above each eye
 
@@ -613,7 +613,7 @@ brush
 v. remove with or as if with a brush
 v. touch lightly and briefly
 
-buddhism
+<buddhism>
 n. a religion represented by the many groups (especially in Asia) that profess various forms of the Buddhist doctrine and that venerate Buddha
 n. the teaching of Buddha that life is permeated with suffering caused by desire, that suffering ceases when...
 
@@ -625,7 +625,7 @@ buffalo
 v. intimidate or overawe
 n. meat from an American bison
 
-bugle
+<bugle>
 n. a tubular glass or plastic bead sewn onto clothing for decoration
 n. a brass instrument without valves; used for military calls and fanfares
 
