@@ -645,14 +645,14 @@ bullet
 n. a projectile that is fired from a gun
 n. (baseball) a pitch thrown with maximum velocity
 
-bullish
+<bullish>
 a. expecting a rise in prices
 
-bumpy
+<bumpy>
 a. causing or characterized by jolts and irregular movements
 a. covered with or full of bumps
 
-burden
+<burden>
 v. weight down with a load
 n. an onerous or difficult concern
 
@@ -663,25 +663,25 @@ n. furniture with drawers for keeping clothes
 bureaucratic
 a. of or relating to or resembling a bureaucrat or bureaucracy
 
-burglar
+<burglar>
 n. a thief who enters a building with intent to steal
 
-burglary
-n. entering a building unlawfully with intent to commit a felony or to steal valuable property
+<burglary
+>n. entering a building unlawfully with intent to commit a felony or to steal valuable property
 
 burn
 n. an injury caused by exposure to heat or chemicals or radiation
 v. cause to undergo combustion
 
-burner
+<burner>
 n. an apparatus for burning fuel (or refuse)
 n. the heating elements of a stove or range on which pots and pans are placed for cooking
 
-burnt
+<burnt>
 a. treated by heating to a high temperature but below the melting or fusing point
 a. destroyed or badly damaged by fire
 
-burst
+<burst>
 v. be in a state of movement or action
 v. burst outward, usually with noise
 
@@ -693,11 +693,11 @@ bus
 v. remove used dishes from the table in restaurants
 v. ride in a bus
 
-bushel
+<bushel>
 n. a British imperial capacity measure (liquid or dry) equal to 4 pecks
 n. a United States dry measure equal to 4 pecks or 2152.42 cubic inches
 
-businesslike
+<businesslike>
 a. exhibiting methodical and systematic characteristics that would be useful in business
 a. not distracted by anything unrelated to the goal
 
@@ -708,11 +708,11 @@ a. crowded with or characterized by much activity
 but
 ad. and nothing more
 
-butchery
+<butchery>
 n. the business of a butcher
 n. the savage and excessive killing of many people
 
-butt
+<butt>
 v. lie adjacent to another or share a boundary
 n. the fleshy part of the human body that you sit on
 
@@ -749,7 +749,7 @@ calculus
 n. the branch of mathematics that is concerned with limits and with the differentiation and integration of functions
 n. a hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body
 
-calf
+<calf>
 n. young of various large placental mammals e.g. whale or giraffe or elephant or buffalo
 n. young of domestic cattle
 
@@ -799,7 +799,7 @@ canned
 a. sealed in a can or jar
 a. recorded for broadcast
 
-canoe
+<canoe>
 v. travel by canoe
 n. small and light boat; pointed at both ends; propelled with a paddle
 
@@ -830,7 +830,7 @@ car
 n. a wheeled vehicle adapted to the rails of railroad
 n. a motor vehicle with four wheels; usually propelled by an internal combustion engine
 
-caravan
+<caravan>
 v. travel in a caravan
 n. a procession (of wagons or mules or camels) traveling together in single file
 
@@ -838,7 +838,7 @@ carbon
 n. a copy made with carbon paper
 n. an abundant nonmetallic tetravalent element occurring in three allotropic forms: amorphous carbon and graphite and diamond; occurs in all organic compounds
 
-cardboard
+<cardboard>
 a. without substance
 n. a stiff moderately thick paper
 
@@ -846,11 +846,11 @@ care
 v. be in charge of, act on, or dispose of
 v. feel concern or interest
 
-carelessness
+<carelessness>
 n. failure to act with the prudence that a reasonable person would exercise under the same circumstances
 n. the quality of not being careful or taking pains
 
-carpet
+<carpet>
 n. a natural object that resembles or suggests a carpet
 v. cover completely, as if with a carpet
 
@@ -858,7 +858,7 @@ carriage
 n. characteristic way of bearing one's body
 n. a machine part that carries something else
 
-cartridge
+<cartridge>
 n. a light-tight supply chamber holding the film and supplying it for exposure as required
 n. a module designed to be inserted into a larger piece of equipment
 
@@ -969,7 +969,7 @@ charming
 a. possessing or using or characteristic of or appropriate to supernatural powers
 a. pleasing or delighting
 
-chatter
+<chatter>
 v. click repeatedly or uncontrollably
 n. noisy talk
 
@@ -990,11 +990,11 @@ v. withdraw money by writing a check
 check-up
 n. a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person
 
-cheek
+<cheek>
 n. either of the two large fleshy masses of muscular tissue that form the human rump
 n. impudent aggressiveness
 
-cheeky
+<cheeky>
 a. offensively bold
 
 cheerful
@@ -1025,11 +1025,11 @@ chess
 n. weedy annual native to Europe but widely distributed as a weed especially in wheat
 n. a board game for two players who move their 16 pieces according to specific rules; the object is to checkmate the opponent's king
 
-chest
+<chest>
 n. box with a lid; used for storage; usually large and sturdy
 n. furniture with drawers for keeping clothes
 
-chestnut
+<chestnut>
 n. edible nut of any of various chestnut trees of the genus Castanea
 n. any of several attractive deciduous trees yellow-brown in autumn; yield a hard wood and edible nuts in a prickly bur
 
@@ -1041,7 +1041,7 @@ chicken
 n. a person who lacks confidence, is irresolute and wishy-washy
 n. a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl
 
-chiefly
+<chiefly>
 ad. for the most part
 
 child
@@ -1052,14 +1052,14 @@ childhood
 n. the time of person's life when they are a child
 n. the state of a child between infancy and adolescence
 
-childish
+<childish>
 a. indicating a lack of maturity
 
-childlike
+<childlike>
 a. exhibiting childlike simplicity and credulity
 a. befitting a young child
 
-chimney
+<chimney>
 n. a vertical flue that provides a path through which smoke from a fire is carried away through the wall or roof of a building
 n. a glass flue surrounding the wick of an oil lamp
 
@@ -1134,11 +1134,11 @@ n. an acquaintance that you go to school with
 classroom
 n. a room in a school where lessons take place
 
-clatter
+<clatter>
 n. a rattling noise (often produced by rapid movement)
 v. make a rattling sound
 
-claw
+<claw>
 v. move as if by clawing, seizing, or digging
 n. a mechanical device that is curved or bent to suspend or hold or pull something
 
@@ -1150,7 +1150,7 @@ clearly
 ad. in an easily perceptible manner
 ad. without doubt or question
 
-clerk
+<clerk>
 n. an employee who performs clerical work (e.g., keeps records or accounts)
 n. a salesperson in a store
 
@@ -1162,14 +1162,14 @@ cleverness
 n. the power of creative imagination
 n. intelligence as manifested in being quick and witty
 
-cliff
+<cliff>
 n. a steep high face of rock
 
 climb
 n. an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)
 n. the act of climbing something
 
-cloak
+<cloak>
 v. cover with or as if with a cloak
 v. cover as if with clothing
 
@@ -1214,7 +1214,7 @@ cloudy
 a. lacking definite form or limits
 a. (of liquids) clouded as with sediment
 
-clown
+<clown>
 v. act as or like a clown
 n. a person who amuses others by ridiculous behavior
 
@@ -1253,7 +1253,7 @@ coffee
 n. any of several small trees and shrubs native to the tropical Old World yielding coffee beans
 n. a beverage consisting of an infusion of ground coffee beans
 
-coffin
+<coffin>
 v. place into a coffin
 n. box in which a corpse is buried or cremated
 
@@ -1261,7 +1261,7 @@ coldness
 n. the absence of heat
 n. a lack of affection or enthusiasm
 
-collar
+<collar>
 n. a band that fits around the neck and is usually folded over
 n. the act of apprehending (especially apprehending a criminal)
 
@@ -1295,10 +1295,10 @@ colorless
 a. lacking in variety and interest
 a. weak in color; not colorful
 
-columnist
+<columnist>
 n. a journalist who writes editorials
 
-comb
+<comb>
 n. a flat device with narrow pointed teeth on one edge; disentangles or arranges hair
 v. search thoroughly
 
@@ -1337,7 +1337,7 @@ commonwealth
 n. the official name of some states in the United States (Massachusetts and Pennsylvania and Virginia and Kentucky) and associated territories (Puerto Rico)
 n. a political system in which the supreme power lies in a body of citizens who can elect peop...
 
-commune
+<commune>
 v. communicate intimately with; be in a state of heightened, intimate receptivity
 n. the smallest administrative district of several European countries
 
@@ -1380,7 +1380,7 @@ v. make more complex, intricate, or richer
 composed
 a. serenely self-possessed and free from agitation especially in times of stress
 
-composer
+<composer>
 n. someone who composes music as a profession
 
 computer
@@ -1394,7 +1394,7 @@ computerize
 v. store in a computer
 v. control a function, process, or creation by a computer
 
-comrade
+<comrade>
 n. used as a term of address for those male persons engaged in the same movement
 n. a friend who is frequently in the company of another
 
@@ -1406,7 +1406,7 @@ concentration
 n. complete attention; intense mental effort
 n. strengthening the concentration (as of a solute in a mixture) by removing diluting material
 
-conceptive
+<conceptive>
 a. capable of conceiving
 
 concerned
@@ -1417,11 +1417,11 @@ conclusion
 n. the last section of a communication
 n. a final settlement
 
-concur
+<concur>
 v. be in accord; be in agreement
 v. happen simultaneously
 
-concurrence
+<concurrence>
 n. a state of cooperation
 n. agreement of results or opinions
 
@@ -1429,13 +1429,13 @@ conditional
 a. imposing or depending on or containing a condition
 a. qualified by reservations
 
-conduce
+<conduce>
 v. be conducive to
 
-conducive
+<conducive>
 a. tending to bring about; being partly responsible for
 
-conduction
+<conduction>
 n. the transmission of heat or electricity or sound
 
 congratulate
@@ -1464,23 +1464,23 @@ consolidation
 n. something that has consolidated into a compact mass
 n. combining into a solid mass
 
-constable
+<constable>
 n. English landscape painter (1776-1837)
 n. a police officer of the lowest rank
 
-constitutive
+<constitutive>
 a. constitutional in the structure of something (especially your physical makeup)
 
-construe
+<construe>
 v. make sense of; assign a meaning to
 
-consul
+<consul>
 n. a diplomat appointed by a government to protect its commercial interests and help its citizens in a foreign country
 
-consulate
+<consulate>
 n. diplomatic building that serves as the residence or workplace of a consul
 
-consultation
+<consultation>
 n. a conference (usually with someone important)
 n. a conference between two or more people to consider a particular question
 
@@ -1511,10 +1511,10 @@ continuously
 ad. with unflagging resolve
 ad. at every point
 
-contracted
+<contracted>
 a. reduced in size or pulled together
 
-contractual
+<contractual>
 a. relating to or part of a binding legal agreement
 
 control
@@ -1536,11 +1536,11 @@ coolness
 n. a lack of affection or enthusiasm
 n. calm and unruffled self-assurance
 
-cope
+<cope>
 n. a long cloak; worn by a priest or bishop on ceremonial occasions
 n. brick that is laid sideways at the top of a wall
 
-copper
+<copper>
 n. a reddish-brown color resembling the color of polished copper
 n. a copper penny
 
@@ -1548,11 +1548,11 @@ copy
 v. reproduce someone's behavior or looks
 v. reproduce or make an exact copy of
 
-cord
+<cord>
 n. a light insulated conductor for household use
 n. a unit of amount of wood cut for burning; 128 cubic feet
 
-cordially
+<cordially>
 ad. in a hearty manner
 
 correct
@@ -1566,7 +1566,7 @@ n. the act of offering an improvement to replace a mistake; setting right
 correctly
 ad. in an accurate manner
 
-corridor
+<corridor>
 n. an enclosed passageway; rooms usually open onto it
 
 cost
@@ -1577,7 +1577,7 @@ costly
 a. entailing great loss or sacrifice
 a. having a high price
 
-cottage
+<cottage>
 n. a small house with a single story
 
 cotton
@@ -1588,11 +1588,11 @@ cough
 v. exhale abruptly, as when one has a chest cold or congestion
 n. a sudden noisy expulsion of air from the lungs that clears the air passages; a common symptom of upper respiratory infection or bronchitis or pneumonia or tuberculosis
 
-council
+<council>
 n. a body serving in an administrative capacity
 n. (Christianity) an assembly of theologians and bishops and other representatives of different churches or dioceses that is convened to regulate matters of discipline or doctrine
 
-counsellor
+<counsellor>
 n. a lawyer who pleads cases in court
 n. someone who gives advice about problems
 
@@ -1606,11 +1606,11 @@ a. that can be counted
 countermeasure
 n. an action taken to offset another action
 
-countersign
+<countersign>
 v. add one's signature to after another's to attest authenticity
 n. a secret word or phrase known only to a restricted group
 
-countersignature
+<countersignature>
 n. a second confirming signature endorsing a document already signed
 
 country
@@ -1627,7 +1627,7 @@ n. (United Kingdom) a region created by territorial division for the purpose of 
 courage
 n. a quality of spirit that enables you to face danger or pain without showing fear
 
-courageous
+<courageous>
 a. possessing or displaying courage; able to face and deal with danger or fear without flinching
 
 course
@@ -1648,21 +1648,21 @@ cow
 n. a large unpleasant woman
 n. female of domestic cattle:
 
-cowardly
+<cowardly>
 a. lacking courage; ignobly timid and faint-hearted
 
-cracker
+<cracker>
 n. a thin crisp wafer made of flour and water with or without leavening and shortening; unsweetened or semisweet
 n. a programmer who cracks (gains unauthorized access to) computers, typically to do malicious things
 
-craftsman
+<craftsman>
 n. a creator of great skill in the manual arts
 n. a skilled worker who practices some trade or handicraft
 
-craftsmanship
+<craftsmanship>
 n. skill in an occupation or trade
 
-crane
+<crane>
 v. stretch (the neck) so as to see better
 n. United States poet (1899-1932)
 
@@ -1686,10 +1686,10 @@ creature
 n. a human being; `wight' is an archaic term
 n. a living organism characterized by voluntary movement
 
-creditworthiness
+<creditworthiness>
 n. trustworthiness with money as based on a person's credit history; a general qualification for borrowing
 
-creditworthy
+<creditworthy>
 a. having an acceptable credit rating
 
 crime
@@ -1716,7 +1716,7 @@ crossroads
 n. a crisis situation or point in time when a critical decision must be made
 n. a point where a choice must be made
 
-crow
+<crow>
 n. the cry of a cock (or an imitation of it)
 v. utter shrill sounds
 
@@ -1731,7 +1731,7 @@ cruelty
 n. a cruel act; a deliberate infliction of pain and suffering
 n. feelings of extreme heartlessness
 
-crutch
+<crutch>
 n. a wooden or metal staff that fits under the armpit and reaches to the ground; used by disabled person while walking
 n. anything that serves as an expedient
 
@@ -1739,7 +1739,7 @@ cry
 n. a loud utterance; often in protest or opposition
 v. bring into a particular state by crying
 
-cuckoo
+<cuckoo>
 n. any of numerous European and North American birds having pointed wings and a long tail
 v. repeat monotonously, like a cuckoo repeats his call
 
@@ -1754,7 +1754,7 @@ n. a large metal vessel with two handles that is awarded as a trophy to the winn
 curly
 a. (of hair) having curls or waves
 
-curtain
+<curtain>
 n. any barrier to communication or vision
 v. provide with drapery
 
@@ -1762,11 +1762,11 @@ cut
 v. cut down on; make a reduction in
 v. cause to stop operating by disengaging a switch
 
-cutlery
+<cutlery>
 n. a cutting implement; a tool for cutting
 n. tableware implements for cutting and eating food
 
-cutter
+<cutter>
 n. someone who cuts or carves stone
 n. a sailing vessel with a single mast set further back than the mast of a sloop
 
