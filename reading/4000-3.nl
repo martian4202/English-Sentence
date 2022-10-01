@@ -26,7 +26,7 @@ danger
 n. a venture undertaken without regard to possible loss or injury
 n. the condition of being susceptible to harm or injury
 
-danish
+<danish>
 n. a Scandinavian language that is the official language of Denmark
 n. light sweet yeast-raised roll usually filled with fruits or cheese
 
@@ -63,7 +63,7 @@ day
 n. time for Earth to make a complete rotation on its axis
 n. the time after sunrise and before sunset while it is light outside
 
-daybreak
+<daybreak>
 n. the first light of day
 
 daylight
@@ -73,7 +73,7 @@ n. the time after sunrise and before sunset while it is light outside
 daytime
 n. the time after sunrise and before sunset while it is light outside
 
-daze
+<daze>
 v. to cause someone to lose clear vision, especially from intense light
 v. overcome as with astonishment or disbelief
 
@@ -84,11 +84,11 @@ a. no longer having force or relevance
 deadline
 n. the point in time at which something must be completed
 
-deafen
+<deafen>
 v. make or render deaf
 v. be unbearably loud
 
-dealer
+<dealer>
 n. a firm engaged in trading
 n. a seller of illicit goods
 
@@ -108,7 +108,7 @@ deathly
 ad. to a degree resembling death
 a. causing or capable of causing death
 
-debit
+<debit>
 n. an accounting entry acknowledging sums that are owing
 v. enter as debit
 
@@ -116,14 +116,14 @@ deceased
 a. dead
 n. someone who is no longer alive
 
-deceitful
+<deceitful>
 a. marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another
 a. intended to deceive
 
 december
 n. the last (12th) month of the year
 
-decency
+<decency>
 n. the quality of being polite and respectable
 n. the quality of conforming to standards of propriety and morality
 
@@ -161,13 +161,13 @@ deeply
 ad. to a great depth;far down
 ad. to a great depth psychologically
 
-deer
+<deer>
 n. distinguished from Bovidae by the male's having solid deciduous antlers
 
-defiant
+<defiant>
 a. boldly resisting authority or an opposing force
 
-deflection
+<deflection>
 n. the amount by which a propagating wave is bent
 n. a twist or aberration; especially a perverse or abnormal way of judging or acting
 
@@ -187,7 +187,7 @@ deliberation
 n. careful consideration
 n. the trait of thoughtfulness in action or decision
 
-delicacy
+<delicacy>
 n. something considered choice to eat
 n. smallness of stature
 
@@ -198,14 +198,14 @@ v. take delight in
 delightful
 a. greatly pleasing or entertaining
 
-deliverance
+<deliverance>
 n. recovery or preservation from loss or danger
 
 delivery
 n. (baseball) the act of throwing a baseball by a pitcher to a batter
 n. the voluntary transfer of something (title or possession) from one party to another
 
-delusive
+<delusive>
 a. inappropriate to reality or facts
 
 demand
@@ -224,18 +224,18 @@ democratic
 a. belong to or relating to the Democratic Party
 a. characterized by or advocating or based upon the principles of democracy or social equality
 
-demurrage
+<demurrage>
 n. a charge required as compensation for the delay of a ship or freight car or other cargo beyond its scheduled time of departure
 n. detention of a ship or freight car or other cargo beyond its scheduled time of departure
 
-den
+<den>
 n. a room that is comfortable and secluded
 n. a hiding place; usually a remote place used by outlaws
 
 denmark
 n. a constitutional monarchy in northern Europe; consists of the mainland of Jutland and many islands between the North Sea and the Baltic Sea
 
-denominate
+<denominate>
 v. assign a name or title to
 
 department
@@ -249,7 +249,7 @@ v. be contingent upon (something that is elided)
 dependability
 n. the quality of being dependable or reliable
 
-dependant
+<dependant>
 a. contingent on something else
 n. a person who relies on another person for support (especially financial support)
 
@@ -261,11 +261,11 @@ depth
 n. the intellectual ability to penetrate deeply into ideas
 n. degree of psychological or intellectual profundity
 
-derivation
+<derivation>
 n. the source or origin from which something derives (i.e. comes or issues)
 n. inherited properties shared with others of your bloodline
 
-derrick
+<derrick>
 n. a simple crane having lifting tackle slung from a boom
 n. a framework erected over an oil well to allow drill tubes to be raised and lowered
 
@@ -284,7 +284,7 @@ n. someone who designs clothing
 desk
 n. a piece of furniture with a writing surface and usually drawers or other compartments
 
-desolation
+<desolation>
 n. sadness resulting from being forsaken or abandoned
 n. an event that results in total destruction
 
@@ -303,18 +303,18 @@ v. assign to a specific task
 detailed
 a. developed or executed with care and in minute detail
 
-deterioration
+<deterioration>
 n. process of changing to an inferior state
 n. a symptom of reduced quality or strength
 
-detract
+<detract>
 v. take away a part from; diminish
 
-devaluation
+<devaluation>
 n. the reduction of something's value or worth
 n. an official lowering of a nation's currency; a decrease in the value of a country's currency relative to that of foreign countries
 
-devalue
+<devalue>
 v. remove the value from; deprive of its value
 v. lower the value or quality of
 
@@ -334,15 +334,15 @@ deviation
 n. a turning aside (of your course or attention or concern)
 n. the difference between an observed value and the expected value of a variable or function
 
-devil
+<devil>
 n. a cruel wicked and inhuman person
 v. cause annoyance in; disturb, especially by minor irritations
 
-devoted
+<devoted>
 a. zealous in devotion or affection
 a. (followed by `to') dedicated exclusively to a purpose or use
 
-dew
+<dew>
 n. water that has condensed on a cool surface overnight from water vapor in the air
 
 dial
@@ -357,7 +357,7 @@ diamond
 n. the area of a baseball field that is enclosed by 3 bases and home plate
 n. a playing card in the minor suit that has one or more red rhombuses on it
 
-diary
+<diary>
 n. a personal journal (as a physical object)
 n. a daily written record of (usually personal) experiences and observations
 
@@ -375,7 +375,7 @@ die
 v. lose sparkle or bouquet
 v. to be on base at the end of an inning, of a player
 
-diesel
+<diesel>
 n. an internal-combustion engine that burns heavy oil
 n. German engineer (born in France) who invented the diesel engine (1858-1913)
 
@@ -410,7 +410,7 @@ digit
 n. one of the elements that collectively form a system of numeration
 n. a finger or toe in human beings or corresponding body part in other vertebrates
 
-dike
+<dike>
 v. enclose with a dike
 n. a barrier constructed to contain the flow of water or to keep out the sea
 
@@ -442,7 +442,7 @@ directory
 n. an alphabetical list of names and addresses
 n. (computer science) a listing of the files stored in memory (usually on a hard disk)
 
-dirt
+<dirt>
 n. obscene terms for feces
 a. (of roads) not leveled or drained; unsuitable for all year travel
 
@@ -482,10 +482,10 @@ v. fail to meet the hopes or expectations of
 disappointed
 a. disappointingly unsuccessful
 
-disburse
+<disburse>
 v. expend, as from a fund
 
-disbursement
+<disbursement>
 n. the act of spending or disbursing money
 n. amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)
 
@@ -509,7 +509,7 @@ discovery
 n. a productive insight
 n. something that is discovered
 
-discreetly
+<discreetly>
 ad. with discretion; prudently and with wise self-restraint
 
 discrimination
@@ -531,10 +531,10 @@ disgraceful
 a. giving offense to moral sensibilities and injurious to reputation
 a. (used of conduct or character) deserving or bringing disgrace or shame
 
-disgustful
+<disgustful>
 a. highly offensive; arousing aversion or disgust
 
-dish
+<dish>
 v. provide (usually but not necessarily food)
 n. the quantity that a dish will hold
 
@@ -546,11 +546,11 @@ dishonorable
 a. lacking honor or integrity; deserving dishonor
 a. deceptive or fraudulent; disposed to cheat or defraud or deceive
 
-disillusion
+<disillusion>
 n. freeing from false belief or illusions
 v. free from enchantment
 
-disintegration
+<disintegration>
 n. the spontaneous disintegration of a radioactive substance along with the emission of ionizing radiation
 n. total destruction
 
@@ -558,24 +558,24 @@ dislike
 n. an inclination to withhold approval from some person or group
 v. have or feel a dislike or distaste for
 
-disloyal
+<disloyal>
 a. deserting your allegiance or duty to leader or cause or principle
 a. showing lack of love for your country
 
 disloyalty
 n. the quality of being disloyal
 
-dismissal
+<dismissal>
 n. the termination of someone's employment (leaving them free to depart)
 n. permission to go; the sending away of someone
 
 disobey
 v. refuse to go along with; refuse to follow; be disobedient
 
-displease
+<displease>
 v. give displeasure to
 
-displeasure
+<displeasure>
 n. the feeling of being displeased or annoyed or dissatisfied with someone or something
 
 disposal
@@ -588,22 +588,22 @@ n. the feeling of being displeased and discontent
 dissatisfy
 v. fail to satisfy
 
-distillation
+<distillation>
 n. the process of purifying a liquid by boiling it and condensing its vapors
 n. a purified liquid produced by condensation from a vapor during distilling; the product of distilling
 
-distributor
+<distributor>
 n. electrical device that distributes voltage to the spark plugs of a gasoline engine in the order of the firing sequence
 n. a person with authority to allot or deal out or apportion
 
-disunite
+<disunite>
 v. force, take, or pull apart
 v. part; cease or break association with
 
-disuse
+<disuse>
 n. the state of something that has been unused and neglected
 
-ditto
+<ditto>
 v. repeat an action or statement
 n. a mark used to indicate the word above it should be repeated
 
@@ -619,14 +619,14 @@ dog
 n. metal supports for logs in a fireplace
 v. go after with the intent to catch
 
-doggedly
+<doggedly>
 ad. with obstinate determination
 
 dollar
 n. a United States coin worth one dollar
 n. a symbol of commercialism or greed
 
-donkey
+<donkey>
 n. domestic beast of burden descended from the African wild ass; patient but stubborn
 n. the symbol of the Democratic Party; introduced in cartoons by Thomas Nast in 1874
 
@@ -645,7 +645,7 @@ dough
 n. informal terms for money
 n. a flour mixture stiff enough to knead or roll
 
-dove
+<dove>
 n. flesh of a pigeon suitable for roasting or braising; flesh of a dove (young squab) may be broiled
 n. any of numerous small pigeons
 
@@ -699,7 +699,7 @@ driver
 n. (computer science) a program that determines how a computer will communicate with a peripheral device
 n. a golfer who hits the golf ball with a driver
 
-droop
+<droop>
 v. hang loosely or laxly
 n. a shape that sags
 
@@ -707,7 +707,7 @@ drop
 n. a sudden sharp decrease in some quantity
 v. fall or descend to a lower place or level
 
-dropout
+<dropout>
 n. someone who quits school before graduation
 n. someone who withdraws from a social group or environment
 
@@ -726,38 +726,38 @@ drunk
 n. a chronic drinker
 a. as if under the influence of alcohol
 
-drunkard
+<drunkard>
 n. a chronic drinker
 
 dry
 a. free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet
 v. remove the moisture from and make dry
 
-duck
+<duck>
 n. (cricket) a score of nothing by a batsman
 v. submerge or plunge suddenly
 
-duke
+<duke>
 n. a nobleman (in various countries) of high rank
 n. a British peer of the highest rank
 
-dummy
+<dummy>
 n. a person who does not talk
 n. an ignorant or foolish person
 
-dumping
+<dumping>
 n. a place where supplies can be stored
 v. fall abruptly
 
-dung
+<dung>
 v. defecate; used of animals
 v. fertilize or dress with dung
 
-dungeon
+<dungeon>
 n. the main tower within the walls of a medieval castle or fortress
 n. a dark cell (usually underground) where prisoners can be confined
 
-dusk
+<dusk>
 n. the time of day immediately following sunset
 v. become dusk
 
@@ -765,7 +765,7 @@ dust
 v. cover with a light dusting of a substance
 n. the remains of something that has been destroyed or broken up
 
-dustbin
+<dustbin>
 n. a bin that holds rubbish until it is collected
 
 dusty
@@ -798,7 +798,7 @@ early
 ad. before the usual time or the time expected
 a. of an early stage in the development of a language or literature
 
-earmark
+<earmark>
 n. identification mark on the ear of a domestic animal
 v. give or assign a resource to a particular person or cause
 
@@ -976,7 +976,7 @@ emperor
 n. the male ruler of an empire
 n. red table grape of California
 
-emphatic
+<emphatic>
 a. forceful and definite in expression or action
 a. sudden and strong
 
@@ -984,7 +984,7 @@ empire
 n. the domain ruled by an emperor or empress; the region over which imperial dominion is exercised
 n. a group of countries under a single authority
 
-emptiness
+<emptiness>
 n. having an empty stomach
 n. an empty area or space
 
@@ -1044,15 +1044,15 @@ enjoyment
 n. the pleasure felt when having a good time
 n. act of receiving pleasure from something
 
-enlarge
+<enlarge>
 v. make larger
 v. add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing
 
-enlargement
+<enlargement>
 n. the state of being enlarged
 n. the act of increasing (something) in size or volume or quantity or scope
 
-enlightening
+<enlightening>
 a. tending to increase knowledge or dissipate ignorance
 a. enlightening or uplifting so as to encourage intellectual or moral improvement
 
@@ -1082,7 +1082,7 @@ envelope
 n. a flat (usually rectangular) container for a letter, thin package, etc.
 n. any wrapper or covering
 
-envious
+<envious>
 a. showing extreme cupidity; painfully desirous of another's advantages
 
 environmental
@@ -1101,14 +1101,14 @@ era
 n. a major division of geological time; an era is usually divided into two or more periods
 n. a period marked by distinctive character or reckoned from a fixed point or event
 
-eradication
+<eradication>
 n. the complete destruction of every trace of something
 
-erasure
+<erasure>
 n. a surface area where something has been erased
 n. a correction made by erasing
 
-erection
+<erection>
 n. an erect penis
 n. a structure that has been erected
 
@@ -1127,7 +1127,7 @@ especially
 ad. in a special manner
 ad. to a distinctly greater extent or degree than is common
 
-essayist
+<essayist>
 n. a writer of literary works
 
 essentially
@@ -1137,7 +1137,7 @@ established
 a. shown to be valid beyond a reasonable doubt
 a. settled securely and unconditionally
 
-estimation
+<estimation>
 n. the respect with which a person is held
 n. an approximate calculation of quantity or degree or worth
 
@@ -1165,7 +1165,7 @@ evening
 n. a later concluding time period
 n. the early part of night (from dinner until bedtime) spent in a special way
 
-evenly
+<evenly>
 ad. in a level and regular way
 ad. in equal amounts or shares; in a balanced or impartial way
 
@@ -1188,7 +1188,7 @@ a. commonplace and ordinary
 everywhere
 ad. to or in any or all places
 
-evidently
+<evidently>
 ad. unmistakably (`plain' is often used informally for `plainly')
 
 evil
@@ -1222,7 +1222,7 @@ example
 n. punishment intended as a warning to others
 n. a task performed or problem solved in order to develop skill or understanding
 
-exasperation
+<exasperation>
 n. an exasperated feeling of annoyance
 n. actions that cause great irritation (or even anger)
 
@@ -1258,7 +1258,7 @@ existing
 a. existing in something specified
 a. having existence or being or actuality
 
-exoneration
+<exoneration>
 n. the act of vindicating or defending against criticism or censure etc.
 n. the condition of being relieved from blame or obligation
 
@@ -1270,7 +1270,7 @@ expectation
 n. anticipating with confidence of fulfillment
 n. belief about (or mental picture of) the future
 
-expedience
+<expedience>
 n. taking advantage of opportunities without regard for the consequences for others
 n. the quality of being suited to the end in view
 
@@ -1300,7 +1300,7 @@ experimentation
 n. the act of conducting a controlled test or investigation
 n. the testing of an idea
 
-expiry
+<expiry>
 n. the event of dying or departure from life
 n. a coming to an end of a contract period
 
@@ -1312,7 +1312,7 @@ explanation
 n. a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.
 n. thought that makes something comprehensible
 
-explanatory
+<explanatory>
 a. serving or intended to explain or make clear
 
 explicitly
@@ -1322,7 +1322,7 @@ explosion
 n. the terminal forced release of pressure built up during the occlusive phase of a stop consonant
 n. the act of exploding or bursting
 
-exportation
+<exportation>
 n. the commercial activity of selling and shipping goods to a foreign country
 n. commodities (goods or services) sold to a foreign country
 
@@ -1337,7 +1337,7 @@ expression
 n. the style of expressing yourself
 n. a group of symbols that make a mathematical statement
 
-expressway
+<expressway>
 n. a broad highway designed for high-speed traffic
 
 extensively
@@ -1347,7 +1347,7 @@ extraction
 n. the action of taking out something (especially using effort or force)
 n. the process of obtaining something from a mixture or compound by chemical or physical or mechanical means
 
-extravagance
+<extravagance>
 n. excessive spending
 n. the trait of spending extravagantly
 
@@ -1355,7 +1355,7 @@ extremely
 ad. to an extreme degree
 ad. to a high degree or extent; favorably or with much respect
 
-eyeball
+<eyeball>
 n. the ball-shaped capsule containing the vertebrate eye
 v. look at
 
