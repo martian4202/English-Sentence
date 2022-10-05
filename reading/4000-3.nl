@@ -1368,5 +1368,5 @@ n. lens for correcting defective vision in one eye; held in place by facial musc
 eyelid
 n. either of two folds of skin that can be moved to cover or open the eye
 
-eyesight
+<eyesight>
 n. normal use of the faculty of vision

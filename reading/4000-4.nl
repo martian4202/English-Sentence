@@ -1,5 +1,5 @@
 
-fable
+<fable>
 n. a deliberately false or improbable account
 n. a short moral story (often with animal characters)
 
@@ -60,7 +60,7 @@ farmer
 n. an expert on cooking whose cookbook has undergone many editions (1857-1915)
 n. United States civil rights leader who in 1942 founded the Congress of Racial Equality (born in 1920)
 
-farmhand
+<farmhand>
 n. a hired hand on a farm
 
 farmhouse
@@ -74,10 +74,10 @@ farther
 a. more distant in especially degree
 a. more distant in especially space or time
 
-fascism
+<fascism>
 n. a political theory advocating an authoritarian hierarchical government (as opposed to democracy or liberalism)
 
-fascist
+<fascist>
 n. an adherent of fascism or other right-wing authoritarian views
 a. relating to or characteristic of fascism
 
@@ -110,7 +110,7 @@ favor
 n. souvenir consisting of a small gift given to a guest at a party
 v. promote over another
 
-favorably
+<favorably>
 ad. showing approval
 
 favorite
@@ -135,7 +135,7 @@ a. oblivious of dangers or perils or calmly resolute in facing them
 feasibility
 n. the quality of being doable
 
-feather
+<feather>
 v. join tongue and groove, in carpentry
 v. turn the oar, while rowing
 
@@ -154,24 +154,24 @@ fellow
 n. a friend who is frequently in the company of another
 n. one of a pair
 
-feminine
+<feminine>
 a. (music or poetry) ending on an unaccented beat or syllable
 a. of grammatical gender
 
-fence
+<fence>
 v. receive stolen goods
 v. surround with a wall in order to fortify
 
-ferrous
+<ferrous>
 a. of or relating to or containing iron
 
-ferryboat
+<ferryboat>
 n. a boat that transports people or vehicles across a body of water and operates on a regular schedule
 
-feudal
+<feudal>
 a. of or relating to or characteristic of feudalism
 
-feudalism
+<feudalism>
 n. the social system that developed in Europe in the 8th century; vassals were protected by lords who they had to serve in war
 
 fever
@@ -182,7 +182,7 @@ few
 a. a quantifier that can be used with count nouns and is often preceded by `a'; a small but indefinite number
 n. a small elite group
 
-fiddle
+<fiddle>
 v. commit fraud and steal from one's employer
 v. play the violin or fiddle
 
@@ -190,7 +190,7 @@ field
 n. a particular kind of commercial enterprise
 n. a geographic region (land or sea) under which something valuable is found
 
-fiery
+<fiery>
 a. characterized by intense emotion
 a. like or suggestive of fire
 
@@ -275,10 +275,10 @@ fireman
 n. play in which children pretend to put out a fire
 n. a laborer who tends fires (as on a coal-fired train or steamship)
 
-fireplace
+<fireplace>
 n. an open recess in a wall at the base of a chimney where a fire can be built
 
-firework
+<firework>
 n. (usually plural) a device with an explosive that burns at a low rate and with colored flames; can be used to illuminate areas or send signals etc.
 
 firmly
@@ -303,7 +303,7 @@ n. the twelfth sign of the zodiac; the sun is in this sign from about February 1
 fisherman
 n. someone whose occupation is catching fish
 
-fission
+<fission>
 n. a nuclear reaction in which a massive nucleus splits into smaller nuclei with the simultaneous release of energy
 n. reproduction of some unicellular organisms by division of the cell into two more or less equal parts
 
@@ -315,11 +315,11 @@ fix
 v. restore by replacing a part or putting together what is torn or broken
 n. the act of putting something in working order again
 
-flank
+<flank>
 n. a cut from the fleshy part of an animal's side between the ribs and the leg
 v. be located at the sides of something or somebody
 
-flannel
+<flannel>
 n. bath linen consisting of a piece of cloth used to wash the face and body
 n. a soft light woolen fabric; used for clothing
 
@@ -331,7 +331,7 @@ flatten
 v. lower the pitch of (musical notes)
 v. make flat or flatter
 
-fleshy
+<fleshy>
 a. of or relating to or resembling flesh
 a. usually describes a large person who is fat but has a large frame to carry it
 
@@ -362,7 +362,7 @@ fluid
 a. in cash or easily convertible to cash
 n. a substance that is fluid at room temperature and pressure
 
-flute
+<flute>
 n. a high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown
 v. form flutes in
 
