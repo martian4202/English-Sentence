@@ -46,6 +46,8 @@
 
 <perceive>
 
+<faction>
+
 <oversee>
 
 <outskirts>
@@ -71,6 +73,10 @@
 <holistic>
 
 <gallop>
+
+<galvanize>
+
+<spearhead>
 
 <flee>
 
@@ -116,6 +122,9 @@
 
 <apparatus>
 
+<appease>
+
+
 <annexed>
 
 <annexation>
@@ -127,3 +136,18 @@
 <albeit>
 
 <abide>
+
+<rift>
+
+<spark>
+
+<stem>
+
+<fracture>
+
+<undermine>
+
+<combative>
+
+<seemingly>
+
