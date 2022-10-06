@@ -186,3 +186,9 @@
 <boom>
 
 <sociology>
+
+<underway>
+
+<slant>
+
+<terrain>
