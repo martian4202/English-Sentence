@@ -389,7 +389,7 @@ follow-up
 v. increase the effectiveness or success of by further action
 v. pursue to a conclusion or bring to a successful issue
 
-fond
+<fond>
 a. having or displaying warmth or affection
 a. absurd or silly because unlikely
 
@@ -397,7 +397,7 @@ food
 n. any substance that can be metabolized by an animal to give energy and build tissue
 n. anything that provides mental stimulus for thinking
 
-foodstuff
+<foodstuff>
 n. (usually plural) consumer goods sold by a grocer
 n. a substance that can be used or prepared for use as food
 
@@ -413,11 +413,11 @@ football
 n. any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal
 n. the inflated oblong ball used in playing American football
 
-footing
+<footing>
 n. a relation that provides the foundation for something
 n. status with respect to the relations between people or groups
 
-footstep
+<footstep>
 n. the distance covered by a step
 n. the act of taking a step in walking
 
@@ -428,14 +428,14 @@ force
 n. a unit that is part of some military service
 v. cause to move by pulling
 
-fore
+<fore>
 a. situated at or toward the bow of a vessel
 n. front part of a vessel or aircraft
 
-forefinger
+<forefinger>
 n. the finger next to the thumb
 
-foregoing
+<foregoing>
 v. do without or cease to hold or adhere to
 v. lose (s.th.) or lose the right to (s.th.) by some error, offense, or crime
 
@@ -451,7 +451,7 @@ foreigner
 n. someone who is excluded from or is not a member of a group
 n. a person who comes from a foreign country; someone who does not owe allegiance to your country
 
-foreman
+<foreman>
 n. a person who exercises control over workers
 n. a man who is foreperson of a jury
 
@@ -459,7 +459,7 @@ forest
 v. establish a forest on previously unforested land
 n. land that is covered with trees and shrubs
 
-forestry
+<forestry>
 n. the science of planting and caring for forests and the management of growing timber
 
 forever
@@ -478,21 +478,21 @@ form
 v. make something, usually for a specific function
 v. assume a form or shape
 
-formulation
+<formulation>
 n. a substance prepared according to a formula
 n. inventing or contriving an idea or explanation and formulating it mentally
 
-forth
+<forth>
 ad. forward in time or order or degree
 ad. out into view
 
-fortuity
+<fortuity>
 n. anything that happens suddenly or by chance without an apparent cause
 
 fortunately
 ad. by good fortune
 
-forty
+<forty>
 a. being ten more than thirty
 n. the cardinal number that is the product of ten and four
 
@@ -508,7 +508,7 @@ fourth
 n. the musical interval between one note and another four notes away from it
 a. coming next after the third and just before the fifth in position or time or degree or magnitude
 
-fowl
+<fowl>
 n. a domesticated gallinaceous bird thought to be descended from the red jungle fowl
 v. hunt fowl
 
@@ -516,14 +516,14 @@ fox
 n. a member of an Algonquian people formerly living west of Lake Michigan along the Fox River
 v. deceive somebody
 
-fractional
+<fractional>
 a. constituting or comprising a part or fraction of a possible whole or entirety
 
 france
 n. French writer of sophisticated novels and short stories (1844-1924)
 n. a republic in western Europe; the largest country wholly in Europe
 
-frankly
+<frankly>
 ad. (used as intensives reflecting the speaker's attitude) it is sincerely the case that
 
 free
@@ -566,7 +566,7 @@ fresh
 a. original and of a kind not seen before
 a. not yet used or soiled
 
-freshen
+<freshen>
 v. become or make oneself fresh again
 v. make (to feel) fresh
 
@@ -588,7 +588,7 @@ a. of or belonging to your own country's forces or those of an ally
 friendship
 n. the state of being friends (or friendly)
 
-fright
+<fright>
 v. cause fear in
 n. an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
 
@@ -596,11 +596,11 @@ frighten
 v. cause fear in
 v. drive out by frightening
 
-frightful
+<frightful>
 a. extreme in degree or extent or amount or impact
 a. provoking horror
 
-frock
+<frock>
 n. a habit worn by clerics
 n. a one-piece garment for a woman; has skirt and bodice
 
@@ -612,7 +612,7 @@ front
 n. a group of people with a common ideology who try together to achieve certain general goals
 n. the outward appearance of a person
 
-frosty
+<frosty>
 a. devoid of warmth and cordiality; expressive of unfriendliness or disdain
 a. covered with frost
 
@@ -658,7 +658,7 @@ gallon
 n. a British imperial capacity measure (liquid or dry) equal to 4 quarts or 4.545 liters
 n. United States liquid unit equal to 4 quarts or 3.785 liters
 
-gambler
+<gambler>
 n. someone who risks loss or injury in the hope of gain or excitement
 n. a person who wagers money on the outcome of games or sporting events
 
@@ -666,10 +666,10 @@ game
 n. animal hunted for food or sport
 v. place a bet on
 
-gangster
+<gangster>
 n. a criminal who is a member of gang
 
-garage
+<garage>
 v. keep or store in a garage
 n. a repair shop where cars and trucks are serviced and repaired
 
@@ -677,18 +677,18 @@ garden
 n. the flowers or vegetables or fruits or herbs that are cultivated in a garden
 n. a yard or lawn adjoining a house
 
-gardener
+<gardener>
 n. someone employed to work in a garden
 n. someone who takes care of a garden
 
-gardening
+<gardening>
 n. the cultivation of plants
 
 garlic
 n. bulbous herb of southern Europe widely naturalized; bulb breaks up into separate strong-flavored cloves
 n. aromatic bulb used as seasoning
 
-garrison
+<garrison>
 v. station (troops) in a fort or garrison
 n. United States abolitionist who published an anti-slavery journal (1805-1879)
 
@@ -696,7 +696,7 @@ gas
 n. a fluid in the gaseous state having neither independent shape nor volume and being able to expand indefinitely
 v. show off
 
-gasp
+<gasp>
 n. a short labored intake of breath with the mouth open
 v. breathe noisily, as when one is exhausted
 
@@ -840,7 +840,7 @@ v. give a spurt of fuel to
 gorilla
 n. largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa
 
-governess
+<governess>
 n. a woman entrusted with the care and supervision of a child (especially in a private home)
 
 government
@@ -869,7 +869,7 @@ grammatical
 a. of or pertaining to grammar
 a. conforming to the rules of grammar or usage accepted by native speakers
 
-gramophone
+<gramophone>
 n. an antique record player; the sound of the vibrating needle is amplified acoustically
 
 grandchild
@@ -898,7 +898,7 @@ grass
 n. narrow-leaved green herbage: grown as lawns; used as pasture for grazing animals; cut and dried as hay
 n. street names for marijuana
 
-gratifying
+<gratifying>
 a. pleasing to the mind or feeling
 a. affording satisfaction or pleasure
 
@@ -917,7 +917,7 @@ greece
 n. ancient Greece; a country of city-states (especially Athens and Sparta) that reached its peak in the fifth century BCE
 n. a republic in southeastern Europe on the southern part of the Balkan peninsula; known for grapes and olives and olive oil
 
-greed
+<greed>
 n. excessive desire to acquire or possess more (especially more material wealth) than one needs or deserves
 n. reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins)
 
@@ -929,7 +929,7 @@ green
 v. turn or become green
 a. concerned with or supporting or in conformity with the political principles of the Green Party
 
-greengrocer
+<greengrocer>
 n. a grocer who sells fresh fruits and vegetables
 
 greet
@@ -943,14 +943,14 @@ grey
 v. make grey
 n. United States writer of western adventure novels (1875-1939)
 
-grocer
+<grocer>
 n. a retail merchant who sells foodstuffs (and some household supplies)
 
 grocery
 n. a marketplace where groceries are sold
 n. (usually plural) consumer goods sold by a grocer
 
-groundless
+<groundless>
 a. without a basis in reason or fact
 
 group
@@ -971,7 +971,7 @@ growth
 n. the gradual beginning or coming forth
 n. (pathology) an abnormal proliferation of tissue (as in a tumor)
 
-grunt
+<grunt>
 n. medium-sized tropical marine food fishes that utter grunting sounds when caught
 n. an unskilled or low-ranking soldier or other worker
 
@@ -997,7 +997,7 @@ n. someone who shows the way by leading or advising
 guitar
 n. a stringed instrument usually having six strings; played by strumming or plucking
 
-gum
+<gum>
 n. wood or lumber from any of various gum trees especially the sweet gum
 v. cover, fill, fix or smear with or as if with gum
 
@@ -1005,14 +1005,14 @@ gun
 n. the discharge of a firearm as signal or as a salute in military ceremonies
 n. a hand-operated pump that resembles a revolver; forces grease into parts of a machine
 
-gunpowder
+<gunpowder>
 n. a mixture of potassium nitrate, charcoal, and sulfur in a 75:15:10 ratio which is used in gunnery, time fuses, and fireworks
 
 guy
 n. an informal term for a youth or man
 v. subject to laughter or ridicule
 
-gymnast
+<gymnast>
 n. an athlete who is skilled in gymnastics
  Sponsored Links	
 All CopyRight Reserved (2004-2022), Online English Test Resources of www.ex
