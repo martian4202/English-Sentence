@@ -1,5 +1,5 @@
 
-habitual
+<habitual>
 a. commonly used or practiced; usual
 
 hair
@@ -10,7 +10,7 @@ haircut
 n. the style in which hair has been cut
 n. the act of cutting the hair
 
-hairpin
+<hairpin>
 n. a double pronged pin used to hold women's hair in place
 
 half
@@ -25,7 +25,7 @@ hall
 n. United States child psychologist whose theories of child psychology strongly influenced educational psychology (1844-1924)
 n. English writer whose novel about a lesbian relationship was banned in Britain for many years (1883-1943)
 
-halve
+<halve>
 v. divide by two; divide into halves
 
 hammer
@@ -39,18 +39,18 @@ n. something written by hand
 handbag
 n. a container used for carrying money and small personal items or accessories (especially by women)
 
-handicapped
+<handicapped>
 n. people collectively who are crippled or otherwise physically handicapped
 a. incapable of functioning as a consequence of injury or illness
 
-handkerchief
+<handkerchief>
 n. a square piece of cloth used for wiping the eyes or nose or as a costume accessory
 
 handling
 n. the management of someone or something
 n. manual (or mechanical) carrying or moving or delivering or working with something
 
-handout
+<handout>
 v. give to several people
 n. giving money or food or clothing to a needy person
 
@@ -89,13 +89,13 @@ hardness
 n. the property of being rigid and resistant to pressure; not easily scratched; measured on Mohs scale
 n. devoid of passion or feeling; hardheartedness
 
-hardship
+<hardship>
 n. a state of misfortune or affliction
 n. something that causes or entails suffering
 hard-working
 a. characterized by hard work and perseverance
 
-hare
+<hare>
 n. flesh of any of various rabbits or hares (wild or domesticated) eaten as food
 n. swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes
 
@@ -111,11 +111,11 @@ hate
 v. dislike intensely; feel antipathy or aversion towards
 n. the emotion of intense dislike; a feeling of dislike so strong that it demands action
 
-hateful
+<hateful>
 a. characterized by malice
 a. evoking or deserving hatred
 
-hatred
+<hatred>
 n. the emotion of intense dislike; a feeling of dislike so strong that it demands action
 
 have
@@ -161,18 +161,18 @@ heart
 n. a plane figure with rounded sides curving inward at the top and intersecting at the bottom; conventionally used on playing cards and valentines
 n. an area that is approximately central within some larger region
 
-heartfelt
+<heartfelt>
 a. earnest
 
-hearth
+<hearth>
 n. an area near a fireplace (usually paved and extending out into a room)
 n. home symbolized as a part of the fireplace
 
-heartily
+<heartily>
 ad. in a hearty manner
 ad. with gusto and without reservation
 
-hearty
+<hearty>
 a. showing warm and heartfelt friendliness
 a. consuming abundantly and with gusto
 
@@ -180,7 +180,7 @@ heat
 n. the sensation caused by heat energy
 n. applies to nonhuman mammals: a state or period of heightened sexual arousal and activity
 
-heated
+<heated>
 a. made warm or hot (`het' is a dialectal variant of `heated')
 a. marked by emotional heat; vehement
 
@@ -211,7 +211,7 @@ hen
 n. adult female chicken
 n. adult female bird
 
-herbal
+<herbal>
 a. of or relating to herbs
 n. tea-like drink made of leaves of various herbs
 
@@ -219,26 +219,26 @@ here
 n. the present location; this place
 a. being here now
 
-hereafter
+<hereafter>
 ad. in a subsequent part of this document or statement or matter etc.
 ad. in a future life or state
 
-hereby
+<hereby>
 ad. (formal) by means of this
 
-herein
+<herein>
 ad. in this place or thing or document
 
-hereinafter
+<hereinafter>
 ad. in a subsequent part of this document or statement or matter etc.
 
-hereof
+<hereof>
 ad. of or concerning this
 
-hereto
+<hereto>
 ad. to this writing or document
 
-herewith
+<herewith>
 ad. (formal) by means of this
 
 hero
@@ -249,7 +249,7 @@ heroic
 a. showing extreme courage; especially of actions courageously undertaken in desperation as a last resort
 n. a verse form suited to the treatment of heroic or elevated themes; dactylic hexameter or iambic pentameter
 
-heroine
+<heroine>
 n. the main good female character in a work of fiction
 n. a woman possessing heroic qualities or a woman who has performed heroic deeds
 
@@ -265,7 +265,7 @@ high
 n. an air mass of higher than normal pressure
 a. (used of the smell of meat) smelling spoiled or tainted
 
-highland
+<highland>
 n. elevated (e.g., mountainous) land
 a. used of high or hilly country
 
@@ -276,7 +276,7 @@ ad. at a high rate or wage
 highway
 n. a major road for any form of motor transport
 
-hijacker
+<hijacker>
 n. someone who uses force to take over a vehicle (especially an airplane) in order to reach an alternative destination
 n. a holdup man who stops a vehicle and steals from it
 
@@ -284,14 +284,14 @@ hill
 n. risque English comedian (1925-1992)
 n. a local and well-defined elevation of the land
 
-hillside
+<hillside>
 n. the side or slope of a hill
 
-hind
+<hind>
 n. a female deer, especially an adult female red deer
 a. located at or near the back of an animal
 
-hip
+<hip>
 n. the fruit of a rose plant
 n. the ball-and-socket joint between the head of the femur and the acetabulum
 
@@ -345,14 +345,14 @@ n. poor people who unfortunately do not have a home to live in
 homework
 n. preparatory school work done outside school (especially at home)
 
-homogenous
+<homogenous>
 a. all of the same or similar kind or nature
 
 honest
 a. without dissimulation; frank
 a. not forged
 
-honesty
+<honesty>
 n. southeastern European plant cultivated for its fragrant purplish flowers and round flat papery silver-white seedpods that are used for indoor decoration
 n. the quality of being honest
 
@@ -368,7 +368,7 @@ honor
 n. the quality of being honorable and having a good name
 v. accept as pay
 
-honorable
+<honorable>
 a. deserving of esteem and respect
 a. adhering to ethical and moral principles
 
@@ -388,7 +388,7 @@ hopeless
 a. certain to fail
 a. of a person unable to do something skillfully
 
-horrify
+<horrify>
 v. fill with apprehension or alarm; cause to be unpleasantly surprised
 
 horse
@@ -402,11 +402,11 @@ hospital
 n. a health facility where patients receive treatment
 n. a medical institution where sick or injured people are given medical or surgical care
 
-hostel
+<hostel>
 n. inexpensive supervised lodging (especially for youths on bicycling trips)
 n. a hotel providing overnight lodging for travelers
 
-hostess
+<hostess>
 n. a woman innkeeper
 n. a woman host
 
@@ -448,11 +448,11 @@ human
 a. having human form or attributes as opposed to those of animals or divine beings
 a. relating to a person
 
-humanism
+<humanism>
 n. the doctrine emphasizing a person's capacity for self-realization through reason; rejects religion and the supernatural
 n. the doctrine that people's duty is to promote human welfare
 
-humiliation
+<humiliation>
 n. depriving one of self-esteem
 n. state of disgrace or loss of self-respect
 
@@ -464,7 +464,7 @@ hundred
 a. being ten more than ninety
 n. ten 10s
 
-hundredth
+<hundredth>
 a. the ordinal number of one hundred in counting order
 n. position 100 in a countable series of things
 
@@ -480,7 +480,7 @@ hunter
 n. a watch with a hinged metal lid to protect the crystal
 n. someone who hunts game
 
-hurrah
+<hurrah>
 v. shout `hurrah!'
 n. a victory cheer
 
@@ -492,18 +492,18 @@ hurt
 v. cause emotional anguish or make miserable
 a. damaged inanimate objects or their value
 
-hut
+<hut>
 n. small crude shelter used as a dwelling
 n. temporary military shelter
 
-hydraulic
+<hydraulic>
 a. moved or operated or effected by liquid (water or oil)
 a. of or relating to the study of hydraulics
 
-hydroelectric
+<hydroelectric>
 a. of or relating to or used in the production of electricity by waterpower
 
-hysteric
+<hysteric>
 n. a person suffering from hysteria
 a. characterized by or arising from psychoneurotic hysteria
 
@@ -520,7 +520,7 @@ iceland
 n. a volcanic island in the North Atlantic near the Arctic Circle
 n. an island republic on the island of Iceland; became independent of Denmark in 1944
 
-icy
+<icy>
 a. devoid of warmth and cordiality; expressive of unfriendliness or disdain
 a. covered with or containing or consisting of ice
 
@@ -528,15 +528,15 @@ idea
 n. an approximate calculation of quantity or degree or worth
 n. your intention; what you intend to do
 
-idealism
+<idealism>
 n. (philosophy) the philosophical theory that ideas are the only reality
 n. impracticality by virtue of thinking of things in their ideal form rather than as they really are
 
-idealize
+<idealize>
 v. consider or render as ideal
 v. form ideals
 
-idleness
+<idleness>
 n. the quality of lacking substance or value
 n. the trait of being idle out of a reluctance to work
 
@@ -547,7 +547,7 @@ a. resulting in suffering or adversity
 illegal
 a. prohibited by law or by official or accepted rules
 
-illiteracy
+<illiteracy>
 n. ignorance resulting from not reading
 n. an inability to read
 
@@ -562,7 +562,7 @@ imagine
 v. expect, believe, or suppose
 v. form a mental image of something that is not present or that is not the case
 
-immaterial
+<immaterial>
 a. without material form or substance
 a. not pertinent to the matter under consideration
 
@@ -582,11 +582,11 @@ imperfect
 n. a tense of verbs used in describing action that is on-going
 a. wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings
 
-imperialism
+<imperialism>
 n. a policy of extending your rule over foreign countries
 n. any instance of aggressive extension of authority
 
-imperialist
+<imperialist>
 a. of or relating to imperialism
 n. a believer in imperialism
 
@@ -602,14 +602,14 @@ important
 a. having authority or ascendancy or influence
 a. having or suggesting a consciousness of high position
 
-importation
+<importation>
 n. commodities (goods or services) bought from a foreign country
 n. the commercial activity of buying and bringing in goods from a foreign country
 
 importer
 n. someone whose business involves importing goods from outside (especially from a foreign country)
 
-imposition
+<imposition>
 n. the act of imposing something (as a tax or an embargo)
 n. an uncalled-for burden
 
@@ -621,23 +621,23 @@ impossible
 n. something that cannot be done
 a. not capable of occurring or being accomplished or dealt with
 
-impost
+<impost>
 n. the lowest stone in an arch -- from which it springs
 n. money collected under a tariff
 
-impress
+<impress>
 v. dye (fabric) before it is spun
 v. produce or try to produce a vivid impression of
 
-impression
+<impression>
 n. all the copies of a work printed at one time
 n. a vague idea in which some confidence is placed
 
-imprison
+<imprison>
 v. confine as if in a prison
 v. lock up or confine, in or as in a jail
 
-improper
+<improper>
 a. not suitable or right or appropriate
 a. not appropriate for a purpose or occasion
 
@@ -649,7 +649,7 @@ improvement
 n. the act of improving something
 n. a change for the better; progress in development
 
-impurity
+<impurity>
 n. worthless or dangerous material that should be removed
 n. the condition of being impure
 
@@ -660,11 +660,11 @@ n. a state in midwestern United States
 inaccurate
 a. not exact
 
-inaugural
+<inaugural>
 n. an address delivered at an inaugural ceremony (especially by a United States president)
 n. the ceremonial induction into a position
 
-inauguration
+<inauguration>
 n. the ceremonial induction into a position
 n. the act of starting a new operation or practice
 
@@ -700,7 +700,7 @@ inconvenience
 n. a difficulty that causes anxiety
 v. to cause inconvenience or discomfort to
 
-incorporated
+<incorporated>
 a. formed or united into a whole
 a. organized and maintained as a legal corporation
 
@@ -719,7 +719,7 @@ a. music
 increasingly
 ad. advancing in amount or intensity
 
-indebtedness
+<indebtedness>
 n. a personal relation in which one is indebted for a service or favor
 n. an obligation to pay money to another party
 
@@ -727,7 +727,7 @@ indeed
 ad. (used as an interjection) an expression of surprise or skepticism or irony etc.
 ad. in truth (often tends to intensify)
 
-indemnify
+<indemnify>
 v. make amends for; pay compensation for
 v. secure against future loss, damage, or liability; give security for
 
@@ -761,14 +761,14 @@ indoor
 a. located, suited for, or taking place within a building
 a. within doors
 
-indoors
+<indoors>
 ad. within a building
 
-induction
+<induction>
 n. an electrical phenomenon whereby an electromotive force (EMF) is generated in a closed circuit by a change in the flow of current
 n. a formal entry into an organization or position or office
 
-industrialize
+<industrialize>
 v. organize (the production of something) into an industry
 v. develop industry; become industrial
 
@@ -793,14 +793,14 @@ a. not producing desired results; wasteful
 inexpensive
 a. relatively low in price or charging low prices
 
-infinitely
+<infinitely>
 ad. without bounds
 ad. continuing forever without end
 
-infinitive
+<infinitive>
 n. the uninflected form of the verb
 
-inflammable
+<inflammable>
 a. easily ignited
 
 information
@@ -810,7 +810,7 @@ n. a message received and understood
 infrequent
 a. not frequent; not occurring regularly or at short intervals
 
-infringement
+<infringement>
 n. an act that disregards an agreement or a right
 n. a crime less serious than a felony
 
@@ -822,7 +822,7 @@ ink
 v. append one's signature to
 n. dark protective fluid ejected into the water by cuttlefish and other cephalopods
 
-inlet
+<inlet>
 n. an arm off of a larger body of water (often between rocky headlands)
 n. an opening through which fluid is admitted to a tube or container
 
@@ -833,11 +833,11 @@ inner
 a. located inward
 a. inside or closer to the inside of the body
 
-innocence
+<innocence>
 n. a state or condition of being innocent of a specific crime or offense
 n. the quality of innocent naivete
 
-inorganic
+<inorganic>
 a. lacking the properties characteristic of living organisms
 a. relating or belonging to the class of compounds not having a carbon basis
 
@@ -857,11 +857,11 @@ inside
 ad. in reality
 a. being or applying to the inside of a building
 
-insistent
+<insistent>
 a. demanding attention
 a. repetitive and persistent
 
-insofar
+<insofar>
 ad. to the degree or extent that
 
 instant
@@ -987,11 +987,11 @@ involvement
 n. the act of sharing in the activities of a group
 n. a connection of inclusion or containment
 
-inward
+<inward>
 ad. toward the center or interior
 a. directed or moving inward or toward a center
 
-inwards
+<inwards>
 ad. to or toward the inside of
 ad. toward the center or interior
 
@@ -1007,7 +1007,7 @@ iron
 n. a golf club that has a relatively narrow metal head
 a. extremely robust
 
-ironical
+<ironical>
 a. humorously sarcastic or mocking
 a. characterized by often poignant difference or incongruity between what is expected and what actually is
 
@@ -1015,7 +1015,7 @@ irregularity
 n. not characterized by a fixed principle or rate; at irregular intervals
 n. behavior that breaches the rule or etiquette or custom or morality
 
-irritation
+<irritation>
 n. a sudden outburst of anger
 n. the neural or electrical arousal of an organ or muscle or gland
 
@@ -1037,11 +1037,11 @@ a. of or pertaining to or characteristic of Italy or its people or culture or la
 italy
 n. a republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD
 
-itch
+<itch>
 v. have or perceive an itch
 v. have a strong desire or urge to do something
 
-itemize
+<itemize>
 v. place on a list of items
 v. specify individually
 
@@ -1064,7 +1064,7 @@ japanese
 n. a native or inhabitant of Japan
 a. of or relating to or characteristic of Japan or its people or their culture or language
 
-jaw
+<jaw>
 n. the part of the skull of a vertebrate that frames the mouth and holds the teeth
 v. talk incessantly and tiresomely
 
@@ -1088,7 +1088,7 @@ n. a person belonging to the worldwide group claiming descent from Jacob (or con
 jewish
 a. of or relating to Jews or their culture or religion
 
-jingle
+<jingle>
 v. make a sound typical of metallic objects
 n. a metallic sound
 
@@ -1111,8 +1111,8 @@ joke
 n. a triviality not to be taken seriously
 n. a humorous anecdote or remark intended to provoke laughter
 
-jot
-n. a slight but appreciable amount
+<jot
+>n. a slight but appreciable amount
 v. write briefly or hurriedly; write a short note of
 
 journey
@@ -1131,7 +1131,7 @@ judge
 n. a public official authorized to decide questions brought before a court of justice
 v. determine the result of (a competition)
 
-jug
+<jug>
 n. the quantity contained in a jug
 v. stew in an earthenware jug
 
@@ -1165,7 +1165,7 @@ keeping
 n. the act of retaining something
 n. the responsibility of a guardian or keeper
 
-kettle
+<kettle>
 n. a large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it
 n. the quantity a kettle will hold
 

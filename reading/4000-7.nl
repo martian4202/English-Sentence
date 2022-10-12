@@ -1,5 +1,5 @@
 
-nail
+<nail>
 v. attach something somewhere by means of nails
 n. a former unit of length for cloth equal to 1/16 of a yard
 
@@ -14,18 +14,18 @@ n. a well-known or notable person
 nameless
 a. being or having an unknown or unnamed source
 
-namesake
+<namesake>
 n. a person with the same name as another
 
-napkin
+<napkin>
 n. garment consisting of a folded cloth drawn up between the legs andfastened at the waist; worn by infants to catch excrement
 n. a small piece of table linen that is used to wipe the mouth and to coverthe lap in order to protect clothing
 
-narrate
+<narrate>
 v. narrate or give a detailed account of
 v. provide commentary for a film, for example
 
-narration
+<narration>
 n. the act of giving an account describing incidents or a course of events
 n. (rhetoric) the second section of an oration in which the facts are set forth
 
@@ -41,7 +41,7 @@ national
 n. a person who owes allegiance to that nation
 a. concerned with or applicable to or belonging to an entire nation or country
 
-nationality
+<nationality>
 n. people having common origins or traditions and often comprising a nation
 n. the status of belonging to a particular nation by birth or naturalization
 
@@ -61,7 +61,7 @@ naughty
 a. suggestive of sexual impropriety
 a. badly behaved
 
-navel
+<navel>
 n. a scar where the umbilical cord was attached
 n. the center point or middle of something
 
@@ -89,7 +89,7 @@ necessary
 n. anything indispensable
 a. unavoidably determined by prior circumstances
 
-necessity
+<necessity>
 n. the condition of being essential or indispensable
 n. anything indispensable
 
@@ -104,7 +104,7 @@ need
 n. a condition requiring relief
 n. anything that is necessary but lacking
 
-needful
+<needful>
 a. necessary for relief or supply
 
 needless
@@ -114,7 +114,7 @@ negotiate
 v. succeed in passing through, around, or over
 v. discuss the terms of an arrangement
 
-negro
+<negro>
 a. relating to or characteristic of or being a member of the traditional racialdivision of mankind having brown to black pigmentation and tightly curledhair
 n. a person with dark skin who comes from Africa (or whose ancestors camefrom Africa)
 
@@ -126,7 +126,7 @@ neighborhood
 n. a surrounding or nearby region
 n. the approximate amount of something (usually used prepositionally as in`in the region of')
 
-neighboring
+<neighboring>
 a. having a common boundary or edge; abutting; touching
 
 neither
@@ -135,7 +135,7 @@ a. not either; not one or the other
 nephew
 n. a son of your brother or sister
 
-nerve
+<nerve>
 n. impudent aggressiveness
 n. the courage to carry on
 
@@ -143,7 +143,7 @@ nest
 n. a structure in which animals lay eggs or give birth to their young
 v. fit together or fit inside
 
-nestle
+<nestle>
 n. a close and affectionate (and often prolonged) embrace
 v. lie in a sheltered position
 
@@ -183,17 +183,17 @@ nickname
 n. a familiar name for a person (often a shortened version of a person'sgiven name)
 n. a descriptive name for a place or thing
 
-niece
+<niece>
 n. a daughter of your brother or sister
 
 night
 n. the period spent sleeping
 n. the dark part of the diurnal cycle considered a time unit
 
-nightgown
+<nightgown>
 n. lingerie consisting of a loose dress designed to be worn in bed by women
 
-nightingale
+<nightingale>
 n. English nurse remembered for her work during the Crimean War (1820-1910)
 n. European songbird noted for its melodious nocturnal song
 
@@ -220,14 +220,14 @@ no.
 ad. referring to the degree to which a certain quality is present
 a. quantifier; used with either mass nouns or plural count nouns forindicating a complete or almost complete lack or zero quantity of
 
-noble
+<noble>
 a. of or belonging to or constituting the hereditary aristocracy especially asderived from feudal times
 a. inert especially toward oxygen
 
 nobody
 n. a person of no influence
 
-nod
+<nod>
 v. let the head fall forward through drowsiness
 v. express or signify by nodding
 
@@ -277,7 +277,7 @@ nose
 n. a symbol of inquisitiveness
 n. a front that resembles a human nose (especially the front of an aircraft)
 
-nostril
+<nostril>
 n. either one of the two external openings to the nasal cavity in the nose
 
 not
@@ -311,10 +311,10 @@ noun
 n. a content word that can be used to refer to a person, place, thing, quality,or action
 n. the word class that can serve as the subject or object of a verb, the objectof a preposition, or in apposition
 
-novelette
+<novelette>
 n. a short novel
 
-novelist
+<novelist>
 n. one who writes novels
 
 november
@@ -336,14 +336,14 @@ nurse
 v. give suck to
 n. a woman who is the custodian of children
 
-nut
+<nut>
 n. Egyptian goddess of the sky
 n. someone who is so ardently devoted to something that it resembles anaddiction
 o.k.
 v. give sanction to
 n. an endorsement
 
-obedience
+<obedience>
 n. behavior intended to please your parents
 n. the act of obeying; dutiful or submissive behavior with respect to anotherperson
 
@@ -361,11 +361,11 @@ n. an expert who observes and comments on something
 obviously
 ad. unmistakably (`plain' is often used informally for `plainly')
 
-occident
+<occident>
 n. the countries of (originally) Europe and (now including) North Americaand South America
 n. the hemisphere that includes North America and South America
 
-occidental
+<occidental>
 n. a native inhabitant of the Occident
 n. an artificial language
 
@@ -376,7 +376,7 @@ n. a large body of water constituting a principal part of the hydrosphere
 oceania
 n. a large group of islands in the south Pacific including Melanesia andMicronesia and Polynesia (and sometimes Australasia and the MalayArchipelago)
 
-oceanography
+<oceanography>
 n. the branch of science dealing with physical and biological aspects of theoceans
 o-clock
 ad. according to the clock
@@ -447,14 +447,14 @@ onward
 ad. in a forward direction
 ad. forward in time or order or degree
 
-opal
+<opal>
 n. a translucent mineral consisting of hydrated silica of variable color; somevarieties are used as gemstones
 
 open
 n. a clear or unobstructed space or expanse of land or water
 a. affording free passage or access
 
-opener
+<opener>
 n. a hand tool used for opening sealed containers (bottles or cans)
 n. the first event in a series
 
@@ -478,14 +478,14 @@ operator
 n. an agent that operates some apparatus or machine
 n. a speculator who trades aggressively on stock or commodity markets
 
-opium
+<opium>
 n. an addictive narcotic extracted from seed capsules of the opium poppy
 
-oppress
+<oppress>
 v. cause to suffer
 v. come down on or keep down by unjust use of one's authority
 
-oppression
+<oppression>
 n. the state of being kept down by unjust use of force or authority:
 n. a feeling of being oppressed
 
@@ -527,11 +527,11 @@ originally
 ad. before now
 ad. with reference to the origin or beginning
 
-orphan
+<orphan>
 n. someone or something who lacks support or care or supervision
 n. a young animal without a mother
 
-oscillation
+<oscillation>
 n. the process of oscillating between states
 n. a single complete execution of a periodically repeated phenomenon
 
@@ -555,7 +555,7 @@ outer
 a. located outside
 a. being on or toward the outside of the body
 
-outlay
+<outlay>
 n. money paid out; an amount spent
 n. the act of spending or disbursing money
 
@@ -567,10 +567,10 @@ outsider
 n. a contestant (human or animal) not considered to have a good chance towin
 n. someone who is excluded from or is not a member of a group
 
-outskirts
+<outskirts>
 n. outlying areas (as of a city or town)
 
-outturn
+<outturn>
 n. what is produced in a given time period
 
 outward
@@ -584,25 +584,25 @@ over
 n. (cricket) the division of play during which six balls are bowled at thebatsman by one player from the other team from the same end of the pitch
 ad. at or to a point across intervening space etc.
 
-overcoat
+<overcoat>
 n. a heavy coat worn over clothes in winter
 n. an additional protective coating (as of paint or varnish)
 
-overextend
+<overextend>
 v. strain excessively
 
 overhead
 ad. above your head; in the sky
 n. the expense of maintaining property (e.g., paying property taxes andutilities and insurance); it does not include depreciation or the cost offinancing or income taxes
 
-overjoy
+<overjoy>
 v. cause to feel extremely joyful or happy
 
 overnight
 ad. during or for the length of one night
 ad. happening in a short time or with great speed
 
-overpayment
+<overpayment>
 n. a payment larger than needed or expected
 n. the act of paying too much
 
@@ -616,5 +616,5 @@ n. a person who owns something
 ox
 n. any of various wild bovines especially of the genera Bos or closely related
 
-Bibos
+<Bibos>
 n. an adult castrated bull of the genus Bos; especially Bos taurus

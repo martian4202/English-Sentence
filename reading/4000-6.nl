@@ -14,11 +14,11 @@ lack
 n. the state of needing something that is absent or unavailable
 v. be without
 
-lad
+<lad>
 n. a male child (a familiar term of address to a boy)
 n. a boy or man
 
-ladder
+<ladder>
 v. come unraveled or undone as if by snagging
 n. ascending stages by which somebody or something can progress
 
@@ -30,7 +30,7 @@ lake
 n. a purplish red pigment prepared from lac or cochineal
 n. a body of (usually fresh) water surrounded by land
 
-lamp
+<lamp>
 n. a piece of furniture holding one or more electric light bulbs
 n. an artificial source of visible illumination
 
@@ -51,7 +51,7 @@ language
 n. a systematic means of communicating by the use of sounds orconventional symbols
 n. the text of a popular song or musical-comedy number
 
-lantern
+<lantern>
 n. light in a transparent protective case
 
 large
@@ -73,7 +73,7 @@ later
 a. at or toward an end or late period or stage of development
 ad. happening at a time subsequent to a reference time
 
-lathe
+<lathe>
 n. machine tool for shaping metal or wood; the workpiece turns about ahorizontal axis against a fixed tool
 
 latin
@@ -84,7 +84,7 @@ latter
 a. referring to the second of two things or persons mentioned (or the lastone or ones of several)
 n. the second of two or the second mentioned of two
 
-lattice
+<lattice>
 n. an arrangement of points or particles or objects in a regular periodicpattern in 2 or 3 dimensions
 n. framework consisting of an ornamental design made of strips of wood ormetal
 
@@ -96,7 +96,7 @@ laughter
 n. the sound of laughing
 n. the activity of laughing; the manifestation of joy or mirth or scorn
 
-lavatory
+<lavatory>
 n. a room or building equipped with one or more toilets
 n. a toilet that is cleaned of waste by the flow of water through it
 
@@ -130,7 +130,7 @@ leaf
 v. turn over pages
 n. hinged or detachable flat section (as of a table or door)
 
-leakage
+<leakage>
 n. the discharge of a fluid from some container
 
 learn
@@ -161,11 +161,11 @@ leave
 v. leave behind unintentionally
 n. the act of departing politely
 
-lecturer
+<lecturer>
 n. someone who lectures professionally
 n. a public lecturer at certain universities
 
-leeway
+<leeway>
 n. a permissible difference; allowing some freedom to move within limits
 n. (of a ship or plane) sideways drift
 
@@ -188,7 +188,7 @@ lemon
 n. a distinctive tart flavor characteristic of lemons
 n. a small evergreen tree that originated in Asia but is widely cultivated forits fruit
 
-lemonade
+<lemonade>
 n. sweetened beverage of diluted lemon juice
 
 lend
@@ -202,7 +202,7 @@ length
 n. the property of being the extent of something from beginning to end
 n. size of the gap between two places
 
-leninism
+<leninism>
 n. the political and economic theories of Lenin which provided the guidingdoctrine of the Soviet Union; the modification of Marxism by Lenin stressedthat imperialism is the highest form of capitalism (which shifts the strugglefrom developed to underdeve...
 
 lens
@@ -213,7 +213,7 @@ less
 a. (nonstandard in some uses but often idiomatic with measure phrases)fewer
 ad. comparative of little
 
-lessen
+<lessen>
 v. make smaller
 v. wear off or die down
 
@@ -240,14 +240,14 @@ liberation
 n. the attempt to achieve equal rights or status
 n. the act of liberating someone or something
 
-librarian
+<librarian>
 n. a professional person trained in library science and engaged in libraryservices
 
 library
 n. a depository built to contain books and other materials for reading andstudy
 n. a collection of literary documents or records kept for reference orborrowing
 
-lid
+<lid>
 n. headdress that protects the head from bad weather; has shaped crownand usually a brim
 n. either of two folds of skin that can be moved to cover or open the eye
 
@@ -267,7 +267,7 @@ lifetime
 n. the period during which something is functional (as between birth anddeath)
 n. the period during which something is functional (as between birth anddeath)
 
-lighten
+<lighten>
 v. make lighter or brighter
 v. reduce the weight on; make lighter
 
@@ -275,7 +275,7 @@ lighter
 n. a flatbottom boat for carrying heavy loads (especially on canals)
 n. a substance used to ignite or kindle a fire
 
-lighthouse
+<lighthouse>
 n. a tower with a light that gives warning of shoals to passing ships
 
 lightly
@@ -301,10 +301,10 @@ n. similarity in appearance or character or nature between persons or things
 liking
 n. a feeling of pleasure and enjoyment
 
-lily
+<lily>
 n. any liliaceous plant of the genus Lilium having showy pendulous flowers
 
-lime
+<lime>
 n. a white crystalline oxide used in the production of calcium hydroxide
 n. a sticky adhesive that is smeared on small branches to capture small birds
 
@@ -320,11 +320,11 @@ limited
 a. having a specific function or scope
 a. mediocre
 
-linguist
+<linguist>
 n. a person who speaks more than one language
 n. a specialist in linguistics
 
-lining
+<lining>
 n. the act of attaching an inside lining (to a garment or curtain etc.)
 n. providing something with a surface of a different material
 
@@ -335,11 +335,11 @@ n. (astrology) a person who is born while the sun is in Leo
 lioness
 n. a female lion
 
-lip
+<lip>
 n. either the outer margin or the inner margin of the aperture of agastropod's shell
 n. (botany) either of the two parts of a bilabiate corolla or calyx
 
-lipstick
+<lipstick>
 v. form by tracing with lipstick
 n. makeup that is used to color the lips
 
@@ -350,7 +350,7 @@ v. hear with intention
 listener
 n. someone who listens attentively
 
-litre
+<litre>
 n. a metric unit of capacity, formerly defined as the volume of one kilogramof pure water under standard conditions; now equal to 1,000 cubiccentimeters (or approximately 1.75 pints)
 
 little
@@ -383,7 +383,7 @@ lonely
 a. devoid of creatures
 a. lacking companions or companionship
 
-lonesome
+<lonesome>
 a. marked by dejection from being alone
 a. being the only one; single and isolated from others
 
@@ -391,7 +391,7 @@ long
 a. (of speech sounds or syllables) of relatively long duration
 a. primarily spatial sense; of relatively great or greater than average spatialextension or extension as specified
 
-longing
+<longing>
 n. prolonged unfulfilled desire or need
 long-term
 a. relating to or extending over a relatively long time
@@ -404,7 +404,7 @@ lord
 n. a person who has general authority over others
 n. a titled peer of the realm
 
-lorry
+<lorry>
 n. a large low horse-drawn wagon without sides
 n. a large truck designed to carry heavy loads; usually without sides
 
@@ -431,7 +431,7 @@ n. the magnitude of sound (usually in a specified direction)
 loudspeaker
 n. electro-acoustic transducer that converts electrical signals into soundsloud enough to be heard at a distance
 
-lovable
+<lovable>
 a. having characteristics that attract love or affection
 
 love
@@ -454,7 +454,7 @@ loyalty
 n. the act of binding yourself (intellectually or emotionally) to a course ofaction
 n. feelings of allegiance
 
-lubrication
+<lubrication>
 n. the condition of having been made smooth or slippery by the applicationof a lubricant
 n. an application of a lubricant to something
 
@@ -466,14 +466,14 @@ lucky
 a. occurring by chance
 a. having or bringing good fortune
 
-luggage
+<luggage>
 n. cases used to carry belongings when traveling
 
 lunch
 v. take the midday meal
 n. a midday meal
 
-luncheon
+<luncheon>
 n. a midday meal
 
 lung
@@ -487,7 +487,7 @@ machinery
 n. machines or machine systems collectively
 n. a system of means and activities whereby a social institution functions
 
-macroeconomics
+<macroeconomics>
 n. the branch of economics that studies the overall working of a nationaleconomy
 
 mad
@@ -513,7 +513,7 @@ magnet
 n. a characteristic that provides pleasure and attracts
 n. (physics) a device that attracts iron and produces a magnetic field
 
-maid
+<maid>
 n. an unmarried girl (especially a virgin)
 n. a female domestic
 
@@ -556,7 +556,7 @@ make-up
 v. make up something artificial or untrue
 v. adjust for
 
-malaria
+<malaria>
 n. an infective disease caused by sporozoan parasites that are transmittedthrough the bite of an infected Anopheles mosquito; marked by paroxysmsof chills and fever
 
 malaysia
@@ -582,10 +582,10 @@ manager
 n. someone who controls resources and expenditures
 n. (sports) someone in charge of training an athlete or a team
 
-managerial
+<managerial>
 a. of or relating to the function or responsibility or activity of management
 
-manhood
+<manhood>
 n. the status of being a man
 n. the quality of being human
 
@@ -596,7 +596,7 @@ n. the action of touching with the hands (or the skillful use of the hands) orby
 mankind
 n. all of the living human inhabitants of the earth
 
-manly
+<manly>
 a. possessing qualities befitting a man
 ad. in a manful manner; with qualities thought to befit a man
 
@@ -604,7 +604,7 @@ manner
 n. how something is done or how it happens
 n. a kind
 
-manufactured
+<manufactured>
 a. produced in a large-scale industrial operation
 
 manufacturer
@@ -622,7 +622,7 @@ market
 n. a marketplace where groceries are sold
 n. the customers for a particular product or service
 
-marketable
+<marketable>
 a. capable of being marketed
 a. being in demand by especially employers
 
@@ -654,7 +654,7 @@ mars
 n. (Roman mythology) Roman god of war and agriculture; father of Romulusand Remus; counterpart of Greek Ares
 n. a small reddish planet that is the 4th from the sun and is periodicallyvisible to the naked eye; minerals rich in iron cover its surface ...
 
-marvellous
+<marvellous>
 a. being or having the character of a miracle
 a. extraordinarily good or great ; used especially as intensifiers
 
@@ -677,11 +677,11 @@ master
 n. a person who has general authority over others
 v. get on top of; deal with successfully
 
-mat
+<mat>
 n. a master's degree in teaching
 n. mounting consisting of a border or background for a picture
 
-materialize
+<materialize>
 v. come into being; become reality
 
 mathematical
@@ -694,7 +694,7 @@ n. a person skilled in mathematics
 maths
 n. a science (or group of related sciences) dealing with the logic of quantityand shape and arrangement
 
-matinee
+<matinee>
 n. a theatrical performance held during the daytime (especially in theafternoon)
 
 matter
@@ -767,7 +767,7 @@ medicine
 v. treat medicinally, treat with medicine
 n. the branches of medical science that deal with nonsurgical techniques
 
-mediterranean
+<mediterranean>
 n. the largest inland sea; between Europe and Africa and Asia
 a. of or relating to or characteristic of or located near the Mediterranean Sea
 
@@ -787,11 +787,11 @@ membership
 n. the body of members of an organization or group
 n. the state of being a member
 
-memoir
+<memoir>
 n. an account of the author's personal experiences
 n. an essay on a scientific or scholarly topic
 
-merciful
+<merciful>
 a. showing or giving mercy
 a. (used conventionally of royalty and high nobility) gracious
 
@@ -824,10 +824,10 @@ meter
 n. the basic unit of length adopted under the Systeme International d'Unites(approximately 1.094 yards)
 n. rhythm as given by division into parts of equal duration
 
-meticulously
+<meticulously>
 ad. in a meticulous manner
 
-metre
+<metre>
 n. (prosody) the accent in a metrical foot of verse
 n. rhythm as given by division into parts of equal duration
 
@@ -847,7 +847,7 @@ n. device for converting sound waves into electrical energy
 microprocessor
 n. integrated circuit semiconductor chip that performs the bulk of theprocessing and controls the parts of a system
 
-midday
+<midday>
 n. the middle of the day
 
 middle
@@ -865,7 +865,7 @@ a. lacking exceptional quality or ability
 midnight
 n. 12 o'clock at night; the middle of the night
 
-midst
+<midst>
 n. the location of something surrounded by other things
 
 might
@@ -879,21 +879,21 @@ mile
 n. a unit of length used in navigation; exactly 1,852 meters; historicallybased on the distance spanned by one minute of arc in latitude
 n. a Swedish unit of length equivalent to 10 km
 
-mileage
+<mileage>
 n. the ratio of the number of miles traveled to the number of gallons ofgasoline burned
 n. distance measured in miles
 
-militia
+<militia>
 n. the entire body of physically fit civilians eligible by law for military service
 n. civilians trained as soldiers but not part of the regular army
 
-milkman
+<milkman>
 n. someone who delivers milk
 
-milky
+<milky>
 a. resembling milk in color not clear
 
-mill
+<mill>
 n. English philosopher and economist remembered for his interpretations ofempiricism and utilitarianism (1806-1873)
 n. the act of grinding to a powder or dust
 
@@ -904,7 +904,7 @@ million
 n. the number that is represented as a one followed by 6 zeros
 a. (in Roman numerals, M written with a macron over it) denoting a quantityconsisting of 1,000,000 items or units
 
-mincer
+<mincer>
 n. a kitchen utensil that cuts or chops food (especially meat) into smallpieces
 
 mind
@@ -925,7 +925,7 @@ a. composed of matter other than plant or animal
 minicomputer
 n. a digital computer of medium size
 
-mint
+<mint>
 n. any north temperate plant of the genus Mentha with aromatic leaves andsmall mauve flowers
 n. a plant where money is coined by authority of the government
 
@@ -933,11 +933,11 @@ mirror
 n. polished surface that forms images by reflecting light
 v. reflect as if in a mirror
 
-miscarry
+<miscarry>
 v. suffer a miscarriage
 v. be unsuccessful
 
-miser
+<miser>
 n. a stingy hoarder of money and possessions (often living miserably)
 
 mishandle
@@ -956,7 +956,7 @@ missing
 a. nonexistent
 a. not able to be found
 
-missionary
+<missionary>
 n. someone who attempts to convert others to a particular doctrine orprogram
 a. relating to or connected to a religious mission
 
@@ -968,14 +968,14 @@ mistaken
 a. arising from error
 a. wrong in e.g. opinion or judgment
 
-mister
+<mister>
 n. a form of address for a man
 
-mistress
+<mistress>
 n. a woman master who directs the work of others
 n. a woman schoolteacher (especially one regarded as strict)
 
-misty
+<misty>
 a. filled or abounding with fog or mist
 a. wet with mist
 
@@ -986,7 +986,7 @@ misunderstanding
 n. an understanding of something that is not correct
 n. putting the wrong interpretation on
 
-mitten
+<mitten>
 n. glove that encases the thumb separately and the other four fingerstogether
 
 mix
@@ -1001,7 +1001,7 @@ mixture
 n. an event that combines things in a mixture
 n. any foodstuff made by combining different ingredients
 
-mob
+<mob>
 n. an association of criminals
 v. press tightly together or cram
 
@@ -1025,7 +1025,7 @@ modernize
 v. make repairs, renovations, revisions or adjustments to
 v. become technologically advanced
 
-modesty
+<modesty>
 n. freedom from vanity or conceit
 n. formality and propriety of manner
 
@@ -1044,7 +1044,7 @@ money
 n. the most common medium of exchange; functions as legal tender
 n. wealth reckoned in terms of money
 
-monk
+<monk>
 n. a male religious living in a cloister and devoting himself to contemplationand prayer and work
 n. United States jazz pianist who was one of the founders of the bebop style(1917-1982)
 
@@ -1076,11 +1076,11 @@ moonlighting
 v. work a second job, usually after hours
 n. the light of the Moon
 
-mop
+<mop>
 v. make a sad face and thrust out one's lower lip
 v. to wash or wipe with or as if with a mop
 
-moral
+<moral>
 n. the significance of a story or event
 a. psychological rather than physical or tangible in effect
 
@@ -1099,10 +1099,10 @@ a. of or relating to or supporting Islamism
 mosque
 n. (Islam) a Muslim place of worship that usually has a minaret
 
-mosquito
+<mosquito>
 n. two-winged insect whose female has a long proboscis to pierce the skinand suck the blood of humans and animals
 
-moss
+<moss>
 n. tiny leafy-stemmed flowerless plants
 
 most
@@ -1114,7 +1114,7 @@ mostly
 ad. in large part; mainly or chiefly
 ad. usually; as a rule
 
-moth
+<moth>
 n. typically crepuscular or nocturnal insect having a stout body and featheryor hairlike antennae
 
 mother
@@ -1137,14 +1137,14 @@ v. ride a motorcycle
 motorist
 n. someone who drives (or travels in) an automobile
 
-motorway
+<motorway>
 n. a broad highway designed for high-speed traffic
 
 mountain
 n. a land mass that projects well above its surroundings; higher than a hill
 n. (often followed by `of') a large number or amount or extent
 
-mountainous
+<mountainous>
 a. like a mountain in size and impressiveness
 a. having hills and crags
 
@@ -1152,7 +1152,7 @@ mouse
 n. a hand-operated electronic device that controls the coordinates of acursor on your computer screen as you move it around on a pad; on thebottom of the device is a ball that rolls on the surface of the pad
 n. person who is quiet or timid
 
-mouthful
+<mouthful>
 n. a small amount eaten or drunk
 n. the quantity that can be held in the mouth
 
@@ -1176,19 +1176,19 @@ much
 ad. to a great degree or extent
 ad. to a very great degree or extent
 
-mud
+<mud>
 v. plaster with mud
 n. slanderous remarks or charges
 
-muddy
+<muddy>
 a. (of color) discolored by impurities; not bright and clear
 a. (of soil) soft and watery
 
-mug
+<mug>
 n. the human face (`kisser' and `smiler' and `mug' are informal terms for`face' and `phiz' is British)
 n. a person who is gullible and easy to take advantage of
 
-mule
+<mule>
 n. a slipper that has no fitting around the heel
 n. hybrid offspring of a male donkey and a female horse; usually sterile
 
@@ -1196,11 +1196,11 @@ multiplication
 n. the act of producing offspring or multiplying by such production
 n. an arithmetic operation that is the inverse of division; the product of twonumbers is computed
 
-mumble
+<mumble>
 v. talk indistinctly; usually in a low voice
 v. grind with the gums; chew without teeth and with great difficulty
 
-mumps
+<mumps>
 n. an acute contagious viral disease characterized by fever and by swelling ofthe parotid glands
 
 murder
@@ -1233,12 +1233,12 @@ must
 n. grape juice before or during fermentation
 a. highly recommended
 
-mustard
+<mustard>
 n. any of several cruciferous plants of the genus Brassica
 n. pungent powder or paste prepared from ground mustard seeds
 
 mutter
-v. talk indistinctly; usually in a low voice
+v. <talk> indistinctly; usually in a low voice
 n. a low continuous indistinct sound; often accompanied by movement of thelips without the production of articulate speech
 
 mystery

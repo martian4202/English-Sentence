@@ -1,5 +1,5 @@
 
-pacific
+<pacific>
 a. disposed to peace or of a peaceful nature
 n. the largest ocean in the world
 
@@ -19,7 +19,7 @@ page
 n. a boy who is employed to run errands
 n. in medieval times a youth acting as a knight's attendant as the first stagein training for knighthood
 
-pail
+<pail>
 n. a roughly cylindrical vessel that is open at the top
 n. the quantity contained in a pail
 
@@ -47,7 +47,7 @@ panda
 n. large black-and-white herbivorous mammal of bamboo forests of Chinaand Tibet; in some classifications considered a member of the bear family orof a separate family Ailuropodidae
 n. reddish-brown Old World raccoon-like carnivore; in some classific...
 
-panther
+<panther>
 n. a large spotted feline of tropical America similar to the leopard; in some
 classifications considered a member of the genus Felis
 n. a leopard in the black color phase
@@ -59,7 +59,7 @@ n. a daily or weekly publication on folded sheets; contains news and articlesand
 papers
 n. writing that provides information (especially information of an officialnature)
 
-parcel
+<parcel>
 n. an extended area of land
 v. cover with strips of canvas
 
@@ -75,7 +75,7 @@ paris
 n. a town in northeastern Texas
 n. the capital and largest city of France; and international center of cultureand commerce
 
-parish
+<parish>
 n. the local subdivision of a diocese committed to one pastor
 n. a local church community
 
@@ -87,11 +87,11 @@ parking
 n. space in which vehicles can be parked
 n. the act of maneuvering a vehicle into a location where it can be lefttemporarily
 
-parlor
+<parlor>
 n. reception room in an inn or club where visitors can be received
 n. a room in a private house or establishment where people can sit and talkand relax
 
-parrot
+<parrot>
 v. repeat mindlessly
 n. a copycat who does not understand the words or acts being imitated
 
@@ -132,7 +132,7 @@ pass
 v. pass time in a specific way
 v. throw (a ball) to another player
 
-passable
+<passable>
 a. able to be passed or traversed or crossed
 a. about average; acceptable
 
@@ -167,7 +167,7 @@ pause
 n. a time interval during which there is a temporary cessation of something
 n. temporary inactivity
 
-paw
+<paw>
 v. touch clumsily
 n. the (prehensile) extremity of the superior limb
 
@@ -175,7 +175,7 @@ pay
 v. do or give something to somebody in return
 v. give money, usually in exchange for goods or services
 
-payable
+<payable>
 n. a liability account showing how much is owed for goods and servicespurchased on credit
 a. subject to or requiring payment especially as specified
 
@@ -195,7 +195,7 @@ peaceful
 a. not disturbed by strife or turmoil or war
 a. peacefully resistant in response to injustice
 
-peacock
+<peacock>
 n. European butterfly having reddish-brown wings each marked with apurple eyespot
 n. male peafowl; having a crested head and very large fanlike tail markedwith iridescent eyes or spots
 
@@ -203,7 +203,7 @@ peanut
 n. pod of the peanut vine containing usually 2 nuts or seeds; `groundnut'and `monkey nut' are British terms
 n. widely cultivated American plant cultivated in tropical and warm regions;showy yellow flowers on stalks that bend over to the soil so that...
 
-pear
+<pear>
 n. Old World tree having sweet gritty-textured juicy fruit; widely cultivated inmany varieties
 n. sweet juicy gritty-textured fruit available in many varieties
 
@@ -211,21 +211,21 @@ pearl
 n. a shade of white the color of bleached bones
 n. a smooth lustrous round structure inside the shell of a clam or oyster;much valued as a jewel
 
-peasant
+<peasant>
 n. one of a (chiefly European) class of agricultural laborers
 n. a country person
 
-peasantry
+<peasantry>
 n. the class of peasants
 
-pedlar
+<pedlar>
 n. someone who travels about selling his wares (as on the streets or atcarnivals)
 
-peep
+<peep>
 v. make high-pitched sounds
 v. cause to appear
 
-peg
+<peg>
 n. a prosthesis that replaces a missing leg
 n. regulator that can be turned to regulate the pitch of the strings of astringed instrument
 
@@ -237,10 +237,10 @@ pencil
 n. graphite (or a similar substance) used in such a way as to be a medium ofcommunication
 n. a figure formed by a set of straight lines or light rays meeting at a point
 
-penicillin
+<penicillin>
 n. any of various antibiotics obtained from Penicillium molds (or producedsynthetically) and used in the treatment of various infections and diseases
 
-peninsular
+<peninsular>
 a. of or forming or resembling a peninsula
 
 penny
@@ -284,13 +284,13 @@ persuasion
 n. a personal belief or judgment that is not founded on proof or certainty
 n. the act of persuading (or attempting to persuade); communicationintended to induce belief or action
 
-pertinence
+<pertinence>
 n. relevance by virtue of being applicable to the matter at hand
 
-perturbed
+<perturbed>
 a. thrown into a state of agitated confusion; (`rattled' is an informal term)
 
-perusal
+<perusal>
 n. reading carefully with intent to remember
 
 pessimist
@@ -299,7 +299,7 @@ n. a person who expects the worst
 pessimistic
 a. expecting the worst possible outcome
 
-petrol
+<petrol>
 n. a volatile flammable mixture of hydrocarbons (hexane and heptane andoctane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines
 
 philosopher
@@ -337,14 +337,14 @@ n. the science of matter and energy and their interactions
 pianist
 n. a person who plays the piano
 
-pickle
+<pickle>
 v. preserve in a pickling liquid
 n. informal terms for a difficult situation
 
-pickpocket
+<pickpocket>
 n. a thief who steals from the pockets or purses of others in public places
 
-pictorial
+<pictorial>
 a. evoking lifelike images within the mind
 n. a periodical (magazine or newspaper) containing many pictures
 
@@ -367,17 +367,17 @@ v. live like a pig, in squalor
 pigeon
 n. wild and domesticated birds having a heavy body and short legs
 
-pilferage
+<pilferage>
 n. the act of stealing small amounts or small articles
 
-pilgrimage
+<pilgrimage>
 n. a journey to a sacred place
 
 pink
 v. cut in a zigzag pattern with pinking shears, in sewing
 a. of a light shade of red
 
-pint
+<pint>
 n. a British imperial capacity measure (liquid or dry) equal to 4 gills or568.26 cubic centimeters
 n. a United States liquid unit equal to 16 fluid ounces; two pints equal onequart
 
@@ -435,7 +435,7 @@ pleased
 a. feeling pleasurable satisfaction over something by which you measuresyour self-worth
 a. experiencing or manifesting pleasure
 
-plenary
+<plenary>
 a. full in all respects
 
 plentiful
@@ -450,7 +450,7 @@ plural
 a. grammatical number category referring to two or more items or units
 a. composed of more than one member, set, or kind
 
-pneumatic
+<pneumatic>
 a. of or relating to or using air (or a similar gas)
 
 pocket
@@ -460,7 +460,7 @@ n. a local region of low pressure or descending air that causes a plane tolose h
 poem
 n. a composition written in metrical feet forming rhythmical lines
 
-poet
+<poet>
 n. a writer of poems (the term is usually reserved for writers of good poetry)
 
 poetry
@@ -514,10 +514,10 @@ politician
 n. a schemer who tries to gain advantage in an organization in sly orunderhanded ways
 n. a person active in party politics
 
-polymer
+<polymer>
 n. a naturally occurring or synthetic compound consisting of large moleculesmade up of a linked series of repeated simple monomers
 
-pond
+<pond>
 n. a small lake
 
 pool
@@ -532,11 +532,11 @@ pop
 v. bulge outward
 v. release suddenly
 
-pope
+<pope>
 n. the head of the Roman Catholic Church
 n. English poet and satirist (1688-1744)
 
-popularize
+<popularize>
 v. make understandable to the general public
 v. cater to popular taste to make popular and present to the general public;bring into general or common use
 
@@ -548,10 +548,10 @@ pork
 n. a legislative appropriation designed to ingratiate legislators with theirconstituents
 n. meat from a domestic hog or pig
 
-porridge
+<porridge>
 n. soft food made by boiling oatmeal or other meal or legumes in water ormilk until thick
 
-porter
+<porter>
 n. United States composer and lyricist of musical comedies (1891-1946)
 n. United States writer of novels and short stories (1890-1980)
 
@@ -570,7 +570,7 @@ positively
 ad. so as to be positive; in a positive manner
 ad. extremely
 
-possessive
+<possessive>
 n. the case expressing ownership
 a. having or showing a desire to control or dominate
 
@@ -592,7 +592,7 @@ post-office
 n. a local branch where postal services are available
 n. a children's game in which kisses are exchanged for pretended letters
 
-postponement
+<postponement>
 n. time during which some action is awaited
 n. act of putting off to a future time
 
@@ -621,7 +621,7 @@ practise
 v. carry out or practice; as of jobs and professions
 v. learn by repetition
 
-praise
+<praise>
 n. an expression of approval and commendation
 n. offering words of homage as an act of worship
 
@@ -633,14 +633,14 @@ prayer
 n. a fixed text used in praying
 n. someone who prays to God
 
-preacher
+<preacher>
 n. someone whose occupation is preaching the gospel
 
 precisely
 ad. in a precise manner
 ad. just as it should be
 
-predominance
+<predominance>
 n. the quality of being more noticeable than anything else
 n. the state of being predominant over others
 
@@ -651,22 +651,22 @@ v. give preference to one creditor over another
 preferably
 ad. more readily or willingly
 
-preferential
+<preferential>
 a. manifesting partiality
 
 prefix
 v. attach a prefix to
 n. an affix that is added in front of the word
 
-premier
+<premier>
 v. be performed for the first time
 n. the person who holds the position of head of the government in theUnited Kingdom
 
-premises
+<premises>
 v. set forth beforehand, often as an explanation
 v. furnish with a preface or introduction
 
-preoccupy
+<preoccupy>
 v. engage or engross the interest or attention of beforehand or occupyurgently or obsessively
 v. occupy or take possession of beforehand or before another or appropriatefor use in advance
 
@@ -686,11 +686,11 @@ preposition
 n. (linguistics) the placing of one linguistic element before another (asplacing a modifier before the word it modifies in a sentence or placing anaffix before the base to which it is attached)
 n. a function word that combines with a noun or pronoun...
 
-presently
+<presently>
 ad. in the near future
 ad. at this time or period; now
 
-preset
+<preset>
 a. set in advance
 
 president
@@ -701,7 +701,7 @@ presidential
 a. relating to a president or presidency
 a. befitting a president
 
-pressing
+<pressing>
 n. the act of pressing; the exertion of pressure
 a. compelling immediate action
 
@@ -713,7 +713,7 @@ pretty
 ad. to a moderately sufficient extent or degree
 a. pleasing by delicacy or grace; not imposing
 
-prevalence
+<prevalence>
 n. a superiority in numbers or amount
 n. (epidemiology) the ratio (for a given time period) of the number ofoccurrences of a disease or event to the number of units at risk in thepopulation
 
@@ -737,7 +737,7 @@ pricing
 n. the high value or worth of something
 n. value measured by what must be given or done or undergone to obtainsomething
 
-pride
+<pride>
 n. satisfaction with your (or another's) achievements
 n. a feeling of self-respect and personal worth
 
@@ -766,7 +766,7 @@ printer
 n. (computer science) an output device that prints the results of dataprocessing
 n. someone whose occupation is printing
 
-prism
+<prism>
 n. a polyhedron with two congruent and parallel faces (the bases) and whoselateral faces are parallelograms
 n. optical device having a triangular shape and made of glass or quartz;used to deviate a beam or invert an image
 
@@ -809,7 +809,7 @@ processing
 v. institute legal proceedings against; file a suit against
 v. march in a procession
 
-procurement
+<procurement>
 n. the act of getting possession of something
 
 producer
@@ -824,7 +824,7 @@ production
 n. the act or process of producing something
 n. the creation of value or wealth by producing goods and services
 
-profess
+<profess>
 v. state freely
 v. practice as a profession, teach, or claim to be knowledgeable about
 
@@ -846,7 +846,7 @@ prohibition
 n. refusal to approve or assent to
 n. a decree that prohibits something
 
-promissory
+<promissory>
 a. relating to or having the character of a promise
 
 promotion
@@ -872,7 +872,7 @@ propagation
 n. the movement of a wave through a medium
 n. the spreading of something (a belief or practice) into new regions
 
-propellent
+<propellent>
 a. tending to or capable of propelling
 n. any substance that propels
 
@@ -880,15 +880,15 @@ properly
 ad. with reason or justice
 ad. in the right manner
 
-prophesy
+<prophesy>
 v. predict or reveal through, or as if through, divine inspiration
 v. deliver a sermon
 
-proportional
+<proportional>
 n. one of the quantities in a mathematical proportion
 a. having a constant ratio
 
-prosecution
+<prosecution>
 n. the lawyers acting for the state to put the case against the defendant
 n. the continuance of something begun with a view to its completion
 
@@ -903,15 +903,15 @@ n. the imposition of duties or quotas on imports in order to protect domesticind
 protectionism
 n. the policy of imposing duties or quotas on imports in order to protecthome industries from overseas competition
 
-protective
+<protective>
 a. intended or adapted to afford protection of some kind
 a. (usually followed by `of') solicitously caring or mindful
 
-protestant
+<protestant>
 n. an adherent of Protestantism
 n. the Protestant churches and denominations collectively
 
-protracted
+<protracted>
 a. relatively long in duration; tediously protracted
 
 proud
@@ -922,7 +922,7 @@ prove
 v. increase in volume
 v. be shown or be found to be
 
-proverb
+<proverb>
 n. a condensed but memorable saying embodying some important fact ofexperience that is taken as true by many people
 
 provide
@@ -933,7 +933,7 @@ province
 n. the proper sphere or extent of your activities
 n. the territory occupied by one of the constituent administrative districts ofa nation
 
-proximo
+<proximo>
 a. in or of the next month after the present
 
 psychological
@@ -959,14 +959,14 @@ pudding
 n. (British) the dessert course of a meal (`pud' is used informally)
 n. any of various soft thick unsweetened baked dishes
 
-puff
+<puff>
 v. blow hard and loudly
 n. a short light gust of air
 
-pulley
+<pulley>
 n. a simple machine consisting of a wheel with a groove in which a rope canrun to change the direction or point of application of a force applied to therope
 
-punctuality
+<punctuality>
 n. the quality or habit of adhering to an appointed time
 
 punctuation
@@ -979,7 +979,7 @@ v. impose a penalty on; inflict punishment on
 punishment
 n. the act of punishing
 
-puppet
+<puppet>
 n. a small figure of a person operated from above with strings by apuppeteer
 n. a person who is controlled by others and is used to perform unpleasant ordishonest tasks for someone else
 
@@ -997,11 +997,11 @@ purpose
 n. an anticipated outcome that is intended or that guides your plannedactions
 v. propose or intend
 
-pursuance
+<pursuance>
 n. a search for an alternative that meets cognitive criteria
 n. the continuance of something begun with a view to its completion
 
-pursuant
+<pursuant>
 a. (followed by `to') in conformance to or agreement with
 
 push

@@ -11,7 +11,7 @@ quarrel
 v. have a disagreement over something
 n. an arrow that is shot from a crossbow; has a head with four edges
 
-quart
+<quart>
 n. a United States liquid unit equal to 32 fluid ounces; four quarts equal onegallon
 n. a British imperial capacity measure (liquid or dry) equal to 2 pints or1.136 liters
 
@@ -89,15 +89,15 @@ a. exhibiting or caused by radioactivity
 radioactivity
 n. the spontaneous emission of a stream of particles or electromagnetic raysin nuclear decay
 
-radish
+<radish>
 n. a cruciferous plant of the genus Raphanus having a pungent edible root
 n. radish of Japan with a long hard durable root eaten raw or cooked
 
-radium
+<radium>
 n. an intensely radioactive metallic element that occurs in minute amounts in
 uranium ores
 
-rag
+<rag>
 v. censure severely or angrily
 n. newspaper with half-size pages
 
@@ -116,7 +116,7 @@ n. anything happening rapidly or in quick successive
 raincoat
 n. a water-resistant coat
 
-rainfall
+<rainfall>
 n. water falling in drops from vapor condensed in the atmosphere
 
 rainy
@@ -126,7 +126,7 @@ raise
 v. raise in rank or condition
 v. cause to become alive again
 
-rake
+<rake>
 n. a dissolute man in fashionable society
 v. sweep the length of
 
@@ -137,11 +137,11 @@ a. characterized by speed; moving with or capable of moving with highspeed
 rapidly
 ad. with rapid movements
 
-rascal
+<rascal>
 n. one who is playfully mischievous
 n. a deceitful and unreliable scoundrel
 
-rash
+<rash>
 a. marked by defiant disregard for danger or consequences
 n. a series of unexpected and unpleasant occurrences
 
@@ -153,7 +153,7 @@ rather
 ad. more readily or willingly
 ad. to a degree (not used with a negative)
 
-ratification
+<ratification>
 n. making something valid by formally ratifying or confirming it
 
 re
@@ -220,7 +220,7 @@ reasonably
 ad. with good sense or in a reasonable or intelligent manner
 ad. to a moderately sufficient extent or degree
 
-rebate
+<rebate>
 v. cut a rebate in (timber or stone)
 n. a refund of some fraction of the amount paid
 
@@ -261,7 +261,7 @@ n. return to an original state
 recruitment
 n. the act of getting recruits; enlisting people for the army (or for a job or acause etc.)
 
-rectification
+<rectification>
 n. the conversion of alternating current to direct current
 n. the act of offering an improvement to replace a mistake; setting right
 
@@ -269,15 +269,15 @@ red
 a. characterized by violence or bloodshed
 n. red color or pigment; the chromatic color resembling the hue of blood
 
-redound
+<redound>
 v. have an effect for good or ill
 v. return or recoil
 
-reduce
+<reduce>
 v. be the essential element
 v. reduce in scope while retaining essential elements
 
-reduction
+<reduction>
 n. any process in which electrons are added to an atom or ion (as byremoving oxygen or adding hydrogen); always occurs accompanied byoxidation of the reducing agent
 n. the act of decreasing or reducing something
 
@@ -285,11 +285,11 @@ refer
 v. have as a meaning
 v. seek information from
 
-referent
+<referent>
 a. having reference
 n. something that refers; a term that refers to another term
 
-refinery
+<refinery>
 n. an industrial plant for purifying a crude substance
 
 reform
@@ -300,7 +300,7 @@ refresh
 v. refresh one's memory
 v. make fresh again
 
-refuge
+<refuge>
 n. a safe place
 n. act of turning to for assistance
 
@@ -308,7 +308,7 @@ refuse
 v. resist immunologically the introduction of some foreign tissue or organ
 v. refuse to accept
 
-regard
+<regard>
 n. the condition of being honored (esteemed or respected or well regarded)
 n. (usually plural) a polite expression of desire for someone's welfare
 
@@ -349,7 +349,7 @@ regularly
 ad. having a regular form
 ad. in a regular way without variation
 
-reimbursement
+<reimbursement>
 n. compensation paid (to someone) for damages or losses or money alreadyspent etc.
 
 reinforcement
