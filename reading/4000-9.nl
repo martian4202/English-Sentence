@@ -391,11 +391,11 @@ remember
 v. call to remembrance; keep alive the memory of someone or something, asin a ceremony
 v. recapture the past; indulge in memories
 
-remembrance
+<remembrance>
 n. the ability to recall past occurrences
 n. a recognition of meritorious service
 
-reminiscent
+<reminiscent>
 a. serving to bring to mind
 
 remote
@@ -410,7 +410,7 @@ removal
 n. dismissal from office
 n. the act of removing
 
-remuneration
+<remuneration>
 n. something that remunerates
 n. the act of paying for goods or services or to recompense for losses
 
@@ -429,11 +429,11 @@ n. an event that repeats
 repeatedly
 ad. several time
 
-repetitive
+<repetitive>
 a. characterized by repetition
 a. repetitive and persistent
 
-replenishment
+<replenishment>
 n. filling again by supplying what has been used up
 
 reply
@@ -444,7 +444,7 @@ report
 n. a short account of the news
 v. make known to the authorities
 
-reportage
+<reportage>
 n. the news as presented by reporters for newspapers or radio or television
 
 reporter
@@ -465,14 +465,14 @@ n. required activity
 researcher
 n. a scientist who devotes himself to doing research
 
-resentful
+<resentful>
 a. full of or marked by resentment or indignant ill will
 
 reservation
 n. a district that is reserved for particular purpose
 n. the written record or promise of an arrangement by whichaccommodations are secured in advance
 
-resolutely
+<resolutely>
 ad. showing firm determination or purpose
 ad. with firmness
 
@@ -480,7 +480,7 @@ respectable
 a. deserving of esteem and respect
 a. characterized by socially or conventionally acceptable morals
 
-respectful
+<respectful>
 a. feeling or manifesting veneration
 a. full of or exhibiting respect
 
@@ -498,18 +498,18 @@ n. a musical notation indicating a silence of a specified duration
 restaurant
 n. a building where people go to eat
 
-restock
+<restock>
 v. stock again
 
 result
 n. a statement that solves a problem or explains how to solve the problem
 n. a phenomenon that follows and is caused by some previous phenomenon
 
-resultant
+<resultant>
 a. following or accompanying as a consequence
 n. a vector that is the sum of two or more other vectors
 
-retell
+<retell>
 v. make into fiction
 v. render verbally,
 
@@ -521,10 +521,10 @@ rewarding
 v. bestow honor or rewards upon
 n. an act performed to strengthen approved behavior
 
-rheumatism
+<rheumatism>
 n. a chronic autoimmune disease with inflammation of the joints and markeddeformities; something (possibly a virus) triggers an attack on the synoviumby the immune system, which releases cytokines that stimulate aninflammatory reaction that can lead to ...
 
-rhyme
+<rhyme>
 v. be similar in sound, especially with respect to the last syllable
 n. correspondence in the sounds of two or more lines (especially finalsounds)
 
@@ -555,7 +555,7 @@ ring
 v. ring or echo with sound
 v. sound loudly and sonorously
 
-riotous
+<riotous>
 a. produced or growing in extreme abundance
 a. characterized by unrest or disorder or insubordination
 
@@ -570,7 +570,7 @@ road
 n. a way or means to achieve something
 n. an open way (generally public) for travel or transportation
 
-rob
+<rob>
 v. rip off; ask an unreasonable price
 v. take something away by force or without the consent of the owner
 
@@ -594,7 +594,7 @@ rocket
 v. shoot up abruptly, like a rocket
 v. propel with a rocket
 
-roller
+<roller>
 n. a cylinder that revolves
 n. pigeon that executes backward somersaults in flight or on the ground
 
@@ -638,7 +638,7 @@ rose
 a. of something having a dusty purplish pink color
 n. any of many shrubs of the genus Rosa that bear roses
 
-rosy
+<rosy>
 a. presaging good fortune
 a. having the pinkish flush of health
 
@@ -654,11 +654,11 @@ royal
 a. established or chartered or authorized by royalty
 a. belonging to or befitting a supreme ruler
 
-rubber
+<rubber>
 n. an elastic material obtained from the latex sap of trees (especially trees ofthe genera Hevea and Ficus) that can be vulcanized and finished into avariety of products
 n. a waterproof overshoe that protects shoes from water or snow
 
-rubbish
+<rubbish>
 n. worthless material that is to be disposed of
 v. attack strongly
 
@@ -666,7 +666,7 @@ rude
 a. (used especially of commodities) being unprocessed or manufacturedusing only simple or minimal processes
 a. (of persons) lacking in refinement or grace
 
-rug
+<rug>
 n. floor covering consisting of a piece of thick heavy fabric (usually with napor pile)
 
 ruler
@@ -706,6 +706,6 @@ russian
 n. a native or inhabitant of Russia
 n. the Slavic language that is the official language of Russia
 
-rusty
+<rusty>
 a. covered with or consisting of rust
 a. impaired in skill by neglect

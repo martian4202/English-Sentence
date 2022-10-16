@@ -1,9 +1,9 @@
 
-tabulate
+<tabulate>
 v. arrange or enter in tabular form
 v. shape or cut with a flat surface
 
-tactful
+<tactful>
 a. showing skill and sensitivity in dealing with people
 a. having or showing a sense of what is fitting and considerate in dealingwith others
 
@@ -18,7 +18,7 @@ take-off
 v. take time off from work; stop working temporarily
 v. prove fatal
 
-tale
+<tale>
 n. a message that tells the particulars of an act or occurrence or course ofevents; presented in writing or drama or cinema or as a radio or televisionprogram
 n. a trivial lie
 
@@ -26,7 +26,7 @@ talk
 v. express in speech
 n. discussion; (`talk about' is a less formal alternative for `discussion of')
 
-talkative
+<talkative>
 a. friendly and open and willing to talk
 a. full of trivial conversation
 
@@ -46,7 +46,7 @@ n. a magnetic recorder using magnetic tape
 tape-recording
 n. a recording made on magnetic tape
 
-tare
+<tare>
 n. weedy annual grass often occurs in grainfields and other cultivated land;
 seeds sometimes considered poisonous
 n. the weight of a motor vehicle, railroad car, or aircraft without its fuel orcargo
@@ -94,7 +94,7 @@ teens
 n. the time of life between the ages of 12 and 20
 n. all the numbers that end in -teen
 
-telefax
+<telefax>
 v. send something via a facsimile machine
 
 telegram
@@ -123,7 +123,7 @@ n. the cardinal number that is the sum of nine and one; the base of thedecimal s
 tennis
 n. a game played with rackets by two or four players who hit a ball back andforth over a net that divides the court
 
-tent
+<tent>
 n. a web that resembles a tent or carpet
 n. a portable shelter (usually of canvas stretched over supporting poles andfastened to the ground with ropes and pegs)
 
@@ -180,24 +180,24 @@ there
 n. a location other than here; that place
 ad. in that matter
 
-thereafter
+<thereafter>
 ad. from that time on
 
-therefrom
+<therefrom>
 ad. from that circumstance or source
 ad. from that place or from there
 
-therein
+<therein>
 ad. (formal) in or into that thing or place
 
-thereof
+<thereof>
 ad. of or concerning this or that
 ad. from that circumstance or source
 
-thereon
+<thereon>
 ad. on that
 
-therewith
+<therewith>
 ad. with that or this or it
 
 thick
@@ -282,7 +282,7 @@ thrift
 n. extreme care in spending money; reluctance to spend moneyunnecessarily
 n. any of numerous sun-loving low-growing evergreens of the genus Armeriahaving round heads of pink or white flowers
 
-thriller
+<thriller>
 n. a suspenseful adventure story or play or movie
 
 throne
@@ -297,7 +297,7 @@ throw
 v. organize or be responsible for
 v. get rid of
 
-thumbtack
+<thumbtack>
 v. fasten with thumbtacks
 n. a tack for attaching papers to a bulletin board or drawing board
 
@@ -312,7 +312,7 @@ ticket
 v. provide with a ticket for passage or admission
 n. a list of candidates nominated by a political party to run for election topublic offices
 
-tickle
+<tickle>
 v. touch (a body part) lightly so as to excite the surface nerves and causeuneasiness, laughter, or spasmodic movements
 n. the act of tickling
 
@@ -335,7 +335,7 @@ tightly
 ad. securely fixed or fastened
 ad. in a tight or constricted manner
 
-tigress
+<tigress>
 n. a female tiger
 
 till
@@ -357,7 +357,7 @@ n. metal container for storing dry foods such as tea or flour
 tiny
 a. very small
 
-tiptoe
+<tiptoe>
 a. walking on the tips of ones's toes so as to make no noise
 v. walk on one's toes
 
@@ -369,13 +369,13 @@ tired
 a. depleted of strength or energy
 a. repeated too often; overfamiliar through overuse
 
-tiresome
+<tiresome>
 a. so lacking in interest as to cause mental weariness
 
-toad
+<toad>
 n. any of various tailless stout-bodied amphibians with long hind limbs forleaping; semiaquatic and terrestrial species
 
-tobacco
+<tobacco>
 n. aromatic annual or perennial herbs and shrubs
 n. leaves of the tobacco plant dried and prepared for smoking or ingestion
 
@@ -409,7 +409,7 @@ ton
 n. a British unit of weight equivalent to 2240 pounds
 n. a United States unit of weight equivalent to 2000 pounds
 
-tone
+<tone>
 n. (music) the distinctive property of a complex sound (a voice or noise ormusical sound)
 n. a musical interval of two semitones
 
@@ -417,10 +417,10 @@ tonight
 ad. during the night of the present day
 n. the present or immediately coming night
 
-tonnage
+<tonnage>
 n. a tax imposed on ships that enter the US; based on the tonnage of theship
 
-tonne
+<tonne>
 n. a unit of weight equivalent to 1000 kilograms
 
 too
@@ -449,11 +449,11 @@ top
 v. reach or ascend the top of
 n. a garment (especially for women) that extends from the shoulders to thewaist or hips
 
-torment
+<torment>
 n. extreme mental distress
 n. a feeling of intense annoyance caused by being tormented
 
-torpedo
+<torpedo>
 n. an explosive device that is set off in an oil well (or a gas well) to start or
 to increase the flow of oil (or gas)
 v. attack or hit with torpedoes
@@ -529,11 +529,11 @@ training
 n. the result of good upbringing (especially knowledge of correct socialbehavior)
 n. activity leading to skilled behavior
 
-tram
+<tram>
 n. a conveyance that transports passengers or freight in carriers suspendedfrom cables and supported by a series of towers
 v. travel by tram
 
-transact
+<transact>
 v. conduct business
 
 transferable
@@ -575,11 +575,11 @@ n. the act of going from one place to another
 traveler
 n. a person who changes location
 
-treasure
+<treasure>
 n. art highly prized for its beauty or perfection
 n. a collection of precious things
 
-treasurer
+<treasurer>
 n. an officer charged with receiving and disbursing funds
 
 treat
@@ -606,7 +606,7 @@ trip
 n. an unintentional but embarrassing blunder
 n. an accidental misstep threatening (or causing) a fall
 
-triplicate
+<triplicate>
 n. one of three copies; any of three things that correspond to one anotherexactly
 v. reproduce threefold
 
@@ -614,14 +614,14 @@ triumphant
 a. experiencing triumph
 a. joyful and proud especially because of triumph or success
 
-trolley
+<trolley>
 n. a wheeled vehicle that runs on rails and is propelled by electricity
 
 troop
 v. march in a procession
 n. a group of soldiers
 
-trot
+<trot>
 n. radicals who support Trotsky's theory that socialism must be establishedthroughout the world by continuing revolution
 v. ride at a trot
 
@@ -657,16 +657,16 @@ try
 v. give pain or trouble to
 v. put on a garment in order to see whether it fits and looks nice
 
-tuberculosis
+<tuberculosis>
 n. infection transmitted by inhalation or ingestion of tubercle bacilli andmanifested in fever and small lesions (usually in the lungs but in variousother parts of the body in acute stages)
 
 tuesday
 n. the third day of the week; the second working day
 
-tulip
+<tulip>
 n. any of numerous perennial bulbous herbs having linear or broadlylanceolate leaves and usually a single showy flower
 
-tuna
+<tuna>
 n. important warm-water fatty fish of the genus Thunnus of the familyScombridae; usually served as steaks
 n. any very large marine food and game fish of the genus Thunnus; relatedto mackerel; chiefly of warm waters
 
@@ -689,11 +689,11 @@ turning
 n. a shaving created when something is produced by turning it on a lathe
 n. the end-product created by shaping something on a lathe
 
-turnip
+<turnip>
 n. widely cultivated plant having a large fleshy edible white or yellow root
 n. root of any of several members of the mustard family
 
-turtle
+<turtle>
 v. hunt for turtles, especially as an occupation
 n. any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming
 
@@ -735,10 +735,10 @@ n. hand-operated character printer for printing written messages onecharacter at
 typist
 n. someone paid to operate a typewriter
 
-ulcer
+<ulcer>
 n. a circumscribed inflammatory and often suppurating lesion on the skin oran internal mucous surface resulting in necrosis of tissue
 
-ultimo
+<ultimo>
 a. in or of the month preceding the present one
 
 umbrella
@@ -753,7 +753,7 @@ unacceptable
 a. not conforming to standard usage
 a. not adequate to give satisfaction
 
-unaccommodating
+<unaccommodating>
 a. offering no assistance
 a. not accommodating
 
@@ -805,11 +805,11 @@ n. the capacity for rational thought or inference or discrimination
 underwear
 n. undergarment worn next to the skin and under the outer garments
 
-underwriter
+<underwriter>
 n. an agent who sells insurance
 n. a financial institution that sells insurance
 
-unduly
+<unduly>
 ad. to an undue degree
 
 unexpected
@@ -889,7 +889,7 @@ unlucky
 a. having or bringing misfortune
 a. marked by or promising bad fortune
 
-unmerchantable
+<unmerchantable>
 a. not fit for sale
 
 unnecessary
@@ -952,7 +952,7 @@ upper
 a. higher in place or position
 n. the higher of two berths
 
-uproar
+<uproar>
 n. loud confused noise from many sources
 n. a state of commotion and noise and confusion
 
@@ -1014,7 +1014,7 @@ vaccination
 n. the scar left following inoculation with a vaccine
 n. taking a vaccine as a precaution against contracting a disease
 
-vainly
+<vainly>
 ad. to no avail
 
 valuable
@@ -1029,14 +1029,14 @@ valued
 a. held in great esteem for admirable qualities especially of an intrinsicnature
 a. (usually used in combination) having value of a specified kind
 
-van
+<van>
 n. (Great Britain) a closed railroad car that carries baggage or freight
 n. a truck with an enclosed cargo space
 
-vase
+<vase>
 n. an open jar of glass or porcelain used as an ornament or to hold flowers
 
-velvet
+<velvet>
 a. resembling velvet in having a smooth soft surface
 n. a silky densely piled fabric with a plain back
 
@@ -1059,7 +1059,7 @@ very
 ad. used as intensifiers; `real' is sometimes used informally for `really';`rattling' is informal
 ad. precisely so
 
-vest
+<vest>
 v. clothe oneself in ecclesiastical garments
 v. clothe formally; especially in ecclesiastical robes
 
@@ -1083,7 +1083,7 @@ viewpoint
 n. a place from which something can be viewed
 n. a mental position from which things are viewed
 
-villa
+<villa>
 n. Mexican revolutionary leader (1877-1923)
 n. detached or semidetached suburban house
 
@@ -1091,7 +1091,7 @@ village
 n. a community of people smaller than a town
 n. a settlement smaller than a town
 
-villain
+<villain>
 n. the principal bad character in a film or work of fiction
 n. a wicked or evil person; someone who does evil deliberately
 
@@ -1148,13 +1148,13 @@ volleyball
 n. an inflated ball used in playing volleyball
 n. a game in which two teams hit an inflated ball over a high net using theirhands
 
-volt
+<volt>
 n. a unit of potential equal to the potential difference between two points ona conductor carrying a current of 1 ampere when the power dissipatedbetween the two points is 1 watt; equivalent to the potential differenceacross a resistance of 1 ohm when 1...
 
 voting
 n. a choice that is made by counting the number of people in favor of eachalternative
 
-vouch
+<vouch>
 v. give personal assurance; guarantee
 v. give supporting evidence
 
@@ -1224,11 +1224,11 @@ warning
 a. serving to warn
 n. notification of something, usually in advance
 
-warranted
+<warranted>
 v. stand behind and guarantee the quality, accuracy, or condition of
 n. formal and explicit approval
 
-warranty
+<warranty>
 n. a written assurance that some product or service will be provided or willmeet certain specifications
 
 warship
@@ -1240,7 +1240,7 @@ v. move by or as if by water
 washing-machine
 n. a home appliance for washing clothes and linens automatically
 
-wasp
+<wasp>
 n. social or solitary hymenopterans typically having a slender body with theabdomen attached by a narrow stalk and having a formidable sting
 n. a white person of Anglo-Saxon ancestry who belongs to a Protestantdenomination
 
@@ -1270,11 +1270,11 @@ n. a steep descent of the water of a river
 waterfront
 n. the area of a city (such as a harbor or dockyard) alongside a body ofwater
 
-watertight
+<watertight>
 a. not allowing water to pass in or out
 a. without flaws or loopholes
 
-watery
+<watery>
 a. filled with water
 a. relating to or resembling or consisting of water
 
@@ -1335,7 +1335,7 @@ weekly
 ad. without missing a week
 a. of or occurring every seven days
 
-weep
+<weep>
 v. shed tears because of sadness, rage, or pain
 
 weigh
@@ -1381,14 +1381,14 @@ whale
 n. a very large person; impressive in size or qualities
 n. any of the larger cetacean mammals having a streamlined body andbreathing through a blowhole on the head
 
-wharf
+<wharf>
 v. discharge at a wharf
 v. provide with a wharf
 
 whatever
 a. one or some or every or all without specification
 
-wheat
+<wheat>
 n. a variable yellow tint; dull yellow, often diluted with white
 n. grains of common wheat; sometimes cooked whole or cracked as cereal;usually ground into flour
 
@@ -1396,7 +1396,7 @@ wheel
 v. wheel somebody or something
 n. a simple machine consisting of a circular frame with spokes (or a soliddisc) that can rotate on a shaft or axle (as in vehicles or other machines)
 
-whereabouts
+<whereabouts>
 n. the general location where something is
 
 wherever
@@ -1405,18 +1405,18 @@ ad. where in the world
 while
 n. a period of indeterminate length (usually short) marked by some action orcondition
 
-whisker
+<whisker>
 n. a long stiff hair growing from the snout or brow of most mammals as e.g.a cat
 v. furnish with whiskers
 
-whisky
+<whisky>
 n. a liquor made from fermented mash of grain
 
 white
 a. being of the achromatic color of maximum lightness; having little or nohue owing to reflection of almost all incident light
 n. a member of the Caucasoid race
 
-whitewash
+<whitewash>
 v. exonerate by means of a perfunctory investigation or through biasedpresentation of data
 v. cover with whitewash
 
@@ -1427,11 +1427,11 @@ whole
 a. not injured
 a. exhibiting or restored to vigorous good health
 
-wholesaling
+<wholesaling>
 ad. on a large scale without careful discrimination
 a. ignoring distinctions
 
-wholly
+<wholly>
 ad. to a complete degree or to the full or entire extent (`whole' is often usedinformally for `wholly')
 
 why
@@ -1485,7 +1485,7 @@ wind
 v. raise or haul up with or as if with mechanical help
 v. form into a wreath
 
-windmill
+<windmill>
 n. generator that extracts usable energy from winds
 n. a mill that is powered by the wind
 
@@ -1493,7 +1493,7 @@ window
 n. an opening in a wall or screen that admits light and air and through whichcustomers can be served
 n. a pane of glass in a window
 
-windowsill
+<windowsill>
 n. the sill of a window; the horizontal member at the bottom of the windowframe
 
 windy
@@ -1504,7 +1504,7 @@ wine
 v. drink wine
 n. fermented juice (of grapes especially)
 
-winery
+<winery>
 n. distillery where wine is made
 
 wing
@@ -1572,10 +1572,10 @@ wooden
 a. lacking ease or grace
 a. made or consisting of (entirely or in part) or employing wood
 
-woodpecker
+<woodpecker>
 n. bird with strong claws and a stiff tail adapted for climbing and a hardchisel-like bill for boring into wood for insects
 
-woollen
+<woollen>
 a. of or related to or made of wool
 n. a fabric made from the hair of sheep
 
@@ -1627,7 +1627,7 @@ worse
 n. something inferior in quality or condition or effect
 a. changed for the worse in health or fitness
 
-worship
+<worship>
 v. show devotion to (a deity)
 n. a feeling of profound love and admiration
 
@@ -1655,7 +1655,7 @@ wrapper
 n. the covering (usually paper or cellophane) in which something is wrapped
 n. a loose dressing gown for women
 
-wreath
+<wreath>
 n. flower arrangement consisting of a circular band of foliage or flowers forornamental purposes
 
 write
@@ -1682,7 +1682,7 @@ wrongly
 ad. without justice or fairness
 ad. in an inaccurate manner
 
-xerox
+<xerox>
 n. a copy made by a xerographic printer
 v. reproduce by xerography
 x-ray
@@ -1737,7 +1737,7 @@ zero
 n. a quantity of no importance
 a. of or relating to the null set (a set with no members)
 
-zinc
+<zinc>
 v. coat or cover with zinc
 n. a bluish-white lustrous metallic element; brittle at ordinary temperaturesbut malleable when heated; used in a wide variety of alloys and ingalvanizing iron; it occurs naturally as zinc sulphide in zinc blende
 

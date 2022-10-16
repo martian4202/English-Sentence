@@ -1050,7 +1050,7 @@ spread
 v. move outward
 n. a meal that is well prepared and greatly enjoyed
 
-sprinkle
+<sprinkle>
 n. a light shower that falls in some locations and not others nearby
 v. distribute loosely
 
@@ -1066,14 +1066,14 @@ stagnation
 n. inactivity of liquids; being stagnant; standing still; without current orcirculation
 n. a state of inactivity (in business or art etc)
 
-stainless
+<stainless>
 a. (of reputation) free from blemishes
 n. steel containing chromium that makes it resistant to corrosion
 
-stair
+<stair>
 n. support consisting of a place to rest the foot while ascending ordescending a stairway
 
-stamp
+<stamp>
 v. walk heavily
 v. affix a stamp to
 
@@ -1081,7 +1081,7 @@ stand
 n. a mental position from which things are viewed
 v. put into an upright position
 
-standstill
+<standstill>
 v. remain in place; hold still; remain fixed or immobile
 n. a situation in which no progress can be made or no advancement ispossible
 
@@ -1136,7 +1136,7 @@ steel
 v. cover, plate, or edge with steel
 n. a cutting or thrusting weapon that has a long metal blade and a hilt with ahand guard
 
-stencil
+<stencil>
 v. mark or print with a stencil
 n. a sheet of material (metal, plastic, cardboard, waxed paper, silk, etc.) thathas been perforated with a pattern (printing or a design); ink or paint canpass through the perforations to create the printed pattern on...
 
@@ -1144,25 +1144,25 @@ step
 n. a short distance
 v. measure (distances) by pacing
 
-stevedore
+<stevedore>
 n. a laborer who loads and unloads vessels in a port
 
-stew
+<stew>
 v. be in a huff; be silent or sullen
 v. bear a grudge; harbor ill feelings
 
-stewardess
+<stewardess>
 n. a woman steward on an airplane
 
-still
+<still>
 n. (poetic) tranquil silence
 v. cause to be quiet or not talk
 
-stillness
+<stillness>
 n. a state of no motion or movement
 n. (poetic) tranquil silence
 
-stir
+<stir>
 n. a prominent or sensational but short-lived news event
 v. move very slightly
 
@@ -1178,11 +1178,11 @@ stone
 n. United States architect (1902-1978)
 n. United States filmmaker (born in 1946)
 
-stony
+<stony>
 a. hard as granite
 a. abounding in rocks or stones
 
-stool
+<stool>
 n. a simple seat without a back or arms
 v. react to a decoy, of wildfowl
 
@@ -1211,14 +1211,14 @@ n. a message that tells the particulars of an act or occurrence or course of
 events; presented in writing or drama or cinema or as a radio or televisionprogram
 n. a piece of fiction that narrates a chain of related events
 
-stove
+<stove>
 n. any heating apparatus
 n. a kitchen appliance used for cooking food
 
-stow
+<stow>
 v. fill by packing tightly
 
-stowage
+<stowage>
 n. a room in which things are stored
 n. the charge for stowing goods
 
@@ -1246,7 +1246,7 @@ strawberry
 n. any of various low perennial herbs with many runners and bearing whiteflowers followed by edible fruits having many small achenes scattered on thesurface of an enlarged red pulpy berry
 n. sweet fleshy red fruit
 
-stray
+<stray>
 v. wander from a direct course or at random
 v. move about aimlessly or without any destination, often in search of foodor employment
 
@@ -1261,7 +1261,7 @@ street
 n. the streets of a city viewed as a depressed environment in which there ispoverty and crime and prostitution and dereliction
 n. a situation offering opportunities
 
-streetcar
+<streetcar>
 n. a wheeled vehicle that runs on rails and is propelled by electricity
 
 strength
@@ -1276,7 +1276,7 @@ strictly
 ad. in a stringent manner
 ad. restricted to something
 
-stroller
+<stroller>
 n. a small vehicle with four wheels in which a baby or child is pushed around
 n. someone who walks at a leisurely pace
 
@@ -1284,7 +1284,7 @@ strong
 a. of verbs not having standard (or regular) inflection
 a. having strength or power greater than average or expected
 
-stronghold
+<stronghold>
 n. a strongly fortified defensive structure
 
 strongly
@@ -1303,7 +1303,7 @@ study
 v. give careful consideration to
 n. a branch of knowledge
 
-stump
+<stump>
 n. (cricket) any of three upright wooden posts that form the wicket
 n. the base part of a tree that remains standing after the tree has beenfelled
 
@@ -1315,19 +1315,19 @@ stupidity
 n. a poor ability to understand or to profit from experience
 n. a stupid mistake
 
-stylist
+<stylist>
 n. an artist who is a master of a particular style
 n. someone who cuts or beautifies hair
 
-subdivide
+<subdivide>
 v. divide into smaller and smaller pieces
 v. form into subdivisions
 
-subjunctive
+<subjunctive>
 n. a mood that represents an act or state (not as a fact but) as contingent orpossible
 a. relating to a mood of verbs
 
-subordination
+<subordination>
 n. the act of mastering or subordinating someone
 n. the semantic relation of being subordinate or belonging to a lower rank orclass
 
@@ -1347,7 +1347,7 @@ substitution
 n. the act of putting one thing or person in the place of another:
 n. an event in which one thing is substituted for another
 
-suburban
+<suburban>
 a. relating to or characteristic of or situated in suburbs
 
 subway
@@ -1433,14 +1433,14 @@ super
 ad. to an extreme degree
 a. of the highest quality
 
-superiority
+<superiority>
 n. displaying a sense of being better than others
 n. the quality of being superior
 
 supermarket
 n. a large self-service grocery store selling groceries and dairy products andhousehold goods
 
-superstitious
+<superstitious>
 a. showing ignorance of the laws of nature and faith in magic or chance
 
 supper
@@ -1463,11 +1463,11 @@ n. a band (usually elastic) worn around the leg to hold up a stocking (or
 around the arm to hold up a sleeve)
 n. a support for the genitals worn by men engaging in strenuous exercise
 
-supposing
+<supposing>
 v. require as a necessary antecedent or precondition
 v. express a supposition
 
-suppression
+<suppression>
 n. forceful prevention; putting down by power or authority
 n. the act of withholding or withdrawing some book or writing frompublication or circulation
 
@@ -1496,11 +1496,11 @@ surroundings
 n. the area in which something exists or lives
 n. the environmental condition
 
-surveyor
+<surveyor>
 n. someone who conducts a statistical survey
 n. an engineer who determines the boundaries and elevations of land orstructures
 
-swan
+<swan>
 v. sweep majestically
 n. stately heavy-bodied aquatic bird with very long neck and usually whiteplumage as adult
 
@@ -1508,7 +1508,7 @@ sweat
 n. condensation of moisture on a cold surface
 v. excrete perspiration through the pores in the skin
 
-swede
+<swede>
 n. the large yellow root of a rutabaga plant used as food
 n. a native or inhabitant of Sweden
 
