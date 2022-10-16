@@ -211,3 +211,9 @@
 <bail out>
 <shoot down>
 <drive up>
+<object to>
+<tell on1>
+<drip>
+<commandeer>
+<asthma>
+<laboured>
