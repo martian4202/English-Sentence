@@ -25,26 +25,26 @@ n. a device designed to prevent injury or accidents
 said
 a. being the one previously mentioned or spoken of
 
-sail
+<sail>
 n. a large piece of fabric (usually canvas fabric) by means of which wind isused to propel a sailing vessel
 v. travel on water propelled by wind
 
-sailing
+<sailing>
 n. the activity of flying a glider
 n. the work of a sailor
 
-sailor
+<sailor>
 n. a stiff hat made of straw with a flat crown
 n. a serviceman in the navy
 
-saint
+<saint>
 v. hold sacred
 n. a person who has died and has been declared a saint by canonization
 
-salability
+<salability>
 n. the quality of being salable or marketable
 
-salable
+<salable>
 a. capable of being sold; fit for sale
 
 salad
@@ -87,10 +87,10 @@ sandwich
 n. two (or more) slices of bread with a filling between them
 v. insert or squeeze tightly between two people or objects
 
-santa
+<santa>
 n. the legendary patron saint of children; an imaginary being who is thoughtto bring presents to children at Christmas
 
-sardine
+<sardine>
 n. a deep orange-red variety of chalcedony
 n. any of various small edible herring or related food fishes frequentlycanned
 
@@ -116,7 +116,7 @@ sausage
 n. highly seasoned minced meat stuffed in casings
 n. a small nonrigid airship used for observation or as a barrage balloon
 
-saw
+<saw>
 n. a condensed but memorable saying embodying some important fact ofexperience that is taken as true by many people
 v. cut with a saw
 
@@ -124,11 +124,11 @@ say
 v. communicate or express nonverbally
 v. report or maintain
 
-scaly
+<scaly>
 a. having the body covered or partially covered with thin horny plates, assome fish and reptiles
 a. rough to the touch; covered with scales or scurf
 
-scarcity
+<scarcity>
 n. a small and inadequate amount
 
 school
@@ -150,11 +150,11 @@ a. of or relating to the practice of science
 scientist
 n. a person with advanced knowledge of one or more sciences
 
-scorching
+<scorching>
 ad. capable of causing burns
 a. hot and dry enough to burn or parch a surface
 
-scornful
+<scornful>
 a. expressing extreme contempt
 
 scotland
@@ -167,11 +167,11 @@ scottish
 a. of or relating to or characteristic of Scotland or its people or culture or itsEnglish dialect or Gaelic language
 n. the dialect of English used in Scotland
 
-scream
+<scream>
 n. a high-pitched noise resembling a human cry
 n. a joke that seems extremely funny
 
-screech
+<screech>
 v. utter a harsh abrupt scream
 v. make a high-pitched, screeching noise
 
@@ -179,7 +179,7 @@ sea
 n. anything apparently limitless in quantity or volume
 n. turbulent water with swells of considerable size
 
-seaman
+<seaman>
 n. muckraking United States journalist who exposed bad conditions inmental institutions (1867-1922)
 n. a man who serves as a sailor
 
@@ -213,7 +213,7 @@ secrecy
 n. the condition of being concealed or hidden
 n. the trait of keeping things secret
 
-secretariat
+<secretariat>
 n. thoroughbred that won the triple crown in 1973
 n. an administrative unit responsible for maintaining records and othersecretarial duties; especially for international organizations
 
@@ -237,7 +237,7 @@ seize
 v. take hold of; grab
 v. take or capture by force
 
-seizure
+<seizure>
 n. a sudden occurrence (or recurrence) of a disease
 n. the taking possession of something by legal process
 
@@ -262,7 +262,7 @@ semiconductor
 n. a conductor made with semiconducting material
 n. a substance as germanium or silicon whose electrical conductivity isintermediate between that of a metal and an insulator; its conductivityincreases with temperature and in the presence of impuriti...
 
-seminar
+<seminar>
 n. any meeting for an exchange of ideas
 n. a course offered for a small group of advanced students
 
@@ -282,7 +282,7 @@ senior
 n. an undergraduate student during the year preceding graduation
 a. older; higher in rank; longer in length of tenure or service
 
-senseless
+<senseless>
 a. not marked by the use of reason
 a. serving no useful purpose; having no excuse for being
 
@@ -296,15 +296,15 @@ n. the act of dividing or disconnecting
 september
 n. the month following August and preceding October
 
-sermon
+<sermon>
 n. an address of a religious nature (usually delivered during a churchservice)
 n. a moralistic rebuke
 
-serpent
+<serpent>
 n. limbless scaly elongate reptile; some are venomous
 n. an obsolete bass cornet; resembles a snake
 
-servant
+<servant>
 n. in a subordinate position
 n. a person working in the service of another (especially in the household)
 
@@ -352,7 +352,7 @@ severely
 ad. causing great damage or hardship
 ad. with sternness; in a severe manner
 
-sew
+<sew>
 v. fasten by sewing; do needlework
 v. create (clothes) with cloth
 sewing-machine
@@ -366,18 +366,18 @@ sexual
 a. having or involving sex
 a. involved in a sexual relationship
 
-sexuality
+<sexuality>
 n. the properties that distinguish organisms on the basis of theirreproductive roles
 
 shadow
 v. make appear small by comparison
 n. an inseparable companion
 
-shadowy
+<shadowy>
 a. lacking clarity or distinctness
 a. filled with shade
 
-shady
+<shady>
 a. (of businesses and businessmen) unscrupulous
 a. filled with shade
 
@@ -424,15 +424,15 @@ sheep
 n. woolly usually horned ruminant mammal related to the goat
 n. a timid defenseless simpleton who is readily preyed upon
 
-sheepish
+<sheepish>
 a. showing a sense of shame
 a. like or suggestive of a sheep in docility or stupidity or meekness ortimidity
 
-shelf
+<shelf>
 n. a projecting ridge on a mountain or submerged under water
 n. a support that consists of a horizontal surface for holding objects
 
-shilling
+<shilling>
 n. the basic unit of money in Tanzania; equal to 100 cents
 n. the basic unit of money in Kenya; equal to 100 cents
 
@@ -444,14 +444,14 @@ shipbuilding
 n. the construction of ships
 n. the construction of ships
 
-shipowner
+<shipowner>
 n. someone who owns a ship or a share in a ship
 
 shipping
 n. conveyance provided by the ships belonging to one country or industry
 n. the commercial enterprise of moving goods and materials
 
-shipyard
+<shipyard>
 n. a workplace where ships are built or repaired
 
 shirt
@@ -522,7 +522,7 @@ v. provide evidence for
 showroom
 n. an area where merchandise (such as cars) can be displayed
 
-shrimp
+<shrimp>
 v. fish for shrimp
 n. any of various edible decapod crustaceans
 
@@ -530,21 +530,21 @@ shut
 a. not open
 v. prevent from entering; shut out
 
-sickle
+<sickle>
 n. an edge tool for cutting grass or crops; has a curved blade and a shorthandle
 
 side
 n. an extended outer surface of an object
 n. a lengthwise dressed half of an animal's carcass used for food
 
-sidewalk
+<sidewalk>
 n. walk consisting of a paved area for pedestrians; usually beside a street orroadway
 
-sight
+<sight>
 v. take aim by looking through the sights of a gun (or other device)
 n. a range of mental vision
 
-signpost
+<signpost>
 n. a post bearing a sign that gives directions or shows the way
 v. mark with a signpost, as of a path
 
@@ -559,11 +559,11 @@ a. unable to speak because of hereditary deafness
 silicon
 n. a tetravalent nonmetallic element; next to oxygen it is the most abundantelement in the earth's crust; occurs in clay and feldspar and granite andquartz and sand; used as a semiconductor in transistors
 
-silk
+<silk>
 n. a fabric made from the fine threads produced by certain insect larvae
 n. animal fibers produced by silkworms and other larvae that spin cocoonsand by most spiders
 
-silky
+<silky>
 a. having a smooth, gleaming surface reflecting light
 
 silver
@@ -593,11 +593,11 @@ sincerely
 ad. written formula for ending a letter
 ad. with sincerity; without pretense
 
-sincerity
+<sincerity>
 n. a quality of naturalness and simplicity
 n. the trait of being serious
 
-sinful
+<sinful>
 a. characterized by iniquity; wicked because it is believed to be a sin
 a. far more than usual or expected
 
@@ -710,7 +710,7 @@ n. a natural and periodic state of rest during which consciousness of theworld i
 sleepy
 a. ready to fall asleep
 
-sleet
+<sleet>
 v. precipitate as a mixture of rain and snow
 n. partially melted snow (or a mixture of rain and snow)
 
@@ -729,10 +729,10 @@ slowly
 ad. without speed (`slow' is sometimes used informally for `slowly')
 ad. in music
 
-sly
+<sly>
 a. marked by skill in deception
 
-smack
+<smack>
 n. the act of smacking something; a blow delivered with an open hand
 n. street names for heroin
 
@@ -760,13 +760,13 @@ smoking
 a. emitting smoke in great volume
 n. a hot vapor containing fine particles of carbon being produced bycombustion
 
-smuggler
+<smuggler>
 n. someone who imports or exports without paying duties
 
-smuggling
+<smuggling>
 v. import or export without paying customs duties
 
-snail
+<snail>
 n. freshwater or marine or terrestrial gastropod mollusk usually having anexternal enclosing spiral shell
 v. gather snails
 
@@ -774,18 +774,18 @@ snake
 n. a long faint constellation in the southern hemisphere near the equatorstretching between Virgo and Cancer
 n. something long, thin, and flexible that resembles a snake
 
-sneeze
+<sneeze>
 n. a symptom consisting of the involuntary expulsion of air from the nose
 v. exhale spasmodically, as when an irritant entered one's nose
 
-sniff
+<sniff>
 v. inhale audibly through the nose
 n. sensing an odor by inhaling through the nose
 
-snobbery
+<snobbery>
 n. the trait of condescending to those of lower social status
 
-snore
+<snore>
 n. the rattling noise produced when snoring
 n. the act of snoring or producing a snoring sound
 
@@ -839,11 +839,11 @@ n. the state of being with someone
 sociologist
 n. a social scientist who studies the institutions and development of humansociety
 
-soda
+<soda>
 n. a sodium salt of carbonic acid; used in making soap powders and glassand paper
 n. a sweet drink containing carbonated water and flavoring
 
-sodium
+<sodium>
 n. a silvery soft waxy metallic element of the alkali metal group; occursabundantly in natural compounds (especially in salt water); burns with ayellow flame and reacts violently in water; occurs in sea water and in themineral halite (rock salt)
 
 sofa
@@ -876,7 +876,7 @@ solve
 v. find the solution
 v. settle, as of a debt
 
-solvency
+<solvency>
 n. the ability to meet maturing obligations as they come due
 
 some
@@ -910,14 +910,14 @@ n. a very small sum
 son-in-law
 n. the husband of your daughter
 
-sonnet
+<sonnet>
 v. compose a sonnet
 n. a verse form consisting of 14 lines with a fixed rhyme scheme
 
 soon
 ad. in the near future
 
-soot
+<soot>
 n. a black colloidal substance consisting wholly or principally of amorphouscarbon and used to make pigments and ink
 v. coat with soot
 
@@ -964,7 +964,7 @@ space
 n. (printing) a block of type without a raised letter; used for spacingbetween words or sentences
 n. the unlimited expanse in which everything is located
 
-spade
+<spade>
 n. a sturdy hand shovel that can be pushed into the earth with the foot
 n. (ethnic slur) extremely offensive name for a Black person
 
@@ -1018,11 +1018,11 @@ spend
 v. pay out
 v. spend completely
 
-spice
+<spice>
 n. any of a variety of pungent aromatic vegetable substances used forflavoring food
 v. add herbs or spices to
 
-spicy
+<spicy>
 a. having an agreeably pungent taste
 a. producing a burning sensation on the taste nerves
 
@@ -1030,14 +1030,14 @@ spider
 n. a computer program that prowls the internet looking for publiclyaccessible resources that can be added to a database; the database can thenbe searched with a search engine
 n. a skillet made of cast iron
 
-spirit
+<spirit>
 n. a fundamental emotional and activating principle determining one'scharacter
 n. the state of a person's emotions (especially with regard to pleasure ordejection)
 
 sponsorship
 n. the act of sponsoring (either officially or financially)
 
-spoonful
+<spoonful>
 n. as much as a spoon will hold
 
 sportsman
