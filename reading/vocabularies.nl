@@ -161,3 +161,6 @@
 <oversee>
 <commissariat>
 <interdiction>
+<dissuade>
+<recuperate>
+<escort>
