@@ -164,3 +164,15 @@
 <dissuade>
 <recuperate>
 <escort>
+<concrete>
+<markedly>
+<tempo>
+<stockpile>
+<accrue>
+<advantageous>
+<constituency>
+<disgraced>
+<pushback>
+<appease>
+<levy>
+<affiliate>
