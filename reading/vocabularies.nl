@@ -176,3 +176,12 @@
 <appease>
 <levy>
 <affiliate>
+<rhetorically>
+<ostensibly>
+<cater>
+<amplify>
+<deflect>
+<dissent>
+<schism>
+<outburst>
+<constituency>
