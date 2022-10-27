@@ -185,3 +185,10 @@
 <schism>
 <outburst>
 <constituency>
+<invective>
+<furious>
+<parrot>
+<inexplicably>
+<startle>
+<whisper>
+<weary>
