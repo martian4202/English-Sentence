@@ -192,3 +192,4 @@
 <startle>
 <whisper>
 <weary>
+<stiff>
