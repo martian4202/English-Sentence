@@ -193,3 +193,14 @@
 <whisper>
 <weary>
 <stiff>
+<intestine>
+<biopsy>
+<tissue>
+<calf>
+<neurological>
+<zap>
+<amyotrophic lateral sclerosis>
+<terminal>
+<pamphlet>
+<dwindling>
+<inveterate>
