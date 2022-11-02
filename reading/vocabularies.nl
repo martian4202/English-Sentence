@@ -221,3 +221,11 @@
 <tempo>
 <intricacy>
 <obsidian>
+<dismissal>
+<deluge>
+<masochist>
+<bearishness>
+<languish>
+<portfolio>
+<sticky>
+<stick>

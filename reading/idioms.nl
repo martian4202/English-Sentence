@@ -7,3 +7,5 @@
 <pillar of the community>
 
 <shoot the breeze>
+
+<with exposure to>
