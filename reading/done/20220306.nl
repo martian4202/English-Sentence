@@ -1,8 +1,3 @@
-> https://www.understandingwar.org/backgrounder/ukraine-conflict-update-1
-
-> https://www.understandingwar.org/backgrounder/ukraine-conflict-updates
-
-
 The proxy campaign is likely intended on the one hand to draw Ukrainian forces into a response that Russia would then claim to be an attack and, on the other, to use false flag attacks and <outright> disinformation to fabricate justifications for a Russian attack to “defend” “Russian citizens” in occupied Donbas.
 
 This <rhetorical> and <kinetic> activity has <cross>ed thresholds pointing to the likelihood of an actual Russian attack.
