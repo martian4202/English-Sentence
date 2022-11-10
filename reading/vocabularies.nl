@@ -1,6 +1,6 @@
 <marijuana>
 
-<perculiar>
+<peculiar>
 
 <scramble>
 
@@ -20,7 +20,7 @@
 
 <pouring>
 
-<cutthroat>
+<cut-throat>
 
 <stingy>
 
@@ -47,51 +47,51 @@
 
 <steep>
 
-<misdemeanor>
-<promiscruity>
-<regulations>
+<misdemeanour>
+<promiscuity>
+<regulation>
 <stochastic>
-<jparanoid>
-<presumaly>
-<monetised>
-<fulfill>
-<mundame>
+<paranoid>
+<presumably>
+<monetize>
+<fulfil>
+<mundane>
 <vaccinology>
 <gathering>
-<weaponise>
-<nostrils>
-<autocrats>
-<pandemics>
+<weaponize>
+<nostril>
+<autocrat>
+<pandemic>
 <coronavirus>
 <transpacific>
-<lockdowns>
-<closures>
-<tarrifs>
-<sibsidies>
-<emissions>
-<incentivise>
+<lockdown>
+<closure>
+<tariff>
+<subsidy>
+<emission>
+<incentivize>
 <groundhog>
 <fungible>
 <quo>
-<rechristened>
-<securities>
-<proliferator>
+<christen>
+<security>
+<proliferate>
 <oligarch>
 <hegemon>
 <franca>
 <foes>
 <pedestrian>
-<cluching>
+<clutching>
 <Achilles>
-<immunise>
+<immunize>
 <villain>
 <brokerage>
-<securitisation>
+<securitization>
 <legion>
 <astrobiology>
-<broadminded>
+<broad-minded>
 <contender>
-<ingenues>
+<ingénue>
 <candle>
 <heaven>
 <issuance>
@@ -124,7 +124,7 @@
 <yamming>
 <acoustical>
 <gills>
-<altrical>
+<altricial>
 
 <amphetamine>
 <pretext>
@@ -135,7 +135,7 @@
 <atrocity>
 <cleansing>
 <lodgement>
-<teneous>
+<tenuous>
 <defensible>
 <drip>
 <commandeer>
@@ -251,7 +251,7 @@
 <preservative>
 <flattering>
 <prank>
-<ecclectic>
+<eclectic>
 <blonde>
 <audition>
 <yummy>
@@ -278,3 +278,5 @@
 <overboard>
 <filth>
 <motif>
+<crease>
+<necessitate>
