@@ -1,2 +1,10 @@
 <untenable>
 <maneuver>
+<mortician>
+<analytical>
+<self-esteem>
+<overshadow>
+<conceivable>
+<sabotage>
+<wobble>
+<embolism>
