@@ -8,3 +8,16 @@
 <sabotage>
 <wobble>
 <embolism>
+<gust>
+<piss>
+<supplant>
+<revive>
+<compact>
+<superstition>
+<superstitious>
+<distinctly>
+<huddle>
+<incorporate>
+<commitment>
+<endanger>
+<justification>
