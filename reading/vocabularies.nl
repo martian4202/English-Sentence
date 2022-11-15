@@ -42,3 +42,7 @@
 <conceivably>
 <lodgment>
 <daunting>
+<slide>
+<lessen>
+<dual>
+<rein>
