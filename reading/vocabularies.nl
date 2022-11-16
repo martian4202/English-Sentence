@@ -63,3 +63,6 @@
 <immense>
 <fragility>
 <heighten>
+<premature>
+<backlash>
+<provoke>
