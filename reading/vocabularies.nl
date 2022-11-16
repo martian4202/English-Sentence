@@ -49,3 +49,13 @@
 <syllable>
 <surveillance>
 <excusable>
+<escalate>
+<substantively>
+<prominent>
+<warlord>
+<Starlinist>
+<deterrence>
+<garage>
+<communique>
+<joint>
+<represent>
