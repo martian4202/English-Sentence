@@ -46,3 +46,6 @@
 <lessen>
 <dual>
 <rein>
+<syllable>
+<surveillance>
+<excusable>
