@@ -38,6 +38,7 @@ Mr. Tribbiani: What kinda change?
 
 Joey: Well, either you break it off with Ronni
 
+
 Mr. Tribbiani: I can't do that!
 
 Joey: Then you gotta come clean with Ma! This is not right!

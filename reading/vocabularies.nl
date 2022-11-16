@@ -59,3 +59,7 @@
 <communique>
 <joint>
 <represent>
+<stress>
+<immense>
+<fragility>
+<heighten>
