@@ -49,3 +49,15 @@
 <syllable>
 <surveillance>
 <excusable>
+<methodical>
+<grassroots>
+<cadre>
+<deplore>
+<adopt>
+<terms>
+<aggression>
+<inadmissible>
+<vow>
+<striken>
+<famine>
+<commemorate>
