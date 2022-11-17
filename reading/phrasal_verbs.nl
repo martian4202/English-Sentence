@@ -219,3 +219,5 @@
 <come back>
 <take on>
 <call off>
+<vein in>
+<stamp out>
