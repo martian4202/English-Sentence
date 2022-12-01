@@ -23,3 +23,4 @@ limp
 husk
 cluck
 wither
+narrate
