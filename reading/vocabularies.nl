@@ -119,3 +119,4 @@ jolt
 picketer
 picket
 pit
+narrate
