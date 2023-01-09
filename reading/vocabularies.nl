@@ -120,3 +120,11 @@ picketer
 picket
 pit
 narrate
+atrophy
+reflexively
+cynical
+weep
+honk
+stubble
+hum
+nasal
