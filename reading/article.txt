@@ -1,0 +1,546 @@
+一天，我将参观中国的长城。	One day, I will visit the Great Wall of China.
+一晚，我们决定一起看电影。	One evening, we decided to watch a movie together.
+一个春天，花朵提早开放了。	One spring, the flowers bloomed early.
+赤道是地球中部的一个假想线。	The equator is an imaginary line around the middle of the Earth.
+他住在这栋楼的十层。	He lives on the tenth floor of the building.
+我们将在本月底开会讨论这个项目。	We will meet at the end of this month to discuss the project.
+过去塑造了今天的我们。	The past shapes who we are today.
+现在是一份礼物，因此称之为“现在”。	The present is a gift, that's why it's called "the present."
+我想知道未来为我们准备了什么。	I wonder what the future holds for us.
+这个周末我们去海滩吧。	Let's go to the beach this weekend.
+这个小镇以其美丽的建筑而闻名。	The town is famous for its beautiful architecture.
+大海平静而诱人。	The sea was calm and inviting.
+他们穿越这片土地寻找新家。	They traveled across the land in search of a new home.
+我喜欢乡村的宁静与安详。	I love the peace and quiet of the countryside.
+我们有相同的兴趣和爱好。	We share the same interests and hobbies.
+世界是一个充满奇迹的美丽地方。	The world is a beautiful place full of wonders.
+宇宙广阔而充满神秘。	The universe is vast and full of mysteries.
+太阳从东边升起，西边落下。	The sun rises in the east and sets in the west.
+今晚月亮特别明亮。	The moon looks especially bright tonight.
+地球是我们的家园，我们必须保护它。	The earth is our home and we must protect it.
+天空晴朗而湛蓝。	The sky was clear and blue.
+大海深邃而充满生机。	The sea is deep and full of life.
+地面被积雪覆盖。	The ground was covered in snow.
+这个国家以其丰富的文化和历史闻名。	The country is known for its rich culture and history.
+地球是距离太阳的第三颗行星。	Earth is the third planet from the sun.
+火星通常被称为红色星球。	Mars is often called the Red Planet.
+木星是我们太阳系中最大的行星。	Jupiter is the largest planet in our solar system.
+宇宙中的空间极其广阔。	Space in the universe is incredibly vast.
+这两栋楼之间的空间非常狭窄。	The space between the two buildings is very narrow.
+他们去电影院看最新的大片。	They went to the cinema to watch the latest blockbuster.
+剧院里挤满了兴奋的观众。	The theatre was packed with excited fans.
+我每天早上都听收音机。	I listen to the radio every morning.
+电视已成为现代生活的一个重要组成部分。	Television has become an essential part of modern life.
+互联网改变了我们的沟通方式。	The internet has changed the way we communicate.
+早餐是一天中最重要的一餐。	Breakfast is the most important meal of the day.
+我们在市中心的一家好餐厅吃了午饭。	We had lunch at a nice restaurant downtown.
+晚餐很美味，准备得很好。	Dinner was delicious and well-prepared.
+我们吃了一顿丰盛的午餐庆祝他的升职。	We had a big lunch to celebrate his promotion.
+厨师为客人准备了一顿丰盛的晚餐。	The chef prepared a wonderful dinner for the guests.
+我总是在工作前吃早饭。	I always have an early breakfast before work.
+我需要一双43码的新鞋。	I need a new pair of shoes in size 43.
+开往巴黎的火车将在5号站台出发。	The train to Paris will depart from platform 5.
+会议将在126房间举行。	The meeting will be held in room 126.
+请翻到课本的第29页。	Please turn to page 29 in your textbook.
+维生素A对良好视力是必不可少的。	Vitamin A is essential for good vision.
+考试的B部分特别具有挑战性。	Section B of the exam was particularly challenging.
+孩子们去学校学习和成长。	Children go to school to learn and grow.
+父母去学校开家长会。	Parents went to the school for the parent-teacher meeting.
+她现在在上课。	She is at school now, attending her classes.
+今天下午学校有一场体育活动。	There is a sports event at the school this afternoon.
+小偷被抓住了，不得不进监狱。	The thief was caught and had to go to prison.
+记者去监狱采访了一名囚犯。	The journalist went to the prison to interview an inmate.
+他因犯罪在监狱里度过了三年。	He spent three years in jail for his crimes.
+上周末她去监狱探望了她的朋友。	She visited her friend in the jail last weekend.
+事故后，他不得不去医院接受治疗。	After the accident, he had to go to hospital for treatment.
+她去医院看望她的奶奶。	She went to the hospital to see her grandmother.
+他计划高中毕业后上大学。	He plans to go to university after graduating high school.
+他们去大学参加科学博览会。	They went to the university for the science fair.
+每个星期天，他们去教堂参加礼拜。	Every Sunday, they go to church for the service.
+游客们去教堂欣赏它的建筑。	The tourists went to the church to admire its architecture.
+我们在车站碰面一起搭火车。	We met at the station to catch the train together.
+他们喜欢周末去电影院。	They enjoy going to the cinema on weekends.
+她喜欢早点上床睡觉以保证充足的睡眠。	She likes to go to bed early to get enough sleep.
+他因感冒躺在床上。	He is in bed with a cold.
+她坐在床上开始读书。	She sat down on the bed and started reading a book.
+他每个工作日都要上班。	He has to go to work every weekday.
+她在上班，所以现在不能接电话。	She is at work, so she cannot answer the phone right now.
+他明天早上9点开始上班。	He will start work at 9 AM tomorrow.
+她通常在下午5点下班。	She usually finishes work at 5 PM.
+他决定今天早点回家。	He decided to go home early today.
+她打电话来说她会晚点回家。	She called to say she would come home late.
+雨开始前他们刚到家。	They arrived home just before the rain started.
+他从办公室回家花了一个小时。	It took him an hour to get home from the office.
+她更喜欢周末待在家里。	She prefers to be home on weekends.
+她今天在家，因为她感觉不舒服。	She is at home today because she is not feeling well.
+狗以其忠诚和陪伴而闻名。	Dogs are known for their loyalty and companionship.
+医生是我们社区的重要工作人员。	Doctors are essential workers in our community.
+集邮是一种受欢迎的爱好。	Collecting stamps is a popular hobby.
+生活充满了起伏。	Life is full of ups and downs.
+古典音乐可以非常舒缓。	Classical music can be very soothing.
+中国菜受到世界各地人们的喜爱。	Chinese food is loved by people all over the world.
+他对跑车和赛车充满热情。	He has a passion for fast cars and racing.
+足球是全球最受欢迎的运动之一。	Football is one of the most popular sports globally.
+每年冬天他们都会去滑雪。	They go skiing every winter.
+学校每年都会举办田径比赛。	Athletics events are held annually at the school.
+历史是很多学生着迷的学科。	History is a subject that fascinates many students.
+物理学帮助我们理解自然规律。	Physics helps us understand the laws of nature.
+英语在全世界广泛使用。	English is widely spoken around the world.
+长颈鹿是最高的陆地动物。	The giraffe is the tallest land animal.
+他每天骑自行车上班。	He rides the bicycle to work every day.
+她买了相机来捕捉美丽的瞬间。	She bought the camera to capture beautiful moments.
+他在乐队里弹吉他。	He plays the guitar in a band.
+她正在学习弹钢琴。	She is learning to play the piano.
+人类能够取得伟大的成就。	Man is capable of great achievements.
+作为一个人类有着巨大的责任。	Being a human being comes with great responsibilities.
+人类在科技方面取得了惊人的进步。	The human race has made incredible advancements in technology.
+老人需要我们的关心和尊重。	The old need our care and respect.
+富人经常捐赠给慈善机构。	The rich often donate to charity.
+无家可归者应得到支持和同情。	The homeless deserve support and compassion.
+病人需要医疗照顾和关怀。	The sick require medical attention and care.
+老年人有丰富的经验可以分享。	The elderly have a wealth of experience to share.
+穷人生活中面临许多挑战。	The poor face many challenges in life.
+失业者正在寻找工作机会。	The unemployed are seeking job opportunities.
+受伤者被送往医院接受治疗。	The injured were taken to the hospital for treatment.
+一个老人坐在长椅上喂鸟。	An old man sat on the bench, feeding the birds.
+一位富人向当地学校捐赠了一大笔钱。	A rich man donated a large sum to the local school.
+法国人以其美食和时尚而闻名。	The French are known for their cuisine and fashion.
+荷兰人有着丰富的文化遗产。	The Dutch have a rich cultural heritage.
+英国人因其下午茶而闻名。	The British are famous for their afternoon tea.
+英格兰的乡村美丽而宁静。	The English countryside is beautiful and serene.
+西班牙人庆祝许多充满活力的节日。	The Spanish celebrate many vibrant festivals.
+一位法国妇女热情地迎接我们。	A French woman greeted us warmly.
+一个英国小伙子带我们游览了这座城市。	An English guy showed us around the city.
+中国人有着悠久的创新历史。	The Chinese have a long history of innovation.
+葡萄牙人以其航海技能而闻名。	The Portuguese are known for their navigational skills.
+瑞士人因其手表和巧克力而闻名。	The Swiss are famous for their watches and chocolates.
+本学期有一位中国学生加入了我们的班级。	A Chinese student joined our class this semester.
+一位葡萄牙男人与我们分享了他的旅行故事。	A Portuguese man shared his travel stories with us.
+一位瑞士妇女教我们制作传统奶酪。	A Swiss woman taught us how to make traditional cheese.
+一位意大利厨师为我们准备了一顿美味的饭菜。	An Italian chef prepared a delicious meal for us.
+意大利人对食物和家庭充满热情。	Italians are passionate about food and family.
+一位墨西哥艺术家在画廊展出了他的画作。	A Mexican artist displayed his paintings at the gallery.
+墨西哥人以多彩的传统庆祝亡灵节。	Mexicans celebrate the Day of the Dead with colorful traditions.
+一位泰国舞者在文化节上表演。	A Thai dancer performed at the cultural festival.
+泰国人以其热情好客而闻名。	Thais are known for their warm hospitality.
+捷克共和国有着丰富的历史和美丽的建筑。	The Czech Republic has a rich history and beautiful architecture.
+英国由四个国家组成。	The United Kingdom is made up of four countries.
+美国是一个多样性和机会之地。	The United States is a land of diversity and opportunity.
+多米尼加共和国以其海滩和度假胜地闻名。	The Dominican Republic is famous for its beaches and resorts.
+珠穆朗玛峰是世界上最高的山峰。	Mount Everest is the highest mountain in the world.
+苏必利尔湖是五大湖中最大的湖。	Lake Superior is the largest of the Great Lakes.
+大西洋将美洲与欧洲和非洲分隔开来。	The Atlantic Ocean separates the Americas from Europe and Africa.
+红海是一个受欢迎的潜水胜地。	The Red Sea is a popular destination for diving.
+亚马逊河流经南美洲。	The Amazon River flows through South America.
+苏伊士运河连接地中海和红海。	The Suez Canal connects the Mediterranean Sea to the Red Sea.
+撒哈拉是世界上最大的热带沙漠。	The Sahara is the largest hot desert in the world.
+戈壁沙漠横跨中国北部和蒙古南部。	The Gobi Desert spans northern China and southern Mongolia.
+泰勒一家是住在隔壁的友好家庭。	The Taylors are a friendly family who live next door.
+约翰逊一家邀请我们参加他们的烧烤派对。	The Johnsons invited us to their barbecue party.
+荷兰以其风车和郁金香而闻名。	The Netherlands is known for its windmills and tulips.
+菲律宾是东南亚的一个群岛。	The Philippines is an archipelago in Southeast Asia.
+加那利群岛是一组西班牙群岛。	The Canaries are a group of Spanish islands.
+巴哈马是一个受欢迎的度假胜地。	The Bahamas is a popular vacation destination.
+安第斯山脉是世界上最长的山脉。	The Andes is the longest mountain range in the world.
+阿尔卑斯山以其滑雪胜地而闻名。	The Alps are famous for their ski resorts.
+乌拉尔山脉将欧洲与亚洲分开。	The Urals separate Europe from Asia.
+巴西北部以其亚马逊雨林而闻名。	The north of Brazil is known for its Amazon rainforest.
+巴西北部是亚马逊盆地的所在地。	Northern Brazil is home to the Amazon Basin.
+西班牙东南部以其美丽的海岸线而闻名。	The southeast of Spain is famous for its beautiful coastline.
+西班牙东南部气候温暖阳光充足。	Southeastern Spain has a warm and sunny climate.
+北美洲由三个大国组成。	North America is made up of three large countries.
+南非以其多样的野生动物而闻名。	South Africa is known for its diverse wildlife.
+东南亚是一个文化多样性丰富的地区。	Southeast Asia is a region of rich cultural diversity.
+时代广场是一个繁忙的商业和旅游中心。	Times Square is a bustling commercial and tourist hub.
+第五大道以其高档购物闻名。	Fifth Avenue is famous for its high-end shopping.
+黄石国家公园有许多地热景观。	Yellowstone National Park is home to many geothermal features.
+曼彻斯特机场是英国最繁忙的机场之一。	Manchester Airport is one of the busiest airports in the UK.
+哈佛大学是世界上最有名望的大学之一。	Harvard University is one of the most prestigious universities in the world.
+坎特伯雷大教堂是英格兰的一个历史遗址。	Canterbury Cathedral is a historic site in England.
+爱丁堡城堡是苏格兰的一个著名地标。	Edinburgh Castle is a famous landmark in Scotland.
+喜来登酒店提供豪华住宿。	The Sheraton Hotel offers luxurious accommodations.
+假日酒店是旅行者的热门选择。	The Holiday Inn is a popular choice for travelers.
+宫殿剧院举办许多著名的演出。	The Palace Theatre hosts many famous performances.
+古根海姆博物馆以其独特的建筑而闻名。	The Guggenheim Museum is known for its unique architecture.
+国家美术馆收藏了大量艺术品。	The National Gallery houses a vast collection of art.
+白宫是美国总统的官邸。	The White House is the residence of the US President.
+雅典卫城是雅典的一个古老城堡。	The Acropolis is an ancient citadel in Athens.
+克里姆林宫是俄罗斯政府所在地。	The Kremlin is the seat of the Russian government.
+五角大楼是美国国防部的总部。	The Pentagon is the headquarters of the US Department of Defense.
+英格兰银行是英国的中央银行。	The Bank of England is the central bank of the United Kingdom.
+现代艺术博物馆位于纽约市。	The Museum of Modern Art is located in New York City.
+中国长城是古代中国文明的象征。	The Great Wall of China is a symbol of ancient Chinese civilization.
+伦敦城是一个重要的金融区。	The City of London is a major financial district.
+剑桥大学以其学术卓越而闻名。	The University of Cambridge is renowned for its academic excellence.
+剑桥大学是世界上最古老的大学之一。	Cambridge University is one of the oldest universities in the world.
+麦当劳是一家全球快餐连锁店。	McDonald's is a global fast-food chain.
+巴克莱银行是总部设在伦敦的一家大银行。	Barclays is a major bank headquartered in London.
+乔的餐馆是一家受欢迎的当地餐厅。	Joe's Diner is a popular local restaurant.
+梅西百货是美国一家著名的百货公司。	Macy's is a well-known department store in the US.
+圣约翰教堂是市内的一座历史悠久的教堂。	St John's Church is an historic church in the city.
+圣帕特里克大教堂是纽约市的一个地标。	St Patrick's Cathedral is a landmark in New York City.
+《华盛顿邮报》是一份主要的美国报纸。	The Washington Post is a major American newspaper.
+《金融时报》是一份国际领先的商业报纸。	The Financial Times is a leading international business newspaper.
+《太阳报》是英国一份受欢迎的小报。	The Sun is a popular tabloid newspaper in the UK.
+欧盟是欧洲国家的一个政治和经济联盟。	The European Union is a political and economic union of European countries.
+英国广播公司是一家英国的公共服务广播公司。	The BBC is a public service broadcaster in the UK.
+红十字会在世界各地提供人道援助。	The Red Cross provides humanitarian aid around the world.
+菲亚特是一家意大利汽车制造商。	Fiat is an Italian car manufacturer.
+索尼是一家日本跨国集团。	Sony is a Japanese multinational conglomerate.
+IBM是一家总部位于美国的全球科技公司。	IBM is a global technology company based in the US.
+新加坡航空以其优质服务而闻名。	Singapore Airlines is known for its excellent service.
+柯达是一家专门从事影像产品的公司。	Kodak is a company that specializes in imaging products.
+耶鲁大学出版社是一家主要的学术出版社。	Yale University Press is a major academic publisher.
+
+她对完成的项目感到非常满意。	She felt great satisfaction with her completed project.
+他对古典音乐有一种喜爱之情。	He has a fondness for classical music.
+她为孩子们的成就感到自豪。	She takes pride in her children's achievements.
+他对过去的错误感到羞愧。	He felt shame about his past mistakes.
+她对老师们有着深深的尊敬。	She has a deep respect for her teachers.
+他表达了对她勇气的钦佩。	He expressed his admiration for her courage.
+公共场所禁止吸烟。	There is a ban on smoking in public places.
+我们就新政策进行了长时间的讨论。	We had a long discussion about the new policy.
+她的健康状况有了显著改善。	There has been a significant improvement in her health.
+他的想法对这个项目产生了重大影响。	His ideas had a major influence on the project.
+她与公司首席执行官进行了面谈。	She had an interview with the company CEO.
+该地区缺乏资源。	There is a lack of resources in the area.
+他因持有非法物品被捕。	He was arrested for possession of illegal substances.
+这些文件的分类非常严格。	The classification of these documents is very strict.
+这辆车是公司的财产。	The car is the property of the company.
+她有睡前阅读的习惯。	She has a habit of reading before bed.
+城市的生活成本很高。	The cost of living in the city is high.
+他害怕高处。	He has a fear of heights.
+今天下雨的可能性很高。	The likelihood of rain is high today.
+很快找到解决方案的可能性很大。	There is a possibility of finding a solution soon.
+成功的概率很低。	The probability of success is low.
+我们需要解决气候变化的问题。	We need to address the problem of climate change.
+晋升的前景让他感到兴奋。	The prospect of a promotion excites him.
+有很高的感染风险。	There is a high risk of infection.
+她没有表现出任何害怕的迹象。	She showed no sign of fear.
+他表现出不愿意参加活动。	He showed a reluctance to participate in the event.
+她有能力解决复杂的问题。	She has the ability to solve complex problems.
+他们尝试打破纪录。	They made an attempt to break the record.
+提高安全标准是一个主要的关注点。	It is a major concern to improve safety standards.
+她决定搬到国外。	She made the decision to move abroad.
+他有强烈的愿望学习新语言。	He has a strong desire to learn new languages.
+她表现出了成功的强烈决心。	She showed great determination to succeed.
+他未能完成项目令人失望。	His failure to complete the project was disappointing.
+她因无法理解说明而感到沮丧。	She was frustrated by her inability to understand the instructions.
+他们获得了开始施工的许可。	They received permission to start the construction.
+建造新公园的提案获得批准。	The proposal to build a new park was approved.
+没有理由害怕。	There is no reason to be afraid.
+他拒绝合作导致了延误。	His refusal to cooperate caused delays.
+她表现出乐于助人的意愿。	She showed a willingness to help.
+他有机会见到总统。	He had the opportunity of meeting the president.
+成为医生的志向驱使她努力学习。	Her ambition of becoming a doctor drives her to study hard.
+环游世界的想法令他着迷。	The idea of traveling around the world fascinates him.
+我们可以选择搭乘晚一点的航班。	We have the option of taking a later flight.
+他们讨论了扩展业务的计划。	They discussed the plan of expanding the business.
+该项目的目标是减少碳排放。	The aim of the project is to reduce carbon emissions.
+有中奖的机会。	There is a chance of winning the lottery.
+完成任务后他感到一种成就感。	He felt a sense of accomplishment after completing the task.
+锻炼是保持健康的好方法。	Exercise is a great way of staying healthy.
+他找到了一个解决问题的方法。	He found a way to solve the problem.
+她无意离开公司。	She has no intention of leaving the company.
+他完全打算按时完成项目。	He has every intention of finishing the project on time.
+他打电话的唯一目的是道歉。	He called with the sole intention of apologizing.
+她没有表现出丝毫同意的意图。	She didn't show the slightest intention of agreeing.
+他否认有辞职的意图。	He denied having any intention of resigning.
+他去商店是为了买杂货。	He went to the store with the intention of buying groceries.
+会议将在五点钟开始。	The meeting will start at 5 o'clock.
+火车在11点45分到达。	The train arrives at 11.45.
+我们在午夜庆祝新年。	We celebrated New Year at midnight.
+我会在午饭时间给你打电话。	I'll call you at lunchtime.
+我们在日落时在海滩散步。	We took a walk on the beach at sunset.
+聚会在星期五。	The party is on Friday.
+他出生于2012年5月16日。	He was born on 16 May 2012.
+我们在新年那天拜访我们的祖父母。	We visit our grandparents on New Year's Day.
+我在生日那天收到了一个漂亮的礼物。	I received a beautiful gift on my birthday.
+学校假期在六月开始。	The school holiday starts in June.
+2012年奥运会在伦敦举行。	The Olympics were held in London in 2012.
+互联网在20世纪90年代变得流行。	The internet became popular in the 1990s.
+20世纪取得了许多技术进步。	Many technological advancements were made in the 20th century.
+过去，人们习惯手写信件。	In the past, people used to write letters by hand.
+冬天经常下雪。	It often snows in winter.
+他现在很忙。	He is busy at the moment.
+我现在不能说话。	I can't talk at the minute.
+目前，我们正专注于新项目。	At present, we are focusing on the new project.
+在这个时候，我们应该更加小心。	At this time, we should be more careful.
+他们同时到达。	They arrived at the same time.
+我们通常在周末去徒步旅行。	We usually go hiking at the weekends.
+她喜欢在周末放松。	She likes to relax at weekends.
+我们将在周末拜访朋友。	We'll visit our friends on the weekend.
+我经常在周末打网球。	I often play tennis on weekends.
+我们在圣诞节装饰房子。	We decorate the house at Christmas.
+我们在圣诞节当天吃大餐。	We have a big dinner on Christmas Day.
+城市在夜晚看起来很美丽。	The city looks beautiful at night.
+我在夜里因为噪音醒了。	I woke up in the night because of a noise.
+我早上去跑步。	I go for a run in the morning.
+我们下午见面吧。	Let's meet in the afternoon.
+她喜欢在晚上读书。	She likes to read in the evening.
+我在星期五早上有个会议。	I have a meeting on Friday morning.
+我们在星期日下午去野餐了。	We went for a picnic on Sunday afternoon.
+我在星期一晚上有一节课。	I have a class on Monday evening.
+我们将在下星期五做演讲。	We will have the presentation next Friday.
+我们去年六月去旅行了。	We went on a trip last June.
+我们今晚要出去吃饭。	We are going out for dinner this evening.
+她每晚睡前读书。	She reads a book every night before bed.
+我通常在星期五去健身房。	I usually go to the gym on Friday.
+他在星期一早上有个会议。	He has a meeting on Monday mornings.
+火车将在几分钟内离开。	The train will be leaving in a few minutes.
+他们马上就到。	They'll be here in a moment.
+我在四周内学会了开车。	I learnt to drive in four weeks.
+火车准时到达。	The train arrived on time.
+我们及时到达车站赶上了火车。	We got to the station in time to catch our train.
+我回家太晚，错过了电视上的比赛。	I got home too late to watch the game on TV.
+我们刚好赶上了火车。	We got to the station just in time for our train.
+我们将在月底收到工资。	We will receive our salary at the end of the month.
+项目将在一月底完成。	The project will be completed at the end of January.
+比赛结束时，观众欢呼。	The crowd cheered at the end of the game.
+电影结尾有一个出人意料的转折。	The movie had a surprising twist at the end of the film.
+课程结束时我们将有一个考试。	We will have an exam at the end of the course.
+音乐会结束时，所有人都鼓掌。	Everyone applauded at the end of the concert.
+最终，我们决定待在家里。	In the end, we decided to stay home.
+起初，我不明白这些说明。	At first, I didn't understand the instructions.
+她在一个房间里学习。	She is studying in a room.
+图书馆在主街上的一栋建筑里。	The library is in a building on Main Street.
+礼物在桌子上的一个盒子里。	The gift is in a box on the table.
+他们在花园里种了花。	They planted flowers in a garden.
+她住在一个小镇里。	She lives in a small town.
+酒店在市中心。	The hotel is in the city centre.
+孩子们在泳池里游泳。	The children are swimming in a pool.
+他们在海里潜水。	They are diving in the sea.
+河里有很多鱼。	There are many fish in the river.
+房间里有一张大桌子。	There is a large table in the room.
+办公室在市中心的那栋楼里。	The office is in the building downtown.
+她喜欢在花园里放松。	She likes to relax in the garden.
+你手里有东西。	You have something in your hand.
+嘴里有食物时不要说话。	Don’t talk with food in your mouth.
+他们在意大利度假。	They spent their holidays in Italy.
+我们在威尼斯参观了许多历史遗址。	We visited many historical sites in Venice.
+他在一个小村庄长大。	He grew up in a small village.
+他们去山里徒步旅行了。	They went hiking in the mountains.
+泳池里飘着一片叶子。	There is a leaf floating in the pool.
+我们度假时在海里游泳。	We swam in the sea during our vacation.
+孩子们喜欢在河里玩。	The kids like to play in the river.
+她在公交车站等候。	She is waiting at the bus stop.
+门口有人。	There is someone at the door.
+在环形交叉路口的第二个出口出去。	Take the second exit at the roundabout.
+她正在桌前工作。	She is working at her desk.
+在交通信号灯处左转。	Turn left at the traffic lights.
+在下一个路口右转。	Turn right at the next junction.
+他们在教堂结婚。	They got married at the church.
+在下一站下车。	Get off the bus at the next stop.
+请在接待处办理入住手续。	Please check in at reception.
+在接待处领取钥匙。	Ask for the key at the reception desk.
+书在地板上。	The book is on the floor.
+他坐在地上。	He sat on the ground.
+我们在草地上野餐。	We had a picnic on the grass.
+他们在海滩上晒太阳。	They sunbathed on the beach.
+她坐在椅子上。	She is sitting on a chair.
+天花板上有一个风扇。	There is a fan on the ceiling.
+你鼻子上有一个斑点。	You have a spot on your nose.
+你的衬衫上有一个污渍。	There is a stain on your shirt.
+墙上有一个钟。	There is a clock on the wall.
+门上有一个标志。	There is a sign on the door.
+答案在第七页。	The answer is on page seven.
+他住在一个小岛上。	He lives on a small island.
+请排成一列站好。	Please stand in a line.
+学生们排成一排坐着。	The students are sitting in a row.
+我们排队等候买票。	We waited in a queue for tickets.
+他们一起在一张照片里。	They are in a picture together.
+她在照片里看起来很开心。	She looks happy in the photo.
+这个故事登在了一份报纸上。	The story was published in a newspaper.
+她登上了一本杂志。	She was featured in a magazine.
+我在一本书里找到了这些信息。	I found the information in a book.
+他在办公室工作。	He works in an office.
+她是市场部的经理。	She is the manager in the marketing department.
+天空中有许多星星。	There are many stars in the sky.
+世界上有许多文化。	There are many cultures in the world.
+他们住在乡下。	They live in the country.
+门在左边。	The door is on the left.
+商店在右边。	The store is on the right.
+接待处在一楼。	The reception is on the ground floor.
+我们的办公室在二楼（英国英语的一楼是美国英语的二楼）。	Our office is on the first floor.
+你能在地图上指给我看它在哪儿吗？	Can you show me where it is on a map?
+这道菜不在菜单上。	The dish is not on the menu.
+答案在第十页。	The answer is on page ten.
+我在一个网站上找到了这些信息。	I found the information on a website.
+这座城市位于一条河上。	The city is located on a river.
+这条路上的交通很繁忙。	There is a lot of traffic on this road.
+这个镇在海岸上。	The town is on the coast.
+我在路上会给你打电话。	I'll call you on the way.
+山顶上有雪。	The mountain has snow at the top of it.
+山谷底部有一个湖。	There is a lake at the bottom of the valley.
+商店在街的尽头。	The store is at the end of the street.
+他坐在车前座。	He is sitting in the front of the car.
+她坐在车后座。	She is sitting in the back of the car.
+老师在教室前面。	The teacher is at the front of the classroom.
+房子后面有一个花园。	There is a garden at the back of the house.
+杂志封面上有一张照片。	There is a picture on the front of the magazine.
+小册子的背面有一张地图。	There is a map on the back of the brochure.
+房间的角落里有一把椅子。	There is a chair in the corner of the room.
+街角有一家店。	There is a shop at the corner of the street.
+他在街角等着。	He is waiting on the corner of the street.
+她还在床上。	She is still in bed.
+他住院做手术。	He is in hospital for surgery.
+罪犯在监狱里。	The criminal is in prison.
+我喜欢周末呆在家里。	I prefer to stay at home on weekends.
+他现在在工作。	He is at work right now.
+孩子们在上学。	The children are at school.
+她在上大学。	She is studying at university.
+他在大学教书。	He teaches at college.
+我很快就到家。	I'll be home soon.
+她现在在家。	She is at home right now.
+我喜欢在家做饭。	I like to cook at home.
+我们在一个聚会上见面。	We met at a party.
+他们在音乐会享受音乐。	They enjoyed the music at the concert.
+他在会议上发表了演讲。	He gave a speech at the conference.
+我们上周参加了一个活动。	We participated in an event last week.
+我们去了国家音乐厅听音乐会。	We went to a concert at the National Concert Hall.
+超市发生了抢劫案。	There was a robbery at the supermarket.
+昨晚我在海伦家。	I was at Helen's house last night.
+昨晚我在海伦家。	I was at Helen's last night.
+她在医生那里有个预约。	She had an appointment at the doctor's.
+他在理发店理了发。	He got a haircut at the hairdresser's.
+海伦家总是很冷。	It's always cold in Helen's house.
+酒店的所有房间都有空调。	All the rooms in the hotel have air conditioning.
+她住在巴黎。	She lives in Paris.
+他们在一个小镇上工作。	They work in a small town.
+他在一个村庄长大。	He grew up in a village.
+她在公交车上读书。	She is reading on a bus.
+我们在去伦敦的火车上相遇。	We met on a train to London.
+他正在乘飞机去纽约。	He is traveling on a plane to New York.
+他们正在船上航行。	They are sailing on a ship.
+我们将乘坐6点45分的火车进城。	We will take the 6.45 train to the city.
+他们在开车。	They are driving in a car.
+她正乘出租车过来。	She is coming in a taxi.
+他骑自行车上班。	He rides to work on a bike.
+她喜欢骑摩托车旅行。	She enjoys traveling on a motorbike.
+他们去骑马了。	They went riding on a horse.
+我们今晚要去电影院。	We are going to the cinema tonight.
+她和朋友们一起来参加聚会。	She came to the party with her friends.
+他们去巴黎度蜜月。	They traveled to Paris for their honeymoon.
+欢迎来到我们家！	Welcome to our home!
+我们计划了一次去山里的旅行。	We planned a trip to the mountains.
+她很喜欢参观博物馆。	She enjoyed her visit to the museum.
+我在上班的路上遇到了一位老朋友。	I met an old friend on my way to work.
+她说她一生中从未看过足球比赛。	She said she had never been to a football match in her life.
+我需要在早上6点之前到达机场。	I need to get to the airport by 6 AM.
+我们将在中午到达伦敦。	We will arrive in London at noon.
+他们昨晚到达日本。	They arrived in Japan last night.
+她准时到达了车站。	She arrived at the station just in time.
+我通常在下午5点回家。	I usually go home at 5 PM.
+他每天都很晚回家。	He comes home late every day.
+我在工作了一天后回到了家。	I got home after a long day at work.
+他们安全到家了。	They arrived home safely.
+我在回家的路上买了一些杂货。	I bought some groceries on the way home.
+请进房间等待医生。	Please go into the room and wait for the doctor.
+我的工资直接打入我的银行账户。	My salary is paid directly into my bank account.
+她上了车然后开走了。	She got in the car and drove away.
+他敲了敲门然后进去了。	He knocked on the door and went in.
+请把文件放进抽屉里。	Please put the documents in the drawer.
+她上了车然后开走了。	She got in the car and drove away.
+我读了信然后把它放回信封里。	I read the letter and put it back in the envelope.
+他下了车，走向房子。	He got out of the car and walked towards the house.
+她上了公交车并找到一个座位。	She got on the bus and found a seat.
+我们在最后一刻上了火车。	We got on the train at the last minute.
+他们上了飞机准备起飞。	They got on the plane and prepared for takeoff.
+我在错误的站点下了公交车。	I got off the bus at the wrong stop.
+确保你在正确的车站下车。	Make sure you get off the train at the correct station.
+我们下了飞机然后通过了海关。	We got off the plane and went through customs.
+他们在雨中踢足球。	They were playing football in the rain.
+她喜欢在阳光下放松。	She loves to relax in the sun.
+我们坐在阴凉处避暑吧。	Let's sit in the shade to avoid the heat.
+他害怕在黑暗中行走。	He was afraid to walk in the dark.
+在恶劣天气下旅行可能很危险。	Traveling in bad weather can be dangerous.
+她精通三种语言。	She is fluent in three languages.
+付款是用美元支付的。	The payment was made in dollars.
+他能用俄语读写。	He can read and write in Russian.
+价格以美元列出。	The price is listed in dollars.
+她一见钟情爱上了这座城市。	She fell in love with the city at first sight.
+他今天心情不好。	He is in a bad mood today.
+她总是心情很好。	She is always in a good mood.
+在我看来，这是最好的选择。	In my opinion, this is the best option.
+比赛正在电视上直播。	The match is being broadcast live on TV.
+我在电视上看到了新闻。	I saw the news on television.
+我在收音机上听到了这首歌。	I heard the song on the radio.
+她正在和朋友通电话。	She is talking to her friend on the phone.
+大楼着火了！	The building is on fire!
+他故意这么做是为了惹她生气。	He did it on purpose to annoy her.
+总体来说，活动很成功。	On the whole, the event was a success.
+他们下周要去度假。	They are going on holiday next week.
+她在夏威夷度假。	She is on vacation in Hawaii.
+他们去山里旅行了。	They went on a trip to the mountains.
+我们要去城市游览。	We are going on a tour of the city.
+他们正在加勒比海巡航。	They are on a cruise in the Caribbean.
+他因公在纽约。	He is in New York on business.
+工人为更高的工资而罢工。	The workers are on strike for better pay.
+她正在节食减肥。	She is on a diet to lose weight.
+他们去西班牙度假了。	They went to Spain for a holiday.
+她在五岁时学会了游泳。	She learned to swim at the age of five.
+汽车以每小时90英里的速度行驶。	The car was speeding at 90 miles an hour.
+水在摄氏100度沸腾。	Water boils at 100 degrees Celsius.
+火车以每小时200公里的速度行驶。	The train is traveling at a speed of 200 kilometers per hour.
+飞机在30,000英尺的高度飞行。	The plane is flying at an altitude of 30,000 feet.
+她不小心拿错了我的包。	She took my bag by mistake.
+他偶然发现了这张老照片。	He found the old photograph by accident.
+我们在咖啡馆偶然相遇。	We met by chance at the cafe.
+他故意打碎了花瓶。	He broke the vase on purpose.
+我们开车去乡下。	We traveled to the countryside by car.
+她喜欢坐火车旅行。	She prefers to travel by train.
+他们乘飞机飞往巴黎。	They flew to Paris by plane.
+我们乘船渡过了河。	We crossed the river by boat.
+货物是通过船运送的。	The goods were transported by ship.
+我乘公交车上班。	I go to work by bus.
+他骑自行车上学。	He rides to school by bike.
+我们徒步游览了这座城市。	We explored the city on foot.
+她通过邮寄发送了信件。	She sent the letter by post.
+你可以在餐厅用卡支付。	You can pay by card at the restaurant.
+他们用支票支付了账单。	They paid the bill by cheque.
+包裹是手工送达的。	The package was delivered by hand.
+他更喜欢付现金。	He prefers to pay cash.
+我可以用现金支付吗？	Can I pay in cash?
+你曾经被狗咬过吗？	Have you ever been bitten by a dog?
+这个节目有数百万人观看。	The programme was watched by millions of people.
+门一定是用钥匙打开的。	The door must have been opened with a key.
+门一定是有人用钥匙打开的。	The door must have been opened by someone with a key.
+我们在课堂上学习了莎士比亚的戏剧。	We studied a play by Shakespeare in class.
+博物馆里有一幅伦勃朗的名画。	There is a famous painting by Rembrandt in the museum.
+她在读托尔斯泰的小说。	She is reading a novel by Tolstoy.
+电灯开关在门旁边。	The light switch is by the door.
+过来坐在我旁边。	Come and sit by me.
+克莱尔的工资增长了百分之十。	Clare's salary has increased by ten per cent.
+卡尔以五米的优势赢得了比赛。	Carl won the race by five metres.
+对技术工人的需求很高。	There is a high demand for skilled workers.
+需要更多负担得起的住房。	There is a need for more affordable housing.
+他的行为一定有原因。	There must be a reason for his behavior.
+吸烟是肺癌的主要原因。	Smoking is a major cause of lung cancer.
+她画了一张家庭的画。	She drew a picture of her family.
+他给我看了他的假期照片。	He showed me a photo of his vacation.
+有一张美丽的日落照片。	There is a beautiful photograph of the sunset.
+你能给我看一下这片区域的地图吗？	Can you show me a map of the area?
+他们讨论了一个行动计划。	They discussed a plan of action.
+她画了一幅风景画。	She made a drawing of the landscape.
+这种方法的一个优点是简单。	An advantage of this method is its simplicity.
+住在城市的一个缺点是噪音。	A disadvantage of living in the city is the noise.
+今年销售额有所增加。	There has been an increase in sales this year.
+公司报告利润下降。	The company reported a decrease in profits.
+游客人数有所增加。	There has been a rise in the number of tourists.
+我们注意到温度下降了。	We noticed a fall in the temperature.
+风暴对农作物造成了严重损害。	The storm caused significant damage to the crops.
+我收到了她的婚礼邀请。	I received an invitation to her wedding.
+我们需要找到解决这个问题的办法。	We need to find a solution to this problem.
+努力工作是成功的关键。	Hard work is the key to success.
+她回答了这个问题。	She gave an answer
+我还没有收到我的电子邮件的回复。	I haven't received a reply to my email.
+他对这个消息的反应令人惊讶。	His reaction to the news was surprising.
+她对工作有积极的态度。	She has a positive attitude to her work.
+他对学习的态度有所改善。	His attitude towards learning has improved.
+她和同事们关系很好。	She has a good relationship with her colleagues.
+与社区有很强的联系。	There is a strong connection with the community.
+他与老朋友保持联系。	He maintained contact with his old friends.
+这两家公司之间有密切的关系。	There is a close relationship between the two companies.
+科学家发现了饮食与健康之间的联系。	Scientists discovered a connection between diet and health.
+双方之间没有直接联系。	There was no direct contact between the parties.
+理论与实践之间存在差异。	There is a difference between theory and practice.

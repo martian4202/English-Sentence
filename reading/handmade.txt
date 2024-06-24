@@ -1,0 +1,190 @@
+; a kitchen full of fancy gadgets	有各式各样小器具的厨房
+; He's always using fancy legal words	他总是使用异常复杂的法律词语
+; fancy restaurants with fancy prices	价格昂贵的豪华餐厅
+; fancy goods	饰物礼品
+; some places do not allow you to back in	有些地方不允许倒着停车
+; They don’t want you to exhaust into apartments windows and facade	他们不想你的尾气进入窗户或者正门
+; Many truck beds and hitches hang over the space	许多卡车的地盘和挂钩是凸出来的
+; a bleak landscape	荒芜的景色
+; a bleak winter's day	阴冷的冬日
+; a bleak prospect	暗淡的前景
+; the house looked grim	这房子显得很凄凉
+; grim news	令人沮丧的消息
+; a gloomy room	昏暗的房间
+; a gloomy expression	忧郁的神情
+; a gloomy picture of the economic future	经济前景的暗淡景象
+; The players sat there with glum looks on their faces	队员们愁眉苦脸地坐在那儿
+; Tesla absolutely cannot be where it is today without Elon's vision	没有Elon的眼界，特斯拉绝不可能来到今日的地位
+; I do a lot of reroutes through the maps	视频期间我做了很多次路线调整
+; The point of this test is to do the lower whacker drive	测试的重点是去跑一下Lower Whacker Drive这条道
+; The rest of this is kind of ad hoc	剩下的（测试）部分是差不多特地安排的
+; Getting a visa isn't as simple as you might suppose.	办签证不像你想的那么容易
+; Prices will go up, I suppose.	我觉得物价将会上涨
+; This combination of qualities is generally supposed to be extremely rare.	一般认为，同时具有这样一些品质极为罕见
+; She had supposed him (to be) very rich.	她原以为他很有钱
+; I had supposed his wife a younger woman.	我原以为他妻子要更年轻
+; I don't suppose for a minute that he'll agree (= I'm sure that he won't).	我认为他决不会同意
+; There is no reason to suppose she's lying.	认为她在说谎完全没道理
+; Suppose flights are fully booked on that day—which other day could we go?	假定那天的航班都订满了，我们还可以在哪天走呢？
+; The theory supposes the existence of life on other planets.	这个理论假定其他行星存在生命
+; Suppose him (to be) dead—what then?	假设他死了，那怎么办？
+; I could take you in the car, I suppose (= but I don't really want to).	要不你坐我的车
+; 'Can I borrow the car?' 'I suppose so.' (= Yes, but I'm not happy about it.)	“我能借这辆车吗？” “应该可以吧”
+; I don't suppose (that) I could have a look at your newspaper, could I?	我能不能看看您的报纸？
+; Suppose we take a later train?	要不我们坐晚一点的火车？
+; The engine doesn't sound like it's supposed to.	发动机听起来不对劲
+; You're not supposed to walk on the grass.	不准践踏草地
+; You were supposed to be here an hour ago!	你本该在一小时以前就到这儿！
+; I thought we were supposed to be paid today.	我以为我们今天会领到薪水呢
+; It requires going over the Chicago River, which takes me over a bridge	这需要我们穿过Chicago River, 过河的时候需要过一座桥
+; He had a really nice camera by the way	话说他的相机不错
+; it took only a moment to dial in the numbers	拨这个号码只用了一点点时间
+; Check the tyre pressure on the dial.	检查一下仪表盘显示的车胎压力
+; you're expected to dial in volume and tone settings	你估计需要调一下音量和音调
+; The language of the article will have to be toned down for the mass market.	这篇文章的措辞必须缓和一下以适合大众市场
+; Fast forward to his inspirational commencement speech	快进到他鼓舞人心的毕业演讲
+; The candles shed a soft glow on her face.	蜡烛在她的脸上映着一层柔光
+; In that very small period, it was telling it to go here	在那一刹那，它说要走这边
+; I was just adding stuff ad hoc	我只是加一些临时的东西
+; When the light turns green, it proceeds forward	等到变绿灯后，它才继续往前走
+; It does exactly what it needs to do	它做了正是它需要做的事儿
+; This is iconic Chicago scenery	这是Chicago标志性的景观
+; You can never drive through Chicago without construction	你永远开不出Chicago如果不经过施工地
+; It finds the gap between her and the other person walking	他找到了她和另外一个正在行人之间的空挡
+; Agian, we are passing by the Chicago theatre.	我们又一次的经过Chicago剧院
+; I did a lot of reroutes during this drive	这一趟我变了很多路线
+; I headed back to suburb later this day.	晚些时候我回到了郊区
+; We urged them to sort out the problem sooner rather than later.	我们敦促他们及早解决那个问题
+; You can see this bus pulling in front	你可以看到这辆车开到我前面来了
+; In the past, it would go into those bus lands	在过去它会开到公交车道上去
+; You shouldn't be yielding to something behind you	你不应该让路给你后面的东西
+; I didn't see the cyclist	我没看到这个骑自行车的人
+; It's debatable whether it's the right thing to do or not	这是不是正确的做法有待商榷
+; It's staying away from the bike lane	它不会去占自行车道
+; The bike lane shares lanes with cars	这个自行车道是和汽车共用的
+; If a bike is there, it will sweave in or out whatsover	如果道上有自行车，它就会在两个车道上来回穿行之类的
+; Many countries favour a presidential system of government.	很多国家选择总统制政府
+; The treaty seems to favour the US.	这项条约似乎偏向美国
+; The warm climate favours many types of tropical plants.	温暖的气候对多种热带植物生长有利
+; shore up confidence in private sector	提振私营产业的信心
+; He argued in favour of a strike.	他据理力争主张罢工
+; He abandoned teaching in favour of a career as a musician.	他弃教从事音乐
+; There were 247 votes in favour (of the motion) and 152 against.	有 247 票赞成（动议），152 票反对
+; I'm all in favour of (= completely support) equal pay for equal work.	我完全支持同工同酬
+; Most of the 'don't knows' in the opinion polls came down in favour of (= eventually chose to support) the Democrats.	在民意测验中多数未作决定的选民最终决定支持民主党人
+; As an examiner, she showed no favour to any candidate.	作为主考人她没有偏袒任何应试者
+; The suggestion to close the road has found favour with (= been supported by) local people.	关闭这条路的建议已得到当地人的支持
+; The programme has lost favour with viewers recently.	近来这个节目已不受观众欢迎
+; Thanks for helping me out. I'll return the favour (= help you because you have helped me) some time.	多谢你帮了我个大忙总有一天我会报答你的
+; I would never ask for any favours from her.	我再也不会请她帮任何忙了
+; I'm going as a favour to Ann, not because I want to.	我去是给安一个面子，而不是我想去
+; I'll ask Steve to take it. He owes me a favour.	我要让史蒂夫接受，他欠我一个人情
+; Do yourself a favour (= help yourself) and wear a helmet on the bike.	要照顾自己，骑车戴上头盔
+; She's not in favour with (= supported or liked by) the media just now.	目前她没有媒体的捧场
+; It seems Tim is back in favour with the boss (= the boss likes him again).	看来蒂姆又赢得了老板的好感
+; I'm killing time in an airport.	我正在机场消磨时间
+; It's aws keynote time	现在是AWS的keynote时间
+; I just unmuted it	我取消了它的静音
+; 'Shall I wait?' 'No, don't bother'.	“要我等一下吗？” “不，别费事了”
+; I don't know why I bother! Nobody ever listens!	我不知道我干吗要浪费时间！根本没人听！
+; Maybe it's naive of me	我可能幼稚了
+; They didn't drag Jassy on the stage to go on about how important security it to them	他们没有把Jassy拉到抬上来继续讲安全对他们有多重要
+; Most people walk at an average rate of 5 kilometres an hour.	大多数人步行的平均速度为每小时 5 公里
+; Figures published today show another fall in the rate of inflation.	今天公布的数字表明通货膨胀速度又一次下降
+; At the rate you work, you'll never finish!	以你工作的速度，你永远也做不完！
+; Local businesses are closing at a/the rate of three a year.	地方企业正在以每年三家的速度关闭
+; a high/low/rising rate of unemployment	高／低／不断增长的失业率
+; the annual crime/divorce rate	年犯罪／离婚率
+; His pulse rate dropped suddenly.	他的脉搏速率突然下降
+; advertising/insurance/postal, etc. rates	广告费、保险费、邮费等
+; a low/high hourly rate of pay	按小时支付的低／高报酬
+; We offer special reduced rates  for students.	我们对学生有特惠价格
+; a fixed-rate mortgage	定额偿还按揭贷款
+; the basic rate of tax	基本税额
+; Well, that's one good piece of news at any rate.	不管怎么说，那是个好消息
+; At this rate, we'll soon be bankrupt.	照此情形，我们很快就会破产
+; The university is highly rated  for its research.	这所大学因其研究工作而受到高度评价
+; They rated him highly as a colleague.	作为同事，他们对他评价甚高
+; Voters continue to rate education high on their list of priorities.	选民继续把教育看作是头等重要的大事
+; The show was rated (as) a success by critics and audiences.	评论家和观众都认为这次演出是成功的
+; The match rated as one of their worst defeats.	这次比赛可以说是他们最为惨重的一次失败
+; The schools were rated according to their exam results.	这些学校是按考试成绩排名次的
+; a top-rated programme	一级项目
+; She is currently rated number two in the world.	她目前排名世界第二
+; a conspiracy theory based on a like about to be vaporized	基于一个点赞的阴谋论即将烟消云散
+; Australian confidence posts biggest weekly fall this year	澳大利亚消费者信心遭遇今年的单周最大跌幅
+; fly science to orbit	将科学活动带到轨道
+; advance our abilities to live and work in space	提高在太空生活和工作的能力
+; on the road of making life multiplanetary	在通往跨行星生命的路上
+; Diesel demand has hits a 26-year low as EV, hydrogen sales boom	柴油需要创26年新低，随着电车、氢能源销售的激增
+; Shawn is under inverstigation	正在面临调查
+; Jury finds Hunter Biden guilty on all three counts.	法官判处Hunter Biden三项罪名都成立
+; GM announces it's trimming its expected sales of all electric vehicles this year by 50%	GM宣布调低50%的今年旗下全电车的预期销量
+; Now the company expected sales of 10，000-20，000 EVs, down from previously announced range of 20k to 30k	现在这家公司预计的电车销量由之前宣布的20，000-30，000之间降到10,000-20,000
+; A tornado damage scar	一次龙卷风的破坏痕迹
+; Items marked with an asterisk can be omitted.	打星号的项目可以删去
+; Prices are marked on the goods.	价格标在商品上
+; The teacher marked her absent (= made a mark by name to show that she was ).	老师在她的名字旁做了个缺课的记号
+; Why have you marked this wrong ?	你为什么批这道题为错？
+; Do not open any mail marked 'Confidential'.	不要打开任何标有 “机密” 的邮件
+; A large purple scar marked his cheek.	他的面颊上有一块大紫疤
+; The surfaces are made from a material that doesn't mark.	这些台面是由不会留下污渍的材料做的
+; The cross marks the spot where body was found.	十字记号标明了发现死尸的地点
+; The route has been marked in red.	路线用红色标明了
+; a ceremony to mark the 50th anniversary of end war	纪念战争结束 50 周年的庆典
+; This speech may mark a change in government policy.	这篇演讲表明政府的政策可能会有变化
+; The agreement marks a new phase in international relations.	这一协议标志着国际关系新时期的到来
+; I hate marking exam papers.	我讨厌阅卷
+; I spend at least six hours a week marking.	我每周至少要花六个小时批改作业
+; a life marked by suffering	痛苦的一生
+; He was marked as an enemy of the poor.	他被列为穷人的敌人
+; Hughes was marking Taylor.	休斯在钉防泰勒
+; Our defence had him closely marked.	我方后卫已经紧紧地钉住了他
+; The children left dirty marks all over the kitchen floor.	孩子们把厨房的地板弄得污渍斑斑
+; a burn / scratch mark	一块灼伤的／抓伤的疤痕
+; Detectives found no marks on the body.	侦探没有在尸体上发现任何痕迹
+; The kids left dirty marks all over the kitchen floor.	孩子们把厨房的地板弄得污迹斑斑
+; blood stains	血迹
+; Her fingerprints were all over the gun.	那支枪上布满了她的指纹
+; She had streaks of grey in her hair.	她头上已是白发绺绺
+; There isn't a speck of dust anywhere in the house.	整间房子一尘不染
+; There were grease spots all over the walls.	墙上满是油渍
+; a horse with white mark on its head	头上有块白斑的马
+; He was about six feet tall, with no distinguishing marks.	他身高约六英尺，没什么特别的记号
+; a white dog with a black patch on its head	头上有一块黑斑的白狗
+; patches of dense fog	团团浓雾
+; The letters 'i' and 'j' have dots over them.	字母 i 和 j 上面都有一点
+; The island is a small green dot on the map.	这个岛在地图上是一个小绿点
+; The horse had a white mark on its head.	这匹马头上有块白斑
+; Which has spots, a leopard or a tiger?	有斑点的是豹还是虎？
+; punctuation marks	标点符号
+; Any piece of silver bearing his mark is extremely valuable.	带有他的印记的每一件银器都极有价值
+; I put a mark in the margin to remind me check figure.	我在页边做了个记号来提醒自己核对一下这个数字
+; On the day of funeral businesses remained closed as a mark respect.	葬礼那天，商户停业以示敬意
+; Such coolness under pressure is the mark of a champion.	在压力下仍能这样保持冷静，这就是冠军相
+; to get a good / poor mark in English	英语得分高／低
+; to give sb a high / low mark	给某人高分／低分
+; What's the pass mark (= you need in order to ) ?	合格分数是多少？
+; I got full marks (= the highest mark possible ) in spelling test.	我在拼写测验中得了个满分
+; 'You're wearing a tie ! ' Full marks for observation.	“你打领带啦！” “你真眼尖，我给你打满分”
+; Unemployment has passed the four million mark.	失业人数已突破四百万大关
+; She was leading at the half - way mark.	赛程到一半时是她领先
+; the Mark II engine	II 型发动机
+; Preheat the oven to gas Mark 6.	将烤箱预热到 6 挡
+; Of the blows delivered, barely half found their mark.	仅有不到半数的出拳击中目标
+; to hit / miss the mark	击中／错过目标
+
+Interesting, it stayed too far right, right there	有意思，这里靠得太右边了
+I'm going to be Chill mode on the highway, and back to Average mode once getting off the high	我在高速上会用Chill模式，然后下高速得时候再调回Average模式
+It definitely should give more room for that person there	它绝对应该再多让一点给在那的人
+It should get off the exit sooner	他应该早一点走这个出口
+make sure it stay on route	确保它是按导航走的
+Once we past the point up ahead	等到我们过了前面那个点
+I still got honked	我还是按喇叭了
+I'm going to mess around the camera angle since I'm not zooming on the screen 我要调一下摄像头的角度，因为不会去放大屏幕
+On new versions, I assume something is going to mess around, unless I've put some miles on it and I know it's going to work well	我会假设新版本会出问题，除非我跑一段时间后知道确实没啥问题
+Like in this spot, I don't see any problem here	想在这个位置，我没发现任何问题
+still not as much as I would like it to be	仍然没有我想要它有的那种效果
+This restaurant is meant to be excellent.	都说这家饭店很棒。
+This is another fight in favour T1.	又是一次T1赚了的团战
+working knowledge of DevOps	对DevOps有基本的掌握

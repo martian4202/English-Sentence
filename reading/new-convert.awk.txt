@@ -1,0 +1,27 @@
+BEGIN {count = 1; start = 1; chinese = ""; english = ""}
+/^[0-9]+\. / {
+    if (start == 0) printf "%s\t%s\n", chinese, english
+    start = 1
+    english = ""
+	chinese = ""
+    next
+}
+/^ +- / {
+	# 处理英文行
+    start = 0
+	switch ($2) {
+	case "A:":
+	case "B:":
+	case "C:":
+	    if (english != "") english=english "<br>"
+		sub(/^ +- [ABC]: /, "")
+		english = english $0
+		break
+	case "X:":
+		sub(/^ +- X: /, "")
+		chinese = $0
+		break
+	}
+   
+}
+END {if (start == 0) printf "%s\t%s\n", chinese, english}

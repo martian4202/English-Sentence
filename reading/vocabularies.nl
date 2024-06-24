@@ -1,0 +1,32 @@
+telemetry
+preordained
+predestined
+dictum
+binomial
+maul
+gung-ho
+stepping stone
+defunct
+epilepsy
+supposed
+dial-up
+bob
+sugarcoat
+chime
+compunction
+jib
+graphene
+expendable
+longitudinal
+curvature
+moratorium
+ordinance
+commencement
+valedictorian
+diatribe
+anathema
+whimper
+bench press
+castrated
+sycophant
+eunuch
